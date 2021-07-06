@@ -1,2 +1,2 @@
-# distance-analyses
-Analyses of bird monitoring data
+# distance-analyses changed to misc-analyses
+Miscellaneous analyses
