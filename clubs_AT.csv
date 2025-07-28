@@ -1,0 +1,11 @@
+club,type,wins,draws,losses,total
+Liverpool,With AT,24,8,8,40
+Arsenal,With AT,20,10,6,36
+United,With AT,23,1,7,31
+City,With AT,15,4,5,24
+Chelsea,With AT,18,6,11,35
+Liverpool,Without AT,168,78,69,315
+Arsenal,Without AT,174,70,75,319
+United,Without AT,180,81,63,324
+City,Without AT,223,55,53,331
+Chelsea,Without AT,186,72,62,320

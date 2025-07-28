@@ -1,0 +1,500 @@
+Sampling site,Lat,long,Elevation,Distance to nearest DS,Habitat Type,Count Type,Species,Count
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Point Count,Black-eared kite,3
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Point Count,Steppe eagle,3
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Point Count,Griffon vulture,7
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Point Count,Himalayan Vulture  ,8
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Point Count,Common kestrel,1
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Point Count,Eurasian Hobby,1
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Line Transect,Steppe eagle,3
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Line Transect,Griffon vulture,7
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Line Transect,Himalayan Vulture  ,7
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Black-eared kite,7
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Steppe eagle,4
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Griffon vulture,8
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Himalayan Vulture  ,9
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Common kestrel,1
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Long-legged Buzzard,3
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,White-eyed Buzzard   ,3
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Crested Serpent Eagle,2
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Common Buzzard,1
+Kalidhar,33.05,74.65,845,28.48,Forest Patches,Road Transect,Peregrine Falcon,1
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Black-eared kite,6
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Egyptian vulture,2
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Steppe eagle,12
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Black kite,5
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Griffon vulture,15
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Himalayan Vulture  ,13
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,Shikra,2
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Point Count,White-rumped Vulture,5
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Black-eared kite,2
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Steppe eagle,4
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Griffon vulture,5
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Himalayan Vulture  ,7
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Black-shouldered Kite,5
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,White-eyed Buzzard   ,1
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Eurasian Hobby,1
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Line Transect,Bonelli's Eagle,1
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Black-eared kite,2
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Steppe eagle,8
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Griffon vulture,5
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Himalayan Vulture  ,6
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Black-shouldered Kite,3
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Shikra,5
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,White-eyed Buzzard   ,1
+Billawar,32.648,75.588,1176,23.01,Forest Patches,Road Transect,Eurasian Hobby,1
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,Black-eared kite,8
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,Steppe eagle,89
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,Griffon vulture,11
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,Himalayan Vulture  ,9
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,Long-legged Buzzard,1
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,White-rumped Vulture,5
+Galak,32.585,75.352,610,0.21,Forest Patches,Point Count,Cinereous Vulture,6
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Black-eared kite,5
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Steppe eagle,10
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Black kite,5
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Himalayan Vulture  ,4
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Black-shouldered Kite,7
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Common kestrel,2
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Long-legged Buzzard,2
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Oriental honey Buzzard,2
+Galak,32.585,75.352,610,0.21,Forest Patches,Line Transect,Eurasian Sparrowhawk,4
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Black-eared kite,7
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Egyptian vulture,5
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Steppe eagle,8
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Black kite,3
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Griffon vulture,3
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Himalayan Vulture  ,7
+Galak,32.585,75.352,610,0.21,Forest Patches,Road Transect,Cinereous Vulture,2
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Black-eared kite,9
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Black kite,5
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Griffon vulture,11
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Himalayan Vulture  ,6
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Black-shouldered Kite,4
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Shikra,3
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Point Count,Common kestrel,2
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Road Transect,Black-eared kite,6
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Road Transect,Black kite,2
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Road Transect,Griffon vulture,8
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Road Transect,Himalayan Vulture  ,6
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Road Transect,Black-shouldered Kite,1
+Nandini WLS,32.851,74.956,610,15.16,Forest Patches,Road Transect,Shikra,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Black-eared kite,4
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Egyptian vulture,5
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Steppe eagle,7
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Griffon vulture,2
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Himalayan Vulture  ,7
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Shikra,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Point Count,Short-toed Snake Eagle,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Egyptian vulture,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Black kite,2
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Griffon vulture,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Himalayan Vulture  ,2
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Shikra,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Long-legged Buzzard,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Line Transect,Booted Eagle,1
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Road Transect,Black-eared kite,3
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Road Transect,Steppe eagle,2
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Road Transect,Himalayan Vulture  ,4
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Road Transect,Shikra,2
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Road Transect,Short-toed Snake Eagle,3
+Jasrota WLS,32.484,75.399,560,7.95,Forest Patches,Road Transect,Booted Eagle,1
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Black-eared kite,3
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Egyptian vulture,4
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Griffon vulture,4
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Himalayan Vulture  ,7
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Common kestrel,1
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Long-legged Buzzard,1
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,White-eyed Buzzard   ,2
+Sarain,32.622,75.097,475,9.81,Forest Patches,Point Count,Oriental honey Buzzard,2
+Sarain,32.622,75.097,475,9.81,Forest Patches,Road Transect,Black-eared kite,1
+Sarain,32.622,75.097,475,9.81,Forest Patches,Road Transect,Egyptian vulture,1
+Sarain,32.622,75.097,475,9.81,Forest Patches,Road Transect,Griffon vulture,2
+Sarain,32.622,75.097,475,9.81,Forest Patches,Road Transect,Himalayan Vulture  ,3
+Sarain,32.622,75.097,475,9.81,Forest Patches,Road Transect,Common kestrel,2
+Sarain,32.622,75.097,475,9.81,Forest Patches,Road Transect,Long-legged Buzzard,2
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Point Count,Black-eared kite,6
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Point Count,Egyptian vulture,4
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Point Count,Black kite,2
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Point Count,Himalayan Vulture  ,5
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Point Count,Black-shouldered Kite,1
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Line Transect,Black-shouldered Kite,2
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Line Transect,Shikra,2
+Bhed Devta,32.793,74.977,447,17.37,Forest Patches,Line Transect,Common kestrel,2
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Point Count,Black-eared kite,5
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Point Count,Egyptian vulture,2
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Point Count,Black kite,2
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Point Count,Griffon vulture,11
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Point Count,Himalayan Vulture  ,8
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Point Count,White-eyed Buzzard   ,1
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Road Transect,Black kite,2
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Road Transect,Black-shouldered Kite,2
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Road Transect,White-eyed Buzzard   ,1
+Badgah (Surinsar),32.781,75.011,632,13.91,Forest Patches,Road Transect,Crested Serpent eagle,3
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Black-eared kite,4
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Egyptian vulture,2
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Steppe eagle,5
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Black kite,1
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Griffon vulture,13
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Himalayan Vulture  ,11
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Point Count,Crested Serpent eagle,3
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Black-eared kite,3
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Egyptian vulture,5
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Black kite,3
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Black-shouldered Kite,3
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Shikra,2
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Oriental honey Buzzard,3
+Bhuttal (Mansar),32.717,75.126,674,1.27,Forest Patches,Road Transect,Crested Serpent eagle,1
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,Egyptian vulture,9
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,Steppe eagle,50
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,Griffon vulture,29
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,Himalayan Vulture  ,11
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,White-rumped Vulture,1
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,Crested Serpent eagle,2
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Point Count,Cinereous vulture,3
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Steppe eagle,5
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Griffon vulture,8
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Himalayan Vulture  ,4
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Common kestrel,2
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Eurasian Marsh harrier,2
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Oriental honey Buzzard,1
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Crested Serpent eagle,2
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Common Buzzard,2
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Hen harrier,2
+Kumbi,32.712,75.108,772,2.16,Forest Patches,Road Transect,Eurasian Hobby,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Black-eared kite,20
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Egyptian vulture,9
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Steppe eagle,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Black kite,11
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Black-shouldered Kite,5
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Common kestrel,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Short-toed Snake Eagle,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Common Buzzard,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Peregrine Falcon,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Point Count,Eurasian Hobby,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Eurasian Marsh harrier,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Long-legged Buzzard,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,White-eyed Buzzard   ,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Booted Eagle,3
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Hen harrier,3
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Eurasian Hobby,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Bonelli’s Eagle,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Line Transect,Greater Spotted Eagle,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Black-eared kite,11
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Egyptian vulture,5
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Black kite,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Black-shouldered Kite,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Common kestrel,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Short-toed Snake Eagle,3
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Crested Serpent eagle,1
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Eastern Imperial Eagle,2
+Ujh Barrage,32.475,75.426,386,10.35,Forest-Farmland Interfaces,Road Transect,Bonelli’s Eagle,1
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Black-eared kite,105
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Egyptian vulture,49
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Steppe eagle,11
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Black kite,5
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Shikra,2
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Oriental honey Buzzard,4
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Peregrine Falcon,5
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Eurasian Sparrowhawk,2
+Nagrota,32.793,74.886,430,9.85,Forest-Farmland Interfaces,Point Count,Bonelli’s Eagle,1
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Black-eared kite,18
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Egyptian vulture,11
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Black kite,21
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Black-shouldered Kite,7
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Shikra,7
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Common kestrel,5
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Eurasian Marsh harrier,4
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Long-legged Buzzard,3
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,White-eyed Buzzard   ,4
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Short-toed Snake Eagle,2
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Booted Eagle,2
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Eastern Imperial Eagle,3
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Point Count,Peregrine Falcon,1
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Black-eared kite,11
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Egyptian vulture,4
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Black kite,8
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Black-shouldered Kite,13
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Common kestrel,7
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Short-toed Snake Eagle,4
+Samba,32.574,75.101,354,7.3,Forest-Farmland Interfaces,Road Transect,Peregrine Falcon,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Black-eared kite,23
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Egyptian vulture,6
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Steppe eagle,3
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Black kite,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Griffon vulture,7
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Himalayan Vulture  ,5
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Black-shouldered Kite,5
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Short-toed Snake Eagle,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Point Count,Common Buzzard,4
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Black-shouldered Kite,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Oriental honey Buzzard,3
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Short-toed Snake Eagle,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Indian spotted Eagle,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,White-rumped Vulture,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Booted Eagle,1
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Crested Serpent eagle,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Common Buzzard,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Eastern Imperial Eagle,4
+Jourian,32.816,74.585,268,19.87,Farmlands,Line Transect,Osprey,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Black-eared kite,12
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Egyptian vulture,4
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Steppe eagle,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Black kite,3
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Black-shouldered Kite,8
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Oriental honey Buzzard,1
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Short-toed Snake Eagle,1
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Indian spotted Eagle,1
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Booted Eagle,1
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Eastern Imperial Eagle,2
+Jourian,32.816,74.585,268,19.87,Farmlands,Road Transect,Peregrine Falcon,1
+Pargwal,32.781,74.587,263,20.26,Farmlands,Point Count,Black-eared kite,4
+Pargwal,32.781,74.587,263,20.26,Farmlands,Point Count,Steppe eagle,8
+Pargwal,32.781,74.587,263,20.26,Farmlands,Point Count,Black kite,2
+Pargwal,32.781,74.587,263,20.26,Farmlands,Point Count,Himalayan Vulture  ,4
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,Black-eared kite,9
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,Egyptian vulture,5
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,Black kite,3
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,Himalayan Vulture  ,2
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,Shikra,2
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,Common kestrel,5
+Pargwal,32.781,74.587,263,20.26,Farmlands,Road Transect,White-eyed Buzzard   ,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Black-eared kite,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Egyptian vulture,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Steppe eagle,8
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Black kite,4
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Black-shouldered Kite,1
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Long-legged Buzzard,1
+Kokerian,32.712,74.752,265,6.99,Farmlands,Point Count,Indian spotted Eagle,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Line Transect,Black-eared kite,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Line Transect,Egyptian vulture,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Line Transect,Shikra,1
+Kokerian,32.712,74.752,265,6.99,Farmlands,Line Transect,Eurasian Marsh harrier,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Line Transect,Long-legged Buzzard,2
+Kokerian,32.712,74.752,265,6.99,Farmlands,Line Transect,Indian spotted Eagle,5
+Kokerian,32.712,74.752,265,6.99,Farmlands,Road Transect,Black-eared kite,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Road Transect,Egyptian vulture,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Road Transect,Shikra,1
+Kokerian,32.712,74.752,265,6.99,Farmlands,Road Transect,Eurasian Marsh harrier,3
+Kokerian,32.712,74.752,265,6.99,Farmlands,Road Transect,Long-legged Buzzard,2
+Kokerian,32.712,74.752,265,6.99,Farmlands,Road Transect,Indian spotted Eagle,5
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,Black-eared kite,11
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,Egyptian vulture,4
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,Steppe eagle,4
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,Black-shouldered Kite,7
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,Common kestrel,4
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,Long-legged Buzzard,2
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Point Count,White-eyed Buzzard   ,4
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Egyptian vulture,1
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Steppe eagle,2
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Black-shouldered Kite,3
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Shikra,3
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Common kestrel,4
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Long-legged Buzzard,3
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Eurasian Hobby,1
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Line Transect,Greater Spotted Eagle,1
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Black-eared kite,7
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Egyptian vulture,4
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Steppe eagle,9
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Black-shouldered Kite,6
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Shikra,2
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Common kestrel,1
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,White-eyed Buzzard   ,3
+Khakriyal,32.352,75.456,289,9.34,Farmlands,Road Transect,Peregrine Falcon,1
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Point Count,Black-eared kite,3
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Point Count,Egyptian vulture,5
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Point Count,Steppe eagle,6
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Point Count,Black-shouldered Kite,3
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Point Count,Shikra,2
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Point Count,Eurasian Hobby,2
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Road Transect,Black-eared kite,17
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Road Transect,Egyptian vulture,5
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Road Transect,Steppe eagle,4
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Road Transect,Black kite,4
+Phallian Mandal,32.695,74.792,275,4.24,Farmlands,Road Transect,Black-shouldered Kite,7
+Koulpur,32.493,74.999,303,6.82,Farmlands,Point Count,Black-eared kite,8
+Koulpur,32.493,74.999,303,6.82,Farmlands,Point Count,Egyptian vulture,1
+Koulpur,32.493,74.999,303,6.82,Farmlands,Point Count,Griffon vulture,3
+Koulpur,32.493,74.999,303,6.82,Farmlands,Point Count,Shikra,3
+Koulpur,32.493,74.999,303,6.82,Farmlands,Point Count,Long-legged Buzzard,1
+Koulpur,32.493,74.999,303,6.82,Farmlands,Point Count,Short-toed Snake Eagle,2
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Black-eared kite,6
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Egyptian vulture,5
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Black kite,6
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Shikra,5
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Long-legged Buzzard,3
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,White-eyed Buzzard   ,2
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Oriental honey Buzzard,2
+Koulpur,32.493,74.999,303,6.82,Farmlands,Road Transect,Short-toed Snake Eagle,3
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Black-eared kite,3
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Egyptian vulture,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Steppe eagle,9
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Black kite,9
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Black-shouldered Kite,9
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Shikra,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Common kestrel,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Eurasian Marsh harrier,4
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Oriental honey Buzzard,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Point Count,Indian spotted Eagle,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,Shikra,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,Eurasian Marsh harrier,5
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,Long-legged Buzzard,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,White-eyed Buzzard   ,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,Indian spotted Eagle,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,Eastern Imperial Eagle,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Line Transect,Hen harrier,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Black-eared kite,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Egyptian vulture,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Steppe eagle,5
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Black kite,4
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Black-shouldered Kite,13
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Shikra,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Common kestrel,3
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Eurasian Marsh harrier,1
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Long-legged Buzzard,3
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,White-eyed Buzzard   ,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Oriental honey Buzzard,4
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Indian spotted Eagle,2
+Gharana cultivation fields,32.564,74.709,263,20.48,Farmlands,Road Transect,Eastern Imperial Eagle,2
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Point Count,Black-eared kite,42
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Point Count,Egyptian vulture,9
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Point Count,Steppe eagle,4
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Point Count,Black kite,14
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Black-eared kite,60
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Egyptian vulture,21
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Steppe eagle,7
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Black kite,18
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Shikra,4
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Oriental honey Buzzard,3
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Booted Eagle,3
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Line Transect,Peregrine Falcon,3
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Road Transect,Black-eared kite,34
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Road Transect,Egyptian vulture,14
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Road Transect,Steppe eagle,3
+Niki Tawi,32.716,74.826,289,0.44,Urban Builtup,Road Transect,Black kite,8
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Point Count,Black-eared kite,144
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Point Count,Egyptian vulture,29
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Point Count,Steppe eagle,3
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Point Count,Black kite,4
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Road Transect,Black-eared kite,56
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Road Transect,Egyptian vulture,38
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Road Transect,Steppe eagle,2
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Road Transect,Black kite,18
+Bari Brahmana,32.646,74.913,332,0.2,Urban Builtup,Road Transect,Shikra,1
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Point Count,Black-eared kite,74
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Point Count,Egyptian vulture,37
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Point Count,Steppe eagle,8
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Point Count,Black kite,18
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Point Count,Shikra,1
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Road Transect,Black-eared kite,46
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Road Transect,Egyptian vulture,15
+Akhnoor,32.912,74.752,304,10.52,Urban Builtup,Road Transect,Black kite,11
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Point Count,Black-eared kite,104
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Point Count,Egyptian vulture,57
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Point Count,Steppe eagle,8
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Point Count,Black kite,31
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Road Transect,Black-eared kite,15
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Road Transect,Egyptian vulture,20
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Road Transect,Black kite,15
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Road Transect,Shikra,2
+Vijaypur,32.563,75.04,340,1.86,Urban Builtup,Road Transect,Peregrine Falcon,2
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Line Transect,Black-eared kite,18
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Line Transect,Egyptian vulture,6
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Line Transect,Black kite,13
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Line Transect,Shikra,3
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Line Transect,Oriental honey Buzzard,7
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Road Transect,Black-eared kite,10
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Road Transect,Egyptian vulture,4
+Raika,32.729,74.91,515,9.2,Green belts and avenue plantation,Road Transect,Black kite,7
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Point Count,Black-eared kite,7
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Point Count,Steppe eagle,3
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Line Transect,Black-eared kite,10
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Line Transect,Steppe eagle,5
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Line Transect,Black kite,7
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Road Transect,Black-eared kite,10
+Mahamaya,32.73,74.887,402,5.82,Green belts and avenue plantation,Road Transect,Black kite,10
+Manda,32.77,74.869,551,6.85,Green belts and avenue plantation,Point Count,Black-eared kite,21
+Manda,32.77,74.869,551,6.85,Green belts and avenue plantation,Line Transect,Black-eared kite,26
+Manda,32.77,74.869,551,6.85,Green belts and avenue plantation,Line Transect,Steppe eagle,5
+Manda,32.77,74.869,551,6.85,Green belts and avenue plantation,Line Transect,Black kite,7
+Manda,32.77,74.869,551,6.85,Green belts and avenue plantation,Line Transect,Shikra,1
+Manda,32.77,74.869,551,6.85,Green belts and avenue plantation,Road Transect,Black-eared kite,37
+Jammu University,32.72,74.867,317,3.84,Green belts and avenue plantation,Line Transect,Black-eared kite,67
+Jammu University,32.72,74.867,317,3.84,Green belts and avenue plantation,Line Transect,Egyptian vulture,12
+Jammu University,32.72,74.867,317,3.84,Green belts and avenue plantation,Line Transect,Steppe eagle,2
+Jammu University,32.72,74.867,317,3.84,Green belts and avenue plantation,Line Transect,Black kite,19
+Jammu University,32.72,74.867,317,3.84,Green belts and avenue plantation,Line Transect,Shikra,9
+Jammu University,32.72,74.867,317,3.84,Green belts and avenue plantation,Line Transect,Booted Eagle,5
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Black-eared kite,25
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Egyptian vulture,8
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Steppe eagle,11
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Black kite,10
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Griffon vulture,13
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Himalayan Vulture  ,12
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,Long-legged Buzzard,2
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,White-eyed Buzzard   ,3
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Point Count,White-rumped Vulture,3
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,Common kestrel,1
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,Long-legged Buzzard,1
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,White-eyed Buzzard   ,2
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,Short-toed Snake Eagle,2
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,Indian spotted Eagle,1
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,Booted Eagle,2
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Line Transect,Greater Spotted Eagle,1
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Road Transect,Black-eared kite,12
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Road Transect,Egyptian vulture,2
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Road Transect,Steppe eagle,5
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Road Transect,Black kite,6
+Dayala Chak,32.462,75.312,362,0.96,Water bodies and buffer zones,Road Transect,Short-toed Snake Eagle,2
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Point Count,Black-eared kite,7
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Point Count,Egyptian vulture,5
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Point Count,Steppe eagle,3
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Point Count,Shikra,1
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Black-eared kite,10
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Steppe eagle,6
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Black kite,2
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Shikra,9
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Eurasian Marsh harrier,5
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Short-toed Snake Eagle,1
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Indian spotted Eagle,1
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Peregrine Falcon,1
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Line Transect,Tawny Eagle,3
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Road Transect,Black-eared kite,19
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Road Transect,Egyptian vulture,2
+Basantar,32.514,75.038,313,3.97,Water bodies and buffer zones,Road Transect,Steppe eagle,1
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Black-eared kite,10
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Egyptian vulture,5
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Black kite,4
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Griffon vulture,4
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Himalayan Vulture  ,1
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Black-shouldered Kite,4
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Shikra,1
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Common kestrel,4
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Point Count,Long-legged Buzzard,1
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Line Transect,Shikra,3
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Line Transect,Common kestrel,3
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Line Transect,Long-legged Buzzard,2
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Line Transect,Common Buzzard,2
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Road Transect,Egyptian vulture,2
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Road Transect,Black kite,1
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Road Transect,Griffon vulture,2
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Road Transect,Black-shouldered Kite,1
+Jourian,32.831,74.615,268,17.05,Water bodies and buffer zones,Road Transect,Shikra,4
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Steppe eagle,7
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Black kite,12
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Black-shouldered Kite,7
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Shikra,5
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Common kestrel,10
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Eurasian Marsh harrier,10
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Long-legged Buzzard,5
+Gharana Wetland,32.541,74.69,263,23.59,Water bodies and buffer zones,Point Count,Indian spotted Eagle,5
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Black-eared kite,5
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Egyptian vulture,4
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Steppe eagle,2
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Black kite,2
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Himalayan Vulture  ,6
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Black-shouldered Kite,1
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Shikra,3
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Peregrine Falcon,2
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Point Count,Osprey,3
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Road Transect,Black-eared kite,3
+Purthu (Basohli),32.48,75.775,525,24.78,Water bodies and buffer zones,Road Transect,Egyptian vulture,2

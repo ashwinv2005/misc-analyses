@@ -1,0 +1,176 @@
+rep.id,age,sex,severity,Date of initial diagnosis,Date of testing at BBH(corrected),Result,"Test(antigen, Truenat, RTPCR)",Ct-E gene,Ct- N gene,Ct-Orf1a gene,date.coll,date.test,days,nps,saliva,truth,Comments
+CBP0025,55,Female,Mild,12/12/2020,12/12/2020,Negative,Test done elsewhere,NA,NA,NA,17/12/2020,18/12/2020,1,Negative,Negative,Negative,NA
+CBP0026,59,Male,Mild,12/12/2020,12/12/2020,Negative,Test done elsewhere,NA,NA,NA,17/12/2020,18/12/2020,1,Negative,Negative,Negative,NA
+CBP0027,55,Female,Mild,1/10/2020,12/10/2020,Positive,RT-PCR,27,,26.1,17/12/2020,18/12/2020,1,Negative,Negative,Negative,NA
+CBP0028,69,Male,Mild,13/12/2020,13/12/2020,Positive,ANTIGEN CARD,NA,NA,NA,17/12/2020,18/12/2020,1,Positive,Negative,Positive,NA
+CBP0029,68,Female,Mild,5/12/2020,12/5/2020,Positive,ANTIGEN CARD,NA,NA,NA,17/12/2020,18/12/2020,1,Positive,Negative,Positive,NA
+CBP0030,30,Male,Mild,11/12/2020,12/10/2020,Negative,RT-PCR,31.4,,30.4,17/12/2020,18/12/2020,1,Negative,Negative,Negative,Sputum
+CBP0031,77,Male,Mild,27/11/2020,27/11/2020,Negative,ANTIGEN CARD,NA,NA,NA,17/12/2020,18/12/2020,1,Negative,Negative,Negative,Sputum
+CBP0032,49,Male,Mild,15/12/2020,15/12/2020,Positive,ANTIGEN CARD,NA,NA,NA,17/12/2020,18/12/2020,1,Positive,Positive,Positive,Sputum
+CBP0033,51,Male,Mild,25/11/2020,25/12/2020,Negative,RT-PCR,NA,NA,NA,17/12/2020,18/12/2020,1,Negative,Negative,Negative,Sputum
+CBP0034,49,Male,Mild,15/12/2020,15/12/2020,Positive,ANTIGEN CARD,NA,NA,NA,17/12/2020,18/12/2020,1,Positive,Positive,Positive,NA
+CBP0035,68,Male,Mild,14/12/2020,14/12/2020,Positive,ANTIGEN CARD,NA,NA,NA,17/12/2020,18/12/2020,1,Positive,Positive,Positive,NA
+CBP0036,31,Female,Asymptomatic,18/12/2020,18/12/2020,Negative,TRUENAT,NA,NA,NA,18/12/2020,20/12/2020,2,Negative,Negative,Negative,NA
+CBP0037,45,Male,Mild,22/12/2021,23/12/2020,Negative,TRUENAT,NA,NA,NA,21/12/2020,23/12/2020,2,Positive,Negative,Positive,NA
+CBP0038,51,Male,Mild,22/12/2020,23/12/2020,Positive,TRUENAT,27.17,,29.5,21/12/2020,23/12/2020,2,Positive,Negative,Positive,Sputum
+CBP0039,66,Male,Mild,23/12/2020,23/12/2020,Negative,Antigen card test,NA,NA,NA,28/12/2020,30/12/2020,2,Negative,Positive,Positive,NA
+CBP0041,25,Male,Mild,29/12/2020,29/12/2020,Positive,Antigen card test,NA,NA,NA,30/12/2020,31/12/2020,1,Positive,Negative,Positive,NA
+CBP0042,69,Male,Mild,29/12/2020,29/12/2020,Positive,Antigen card test,NA,NA,NA,30/12/2020,31/12/2020,1,Positive,Negative,Positive,NA
+CBP0043,58,Male,Mild,1/1/2021,1/1/2021,Positive,Antigen card test,NA,NA,NA,4/1/2021,5/1/2021,1,Positive,Positive,Positive,Sputum
+CBP0044,40,Male,Mild,2/1/2021,2/1/2021,Positive,Antigen card test,NA,NA,NA,4/1/2021,5/1/2021,1,Positive,Positive,Positive,Sputum
+CBP0045,71,Male,Mild,3/1/2021,3/1/2021,Positive,Antigen card test,NA,NA,NA,4/1/2021,5/1/2021,1,Positive,Positive,Positive,Sputum
+CBP0046,74,Female,Mild,26/12/2020,26/12/2020,Positive,Antigen card test,NA,NA,NA,28/12/2020,30/12/2020,2,Positive,Positive,Positive,NA
+CBP0047,58,Female,Mild,25/12/2020,25/12/2020,Positive,Antigen card test,NA,NA,NA,28/12/2020,30/12/2020,2,Positive,Positive,Positive,NA
+CBP0048,49,Male,Mild,22/12/2020,22/12/2020,Negative,TRUENAT,NA,NA,NA,28/12/2020,30/12/2020,2,Negative,Negative,Negative,Sputum
+CBP0049,60,Male,Mild,26/12/2020,26/12/2020,Positive,"Test done elsewhere, report ot available",NA,NA,NA,28/12/2020,30/12/2020,2,Positive,Negative,Positive,Sputum
+CBP0050,45,Male,Mild,28/12/2020,22/12/2020,Negative,Antigen card test,NA,NA,NA,28/12/2020,30/12/2020,2,Negative,Positive,Positive,NA
+CBP0052,72,Male,Mild,4/1/2021,4/1/2021,Positive,Antigen card test,NA,NA,NA,4/1/2021,5/1/2021,1,Positive,Positive,Positive,Sputum
+CBP0058,72,Male,Mild,11/1/2021,11/1/2021,Negative,RT-PCR,NA,NA,NA,12/1/2021,13/01/2021,1,Negative,Negative,Negative,Sputum
+CBP0059,68,Female,Mild,8/1/2021,8/1/2021,Negative,RT-PCR,NA,NA,NA,12/1/2021,13/01/2021,1,Negative,Negative,Negative,Sputum
+CBP0060,80,Male,Mild,8/1/2021,9/1/2021,Negative,Antigen card tes,NA,NA,NA,12/1/2021,13/01/2021,1,Negative,Negative,Negative,NA
+CBP0061,52,Male,Mild,8/1/2021,12/1/2021,Positive,RT-PCR,NA,NA,NA,12/1/2021,13/01/2021,1,Positive,Negative,Positive,Sputum
+CBP0062,36,Male,Mild,9/1/2021,9/1/2021,Negative,RT-PCR,NA,NA,NA,12/1/2021,13/01/2021,1,Negative,Negative,Negative,NA
+CBP0063,41,Male,Mild,18/01/2021,18/01/2021,Negative,RT-PCR,NA,NA,NA,20/01/2021,21/01/2021,1,Negative,Negative,Negative,NA
+CBP0064,66,Female,Mild,14/01/2021,25/01/2021,Negative,Antigen card test,NA,NA,NA,25/01/2021,26/01/2021,1,Negative,Positive,Positive,NA
+CBP0066,60,Male,Mild,31/01/2021,31/01/2021,Positive,Antigen card test,NA,NA,NA,2/2/2021,3/2/2021,1,Positive,Negative,Positive,NA
+CBP0068,48,Female,Mild,31/01/2021,31/01/2021,Negative,Antigen card test,NA,NA,NA,2/2/2021,3/2/2021,1,Negative,Negative,Negative,NA
+CBP0069,50,Male,Mild,6/2/2021,6/2/2021,Positive,Antigen card test,NA,NA,NA,8/2/2021,9/2/2021,1,Positive,Positive,Positive,NA
+CBP0070,64,Male,Mild,10/2/2021,18/02/2021,Positive,RT-PCR,28.5,,27.83,22/02/2021,23/02/2021,1,Positive,Positive,Positive,NA
+CBP0071,68,Female,Moderate,19/02/2021,19/02/2021,Negative,Antigen card test,NA,NA,NA,22/02/2021,23/02/2021,1,Negative,Negative,Negative,NA
+CBP0072,57,Female,Asymptomatic,3/3/2021,3/3/2021,Negative,Rapid Antigen card,NA,NA,NA,3/3/2021,4/3/2021,1,Negative,Negative,Negative,NA
+CBP0073,23,Male,Asymptomatic,3/3/2021,3/3/2021,Negative,Rapid Antigen card,NA,NA,NA,3/3/2021,4/3/2021,1,Negative,Negative,Negative,NA
+CBP0074,75,Female,Asymptomatic,3/3/2021,3/3/2021,Negative,Rapid Antigen card,NA,NA,NA,3/3/2021,4/3/2021,1,Negative,Negative,Negative,NA
+CBP0075,75,Male,Asymptomatic,4/3/2021,3/3/2021,Negative,Rapid Antigen card,NA,NA,NA,3/3/2021,4/3/2021,1,Negative,Negative,Negative,NA
+CBP0076,27,Female,Asymptomatic,4/3/2021,4/3/2021,Negative,RT-PCR,NA,NA,NA,4/3/2021,4/3/2021,0,Negative,Negative,Negative,NA
+CBP0077,34,Female,Asymptomatic,5/3/2021,4/3/2021,Negative,RT-PCR,NA,NA,NA,4/3/2021,4/3/2021,0,Negative,Negative,Negative,NA
+CBP0078,36,Male,Asymptomatic,5/3/2021,5/3/2021,Negative,RT-PCR,NA,NA,NA,5/3/2021,7/3/2021,2,Negative,Negative,Negative,NA
+CBP0079,35,Female,Asymptomatic,6/3/2021,5/3/2021,Negative,RT-PCR,NA,NA,NA,5/3/2021,7/3/2021,2,Negative,Negative,Negative,NA
+CBP0080,16,Male,Asymptomatic,6/3/2021,5/3/2021,Negative,RT-PCR,NA,NA,NA,5/3/2021,7/3/2021,2,Negative,Negative,Negative,NA
+CBP0081,51,Male,Asymptomatic,6/3/2021,5/3/2021,Negative,RT-PCR,NA,NA,NA,5/3/2021,7/3/2021,2,Negative,Negative,Negative,NA
+CBP0082,20,Female,Asymptomatic,6/3/2021,8/3/2021,Negative,RT-PCR,NA,NA,NA,8/3/2021,9/3/2021,1,Negative,Negative,Negative,NA
+CBP0083,53,Female,Asymptomatic,9/3/2021,8/3/2021,Negative,RT-PCR,NA,NA,NA,8/3/2021,9/3/2021,1,Negative,Negative,Negative,NA
+CBP0084,24,Male,Asymptomatic,9/3/2021,8/3/2021,Negative,RT-PCR,NA,NA,NA,8/3/2021,9/3/2021,1,Negative,Negative,Negative,NA
+CBP0085,26,Male,Asymptomatic,9/3/2021,8/3/2021,Negative,RT-PCR,NA,NA,NA,8/3/2021,9/3/2021,1,Negative,Negative,Negative,NA
+CBP0086,20,Male,Asymptomatic,9/3/2021,8/3/2021,Negative,RT-PCR,NA,NA,NA,8/3/2021,9/3/2021,1,Negative,Negative,Negative,NA
+CBP0087,29,Male,Asymptomatic,9/3/2021,9/3/2021,Negative,RT-PCR,NA,NA,NA,9/3/2021,10/3/2021,1,Negative,Negative,Negative,NA
+CBP0088,57,Male,Asymptomatic,10/3/2021,9/3/2021,Negative,RT-PCR,NA,NA,NA,9/3/2021,10/3/2021,1,Negative,Negative,Negative,NA
+CBP0089,39,Male,Asymptomatic,10/3/2021,10/3/2021,Negative,RT-PCR,NA,NA,NA,10/3/2021,12/3/2021,2,Negative,Negative,Negative,NA
+CBP0090,28,Female,Asymptomatic,11/3/2021,10/3/2021,Negative,RT-PCR,NA,NA,NA,10/3/2021,12/3/2021,2,Negative,Negative,Negative,NA
+CBP0091,19,Female,Asymptomatic,11/3/2021,10/3/2021,Negative,RT-PCR,NA,NA,NA,10/3/2021,12/3/2021,2,Negative,Negative,Negative,NA
+CBP0092,27,Female,Asymptomatic,11/3/2021,15/03/2021,Negative,RT-PCR,NA,NA,NA,15/03/2021,16/03/2021,1,Negative,Negative,Negative,NA
+CBP0093,25,Female,Asymptomatic,16/03/2021,15/03/2021,Negative,RT-PCR,NA,NA,NA,15/03/2021,16/03/2021,1,Negative,Negative,Negative,NA
+CBP0094,39,Female,Asymptomatic,16/03/2021,15/03/2021,Negative,RT-PCR,NA,NA,NA,15/03/2021,16/03/2021,1,Negative,Negative,Negative,NA
+CBP0095,44,Male,Asymptomatic,16/03/2021,15/03/2021,Negative,RT-PCR,NA,NA,NA,15/03/2021,16/03/2021,1,Negative,Negative,Negative,NA
+CBP0096,57,Female,Symptomatic,16/03/2021,16/03/2021,Positive,RT-PCR,34,34,36,16/03/2021,17/03/2021,1,Positive,Positive,Positive,NA
+CBP0097,37,Male,Symptomatic,17/03/2021,16/03/2021,Negative,RT-PCR,NA,NA,NA,16/03/2021,17/03/2021,1,Positive,Positive,Positive,NA
+CBP0098,31,Female,Symptomatic,17/03/2021,16/03/2021,Negative,RT-PCR,NA,NA,NA,16/03/2021,17/03/2021,1,Negative,Negative,Negative,NA
+CBP0099,22,Female,Asymptomatic,17/03/2021,16/03/2021,Negative,RT-PCR,NA,NA,NA,16/03/2021,17/03/2021,1,Inconclusive,Negative,Inconclusive,NA
+CBP0100,35,Female,Symptomatic,17/03/2021,22/03/2021,Negative,RT-PCR,NA,NA,NA,22/03/2021,24/03/2021,2,Negative,Negative,Negative,NA
+CBP0101,39,Male,Symptomatic,23/03/2021,22/03/2021,Positive,RT-PCR,NA,NA,NA,22/03/2021,24/03/2021,2,Negative,Negative,Negative,NA
+CBP0102,30,Male,Asymptomatic,23/03/2021,22/03/2021,Negative,RT-PCR,NA,NA,NA,22/03/2021,24/03/2021,2,Negative,Negative,Negative,NA
+CBP0104,65,Male,Symptomatic,23/03/2021,22/03/2021,Positive,RT-PCR,23,,23,22/03/2021,24/03/2021,2,Inconclusive,Positive,Positive,NA
+CBP0105,45,Male,Symptomatic,23/03/2021,22/03/2021,Positive,RT-PCR,NA,NA,NA,22/03/2021,24/03/2021,2,Positive,Positive,Positive,NA
+CBP0106,41,Male,Symptomatic,23/03/2021,22/03/2021,Positive,Antigen card test,NA,NA,NA,22/03/2021,24/03/2021,2,Negative,Negative,Negative,NA
+CBP0107,39,Male,Asymptomatic,23/03/2021,24/03/2021,Positive,Antigen card test,NA,NA,NA,24/03/2021,26/03/2021,2,Negative,Negative,Negative,NA
+CBP0108,25,Female,Asymptomatic,23/03/2021,24/03/2021,Negative,RT-PCR,NA,NA,NA,24/03/2021,26/03/2021,2,Negative,Negative,Negative,NA
+CBP0109,70,Female,Asymptomatic,25/03/2021,24/03/2021,Negative,RT-PCR,NA,NA,NA,24/03/2021,26/03/2021,2,Negative,Negative,Negative,NA
+CBP0111,45,Female,Symptomatic,25/03/2021,24/03/2021,Positive,Antigen card test,NA,NA,NA,24/03/2021,26/03/2021,2,Positive,Positive,Positive,NA
+CBP0112,37,Male,Symptomatic,25/03/2021,24/03/2021,Positive,Antigen card test,NA,NA,NA,24/03/2021,26/03/2021,2,Negative,Positive,Positive,NA
+CBP0114,28,Male,Asymptomatic,25/03/2021,25/03/2021,Negative,RT-PCR,NA,NA,NA,25/03/2021,26/03/2021,1,Positive,Positive,Positive,NA
+CBP0115,48,Male,Asymptomatic,25/03/2021,25/03/2021,Negative,RT-PCR,NA,NA,NA,25/03/2021,26/03/2021,1,Negative,Negative,Negative,NA
+CBP0116,38,Female,Mild,NA,26/03/2021,Positive,NA,NA,NA,NA,26/03/2021,29/03/2021,3,Positive,Negative,Positive,NA
+CBP0117,43,Female,Asymptomatic,NA,30/03/2021,Positive,NA,NA,NA,NA,30/03/2021,2/4/2021,3,Positive,Positive,Positive,NA
+CBP0119,42,Male,Asymptomatic,NA,30/03/2021,Positive,NA,NA,NA,NA,30/03/2021,2/4/2021,3,Positive,Positive,Positive,NA
+CBP0120,50,Male,Asymptomatic,NA,30/03/2021,Negative,NA,NA,NA,NA,30/03/2021,2/4/2021,3,Negative,Negative,Negative,NA
+CBP0121,20,Male,Asymptomatic,NA,30/03/2021,Negative,NA,NA,NA,NA,30/03/2021,2/4/2021,3,Negative,Negative,Negative,NA
+CBP0122,28,Male,Asymptomatic,NA,31/03/2021,Negative,NA,NA,NA,NA,31/03/2021,2/4/2021,2,Negative,Negative,Negative,NA
+CBP0125,78,Male,Asymptomatic,NA,31/03/2021,Positive,NA,NA,NA,NA,31/03/2021,2/4/2021,2,Positive,Positive,Positive,NA
+CBP0126,38,Female,Asymptomatic,NA,6/4/2021,Negative,NA,NA,NA,NA,6/4/2021,7/4/2021,1,Negative,Negative,Negative,NA
+CBP0127,34,Female,Asymptomatic,NA,6/4/2021,Negative,NA,NA,NA,NA,6/4/2021,7/4/2021,1,Negative,Negative,Negative,NA
+CBP0128,29,Male,Asymptomatic,NA,6/4/2021,Positive,NA,NA,NA,NA,6/4/2021,7/4/2021,1,Positive,Positive,Positive,NA
+CBP0129,20,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0132,19,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0133,20,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0134,20,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0135,20,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0136,22,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0137,20,Female,Asymptomatic,NA,7/4/2021,Negative,NA,NA,NA,NA,7/4/2021,9/4/2021,2,Negative,Negative,Negative,NA
+CBP0141,35,Male,Symptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Positive,Positive,Positive,NA
+CBP0142,21,Male,Asymptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Negative,Negative,Negative,NA
+CBP0144,29,Female,Asymptomatic,NA,8/4/2021,Negative,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Negative,Negative,Negative,NA
+CBP0145,49,Male,Symptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Positive,Positive,Positive,NA
+CBP0146,52,Male,Symptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Positive,Positive,Positive,NA
+CBP0148,39,Female,Symptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Positive,Positive,Positive,NA
+CBP0149,53,Female,Symptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Positive,Positive,Positive,NA
+CBP0151,41,Male,Symptomatic,NA,8/4/2021,Positive,NA,NA,NA,NA,8/4/2021,9/4/2021,1,Positive,Positive,Positive,NA
+CBP0152,53,Male,Symptomatic,NA,13/04/2021,Positive,NA,NA,NA,NA,13/04/2021,18/04/2021,5,Positive,Positive,Positive,NA
+CBP0154,60,Male,Symptomatic,NA,13/04/2021,Positive,NA,NA,NA,NA,13/04/2021,18/04/2021,5,Negative,Negative,Negative,NA
+CBP0155,70,Male,Symptomatic,NA,13/04/2021,Positive,NA,NA,NA,NA,13/04/2021,18/04/2021,5,Negative,Negative,Negative,NA
+CBP0156,51,Male,Symptomatic,NA,15/04/2021,Positive,NA,NA,NA,NA,15/04/2021,18/04/2021,3,Positive,Positive,Positive,NA
+CBP0157,40,Male,Symptomatic,NA,15/04/2021,Positive,NA,NA,NA,NA,15/04/2021,18/04/2021,3,Positive,Negative,Positive,NA
+CBP0158,65,Male,Symptomatic,NA,15/04/2021,Positive,NA,NA,NA,NA,15/04/2021,18/04/2021,3,Negative,Negative,Negative,NA
+CBP0159,48,Male,Symptomatic,NA,15/04/2021,Positive,NA,NA,NA,NA,15/04/2021,18/04/2021,3,Positive,Negative,Positive,NA
+CBP0162,27,Male,Symptomatic,NA,17/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Negative,Negative,Negative,NA
+CBP0163,29,Female,Symptomatic,NA,17/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Negative,Positive,NA
+CBP0165,28,Male,Symptomatic,NA,19/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0166,30,Male,Symptomatic,NA,19/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0168,68,Male,Symptomatic,NA,19/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Negative,Positive,NA
+CBP0170,41,Female,Symptomatic,NA,19/04/2021,Negative,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0172,24,Female,Symptomatic,NA,19/04/2021,Negative,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0173,30,Female,Symptomatic,NA,19/04/2021,Negative,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Negative,Positive,NA
+CBP0174,24,Female,Symptomatic,NA,19/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0175,25,Female,Symptomatic,NA,19/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0176,58,Female,Symptomatic,NA,19/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Positive,Positive,NA
+CBP0177,52,Male,Symptomatic,NA,20/04/2021,Positive,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Positive,Inconclusive,Positive,NA
+CBP0178,30,Male,Symptomatic,NA,20/04/2021,Negative,NA,NA,NA,NA,20/04/2021,21/04/2021,1,Negative,Negative,Negative,NA
+CBP195,37,Male,Symptomatic,NA,20/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Positive,Inconclusive,Positive,NA
+CBP196,36,Male,Symptomatic,NA,15/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Positive,Positive,Positive,NA
+CBP198,35,Female,Symptomatic,NA,14/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Positive,Positive,Positive,NA
+CBP205,40,Female,Symptomatic,NA,27/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Negative,Negative,Negative,NA
+CBP206,34,Male,Symptomatic,NA,17/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Negative,Negative,Negative,NA
+CBP207,35,Male,Symptomatic,NA,20/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Negative,Negative,Negative,NA
+CBP208,57,Female,Symptomatic,NA,23/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Positive,Positive,Positive,NA
+CBP209,23,Female,Symptomatic,NA,18/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Negative,Negative,Negative,NA
+CBP210,33,Female,Symptomatic,NA,17/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Negative,Positive,Positive,NA
+CBP211,34,Female,Symptomatic,NA,24/04/2021,Positive,NA,NA,NA,NA,26/04/2021,10/5/2021,14,Positive,Inconclusive,Positive,NA
+CBP215,47,Male,Symptomatic,NA,27/04/2021,Positive,NA,NA,NA,NA,28/04/2021,10/5/2021,12,Positive,Negative,Positive,NA
+CBP217,28,Female,Symptomatic,NA,26/04/2021,Positive,NA,NA,NA,NA,28/04/2021,10/5/2021,12,Positive,Positive,Positive,NA
+CBP218,25,Female,Symptomatic,NA,26/04/2021,Positive,NA,NA,NA,NA,28/04/2021,10/5/2021,12,Positive,Negative,Positive,NA
+CBP219,44,Female,Symptomatic,NA,28/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Negative,Positive,NA
+CBP220,25,Female,Symptomatic,NA,23/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Negative,Negative,Negative,NA
+CBP221,41,Male,Symptomatic,NA,26/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Negative,Negative,Negative,NA
+CBP222,38,Male,Symptomatic,NA,27/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Positive,Positive,NA
+CBP223,33,Male,Symptomatic,NA,26/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Inconclusive,Positive,NA
+CBP227,27,Female,Symptomatic,NA,27/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Negative,Positive,NA
+CBP228,24,Female,Symptomatic,NA,27/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Positive,Positive,NA
+CBP229,23,Female,Symptomatic,NA,26/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Inconclusive,Positive,NA
+CBP231,31,Female,Symptomatic,NA,25/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Negative,Negative,Negative,NA
+CBP232,47,Female,Symptomatic,NA,28/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Positive,Positive,NA
+CBP234,40,Male,Symptomatic,NA,20/04/2021,Positive,NA,NA,NA,NA,28/04/2021,13/05/2021,15,Positive,Positive,Positive,NA
+CBP235,45,Male,Symptomatic,NA,27/04/2021,Positive,NA,NA,NA,NA,29/04/2021,13/05/2021,14,Positive,Negative,Positive,NA
+CBP236,23,Male,Symptomatic,NA,28/04/2021,Positive,NA,NA,NA,NA,29/04/2021,13/05/2021,14,Positive,Positive,Positive,NA
+CBP237,NA,Female,Symptomatic,NA,29/04/2021,Positive,NA,NA,NA,NA,29/04/2021,13/05/2021,14,Positive,Positive,Positive,NA
+CBP238,46,Female,Symptomatic,NA,28/04/2021,Positive,NA,NA,NA,NA,29/04/2021,13/05/2021,14,Positive,Negative,Positive,NA
+CBP239,40,Male,Symptomatic,NA,26/04/2021,Positive,NA,NA,NA,NA,29/04/2021,13/05/2021,14,Negative,Negative,Negative,NA
+CBP241,28,Female,Symptomatic,NA,25/04/2021,Positive,NA,NA,NA,NA,29/04/2021,13/05/2021,14,Negative,Negative,Negative,NA
+CBP242,54,Male,Symptomatic,NA,24/04/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Positive,Positive,NA
+CBP244,62,Male,Symptomatic,NA,22/04/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Negative,Positive,Positive,NA
+CBP245,37,Male,Symptomatic,NA,1/5/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Positive,Positive,NA
+CBP246,50,Male,Symptomatic,NA,30/04/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Negative,Positive,NA
+CBP247,37,Female,Symptomatic,NA,30/04/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Negative,Positive,NA
+CBP249,45,Female,Symptomatic,NA,4/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Negative,Negative,Negative,NA
+CBP250,53,Female,Symptomatic,NA,3/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Negative,Negative,Negative,NA
+CBP251,20,Male,Symptomatic,NA,2/5/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Negative,Positive,NA
+CBP252,53,Male,Symptomatic,NA,29/04/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Inconclusive,Positive,NA
+CBP253,38,Male,Symptomatic,NA,1/5/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Positive,Positive,NA
+CBP254,42,Male,Symptomatic,NA,4/5/2021,Positive,NA,NA,NA,NA,4/5/2021,13/05/2021,9,Positive,Inconclusive,Positive,NA
+CBP255,23,Female,Symptomatic,NA,5/5/2021,Positive,NA,NA,NA,NA,5/5/2021,13/05/2021,8,Positive,Positive,Positive,NA
+CBP256,55,Female,Symptomatic,NA,2/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Positive,Negative,Positive,NA
+CBP257,18,Female,Symptomatic,NA,1/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Positive,Positive,Positive,NA
+CBP258,23,Female,Symptomatic,NA,1/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Positive,Inconclusive,Positive,NA
+CBP259,44,Female,Symptomatic,NA,2/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Positive,Positive,Positive,NA
+CBP260,37,Male,Symptomatic,NA,2/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Positive,Inconclusive,Positive,NA
+CBP261,24,Male,Symptomatic,NA,5/5/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Positive,Inconclusive,Positive,NA
+CBP263,29,Male,Symptomatic,NA,30/04/2021,Positive,NA,NA,NA,NA,6/5/2021,13/05/2021,7,Negative,Negative,Negative,NA
+CBP344,19,Female,Symptomatic,NA,29/05/2021,Positive,NA,NA,NA,NA,29/05/2021,10/6/2021,12,Positive,Positive,Positive,NA
+CBP345,20,Female,Asymptomatic,NA,29/05/2021,Positive,NA,NA,NA,NA,29/05/2021,10/6/2021,12,Positive,Positive,Positive,NA
