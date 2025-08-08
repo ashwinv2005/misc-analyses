@@ -1,0 +1,3191 @@
+"","plot","species","abd","canopy","depth","density","creek","size"
+"1",1,"Butis butis",0,95.06,15,27.28571429,180.76,NA
+"2",1,"Halicampus grayii",0,95.06,15,27.28571429,180.76,NA
+"3",1,"Apogon amboinensis",0,95.06,15,27.28571429,180.76,NA
+"4",1,"Gobidae",0,95.06,15,27.28571429,180.76,NA
+"5",1,"Apogon hyalosoma",0,95.06,15,27.28571429,180.76,NA
+"6",1,"Eleotris fusca",0,95.06,15,27.28571429,180.76,NA
+"7",1,"Zenarchopterus dispar",0,95.06,15,27.28571429,180.76,NA
+"8",1,"Acentrogobius caninus",0,95.06,15,27.28571429,180.76,NA
+"9",1,"Glosogobius",0,95.06,15,27.28571429,180.76,NA
+"10",1,"Horaichthyidae",0,95.06,15,27.28571429,180.76,NA
+"11",1,"Siganus lineatus",0,95.06,15,27.28571429,180.76,NA
+"12",1,"Acentrogobius sp",0,95.06,15,27.28571429,180.76,NA
+"13",1,"Arothron hispidus",0,95.06,15,27.28571429,180.76,NA
+"14",1,"Siganus vermiculatus",0,95.06,15,27.28571429,180.76,NA
+"15",1,"Bostrychus sinensis",0,95.06,15,27.28571429,180.76,NA
+"16",1,"Toxotes jaculatrix",0,95.06,15,27.28571429,180.76,NA
+"17",1,"Strongylura leiura",0,95.06,15,27.28571429,180.76,NA
+"18",1,"Liza macrolepsis",0,95.06,15,27.28571429,180.76,NA
+"19",1,"Scatophagus argus",0,95.06,15,27.28571429,180.76,NA
+"20",1,"Gerres limbatus",0,95.06,15,27.28571429,180.76,NA
+"21",1,"Orange fish",0,95.06,15,27.28571429,180.76,NA
+"22",1,"Apogonidae 3",0,95.06,15,27.28571429,180.76,NA
+"23",1,"Lutjanus argentimaculatus",0,95.06,15,27.28571429,180.76,NA
+"24",1,"Caranx sexfasciatus",0,95.06,15,27.28571429,180.76,NA
+"25",1,"Sphaeramia orbicularis",0,95.06,15,27.28571429,180.76,NA
+"26",1,"Chanos chanos",0,95.06,15,27.28571429,180.76,NA
+"27",1,"Plectorhinchus gibbosus",0,95.06,15,27.28571429,180.76,NA
+"28",1,"Lutjanus fulviflamma",0,95.06,15,27.28571429,180.76,NA
+"29",1,"Tetradontidae",0,95.06,15,27.28571429,180.76,NA
+"30",2,"Butis butis",0,95.58,10,15.85714286,200.38,NA
+"31",2,"Halicampus grayii",0,95.58,10,15.85714286,200.38,NA
+"32",2,"Apogon amboinensis",0,95.58,10,15.85714286,200.38,NA
+"33",2,"Gobidae",0,95.58,10,15.85714286,200.38,NA
+"34",2,"Apogon hyalosoma",0,95.58,10,15.85714286,200.38,NA
+"35",2,"Eleotris fusca",0,95.58,10,15.85714286,200.38,NA
+"36",2,"Zenarchopterus dispar",0,95.58,10,15.85714286,200.38,NA
+"37",2,"Acentrogobius caninus",0,95.58,10,15.85714286,200.38,NA
+"38",2,"Glosogobius",0,95.58,10,15.85714286,200.38,NA
+"39",2,"Horaichthyidae",0,95.58,10,15.85714286,200.38,NA
+"40",2,"Siganus lineatus",0,95.58,10,15.85714286,200.38,NA
+"41",2,"Acentrogobius sp",0,95.58,10,15.85714286,200.38,NA
+"42",2,"Arothron hispidus",0,95.58,10,15.85714286,200.38,NA
+"43",2,"Siganus vermiculatus",0,95.58,10,15.85714286,200.38,NA
+"44",2,"Bostrychus sinensis",0,95.58,10,15.85714286,200.38,NA
+"45",2,"Toxotes jaculatrix",0,95.58,10,15.85714286,200.38,NA
+"46",2,"Strongylura leiura",0,95.58,10,15.85714286,200.38,NA
+"47",2,"Liza macrolepsis",0,95.58,10,15.85714286,200.38,NA
+"48",2,"Scatophagus argus",0,95.58,10,15.85714286,200.38,NA
+"49",2,"Gerres limbatus",0,95.58,10,15.85714286,200.38,NA
+"50",2,"Orange fish",0,95.58,10,15.85714286,200.38,NA
+"51",2,"Apogonidae 3",0,95.58,10,15.85714286,200.38,NA
+"52",2,"Lutjanus argentimaculatus",0,95.58,10,15.85714286,200.38,NA
+"53",2,"Caranx sexfasciatus",0,95.58,10,15.85714286,200.38,NA
+"54",2,"Sphaeramia orbicularis",0,95.58,10,15.85714286,200.38,NA
+"55",2,"Chanos chanos",0,95.58,10,15.85714286,200.38,NA
+"56",2,"Plectorhinchus gibbosus",0,95.58,10,15.85714286,200.38,NA
+"57",2,"Lutjanus fulviflamma",0,95.58,10,15.85714286,200.38,NA
+"58",2,"Tetradontidae",0,95.58,10,15.85714286,200.38,NA
+"59",3,"Butis butis",0,83.88,9.8,25,167.37,NA
+"60",3,"Halicampus grayii",0,83.88,9.8,25,167.37,NA
+"61",3,"Apogon amboinensis",0,83.88,9.8,25,167.37,NA
+"62",3,"Gobidae",0,83.88,9.8,25,167.37,NA
+"63",3,"Apogon hyalosoma",0,83.88,9.8,25,167.37,NA
+"64",3,"Eleotris fusca",0,83.88,9.8,25,167.37,NA
+"65",3,"Zenarchopterus dispar",0,83.88,9.8,25,167.37,NA
+"66",3,"Acentrogobius caninus",0,83.88,9.8,25,167.37,NA
+"67",3,"Glosogobius",0,83.88,9.8,25,167.37,NA
+"68",3,"Horaichthyidae",0,83.88,9.8,25,167.37,NA
+"69",3,"Siganus lineatus",0,83.88,9.8,25,167.37,NA
+"70",3,"Acentrogobius sp",0,83.88,9.8,25,167.37,NA
+"71",3,"Arothron hispidus",0,83.88,9.8,25,167.37,NA
+"72",3,"Siganus vermiculatus",0,83.88,9.8,25,167.37,NA
+"73",3,"Bostrychus sinensis",0,83.88,9.8,25,167.37,NA
+"74",3,"Toxotes jaculatrix",0,83.88,9.8,25,167.37,NA
+"75",3,"Strongylura leiura",0,83.88,9.8,25,167.37,NA
+"76",3,"Liza macrolepsis",0,83.88,9.8,25,167.37,NA
+"77",3,"Scatophagus argus",0,83.88,9.8,25,167.37,NA
+"78",3,"Gerres limbatus",0,83.88,9.8,25,167.37,NA
+"79",3,"Orange fish",0,83.88,9.8,25,167.37,NA
+"80",3,"Apogonidae 3",0,83.88,9.8,25,167.37,NA
+"81",3,"Lutjanus argentimaculatus",0,83.88,9.8,25,167.37,NA
+"82",3,"Caranx sexfasciatus",0,83.88,9.8,25,167.37,NA
+"83",3,"Sphaeramia orbicularis",0,83.88,9.8,25,167.37,NA
+"84",3,"Chanos chanos",0,83.88,9.8,25,167.37,NA
+"85",3,"Plectorhinchus gibbosus",0,83.88,9.8,25,167.37,NA
+"86",3,"Lutjanus fulviflamma",0,83.88,9.8,25,167.37,NA
+"87",3,"Tetradontidae",0,83.88,9.8,25,167.37,NA
+"88",4,"Butis butis",0,92.98,9,21.14285714,170.3,NA
+"89",4,"Halicampus grayii",0,92.98,9,21.14285714,170.3,NA
+"90",4,"Apogon amboinensis",0,92.98,9,21.14285714,170.3,NA
+"91",4,"Gobidae",0,92.98,9,21.14285714,170.3,NA
+"92",4,"Apogon hyalosoma",0,92.98,9,21.14285714,170.3,NA
+"93",4,"Eleotris fusca",0,92.98,9,21.14285714,170.3,NA
+"94",4,"Zenarchopterus dispar",0,92.98,9,21.14285714,170.3,NA
+"95",4,"Acentrogobius caninus",0,92.98,9,21.14285714,170.3,NA
+"96",4,"Glosogobius",0,92.98,9,21.14285714,170.3,NA
+"97",4,"Horaichthyidae",0,92.98,9,21.14285714,170.3,NA
+"98",4,"Siganus lineatus",0,92.98,9,21.14285714,170.3,NA
+"99",4,"Acentrogobius sp",0,92.98,9,21.14285714,170.3,NA
+"100",4,"Arothron hispidus",0,92.98,9,21.14285714,170.3,NA
+"101",4,"Siganus vermiculatus",0,92.98,9,21.14285714,170.3,NA
+"102",4,"Bostrychus sinensis",0,92.98,9,21.14285714,170.3,NA
+"103",4,"Toxotes jaculatrix",0,92.98,9,21.14285714,170.3,NA
+"104",4,"Strongylura leiura",0,92.98,9,21.14285714,170.3,NA
+"105",4,"Liza macrolepsis",0,92.98,9,21.14285714,170.3,NA
+"106",4,"Scatophagus argus",0,92.98,9,21.14285714,170.3,NA
+"107",4,"Gerres limbatus",0,92.98,9,21.14285714,170.3,NA
+"108",4,"Orange fish",0,92.98,9,21.14285714,170.3,NA
+"109",4,"Apogonidae 3",0,92.98,9,21.14285714,170.3,NA
+"110",4,"Lutjanus argentimaculatus",0,92.98,9,21.14285714,170.3,NA
+"111",4,"Caranx sexfasciatus",0,92.98,9,21.14285714,170.3,NA
+"112",4,"Sphaeramia orbicularis",0,92.98,9,21.14285714,170.3,NA
+"113",4,"Chanos chanos",0,92.98,9,21.14285714,170.3,NA
+"114",4,"Plectorhinchus gibbosus",0,92.98,9,21.14285714,170.3,NA
+"115",4,"Lutjanus fulviflamma",0,92.98,9,21.14285714,170.3,NA
+"116",4,"Tetradontidae",0,92.98,9,21.14285714,170.3,NA
+"117",5,"Butis butis",0,94.8,29,8.571428571,265.15,NA
+"118",5,"Halicampus grayii",0,94.8,29,8.571428571,265.15,NA
+"119",5,"Apogon amboinensis",0,94.8,29,8.571428571,265.15,NA
+"120",5,"Gobidae",0,94.8,29,8.571428571,265.15,NA
+"121",5,"Apogon hyalosoma",0,94.8,29,8.571428571,265.15,NA
+"122",5,"Eleotris fusca",0,94.8,29,8.571428571,265.15,NA
+"123",5,"Zenarchopterus dispar",0,94.8,29,8.571428571,265.15,NA
+"124",5,"Acentrogobius caninus",0,94.8,29,8.571428571,265.15,NA
+"125",5,"Glosogobius",0,94.8,29,8.571428571,265.15,NA
+"126",5,"Horaichthyidae",0,94.8,29,8.571428571,265.15,NA
+"127",5,"Siganus lineatus",0,94.8,29,8.571428571,265.15,NA
+"128",5,"Acentrogobius sp",0,94.8,29,8.571428571,265.15,NA
+"129",5,"Arothron hispidus",0,94.8,29,8.571428571,265.15,NA
+"130",5,"Siganus vermiculatus",0,94.8,29,8.571428571,265.15,NA
+"131",5,"Bostrychus sinensis",0,94.8,29,8.571428571,265.15,NA
+"132",5,"Toxotes jaculatrix",0,94.8,29,8.571428571,265.15,NA
+"133",5,"Strongylura leiura",0,94.8,29,8.571428571,265.15,NA
+"134",5,"Liza macrolepsis",0,94.8,29,8.571428571,265.15,NA
+"135",5,"Scatophagus argus",0,94.8,29,8.571428571,265.15,NA
+"136",5,"Gerres limbatus",0,94.8,29,8.571428571,265.15,NA
+"137",5,"Orange fish",0,94.8,29,8.571428571,265.15,NA
+"138",5,"Apogonidae 3",0,94.8,29,8.571428571,265.15,NA
+"139",5,"Lutjanus argentimaculatus",0,94.8,29,8.571428571,265.15,NA
+"140",5,"Caranx sexfasciatus",0,94.8,29,8.571428571,265.15,NA
+"141",5,"Sphaeramia orbicularis",0,94.8,29,8.571428571,265.15,NA
+"142",5,"Chanos chanos",0,94.8,29,8.571428571,265.15,NA
+"143",5,"Plectorhinchus gibbosus",0,94.8,29,8.571428571,265.15,NA
+"144",5,"Lutjanus fulviflamma",0,94.8,29,8.571428571,265.15,NA
+"145",5,"Tetradontidae",0,94.8,29,8.571428571,265.15,NA
+"146",6,"Butis butis",2,93.5,7,10.71428571,124.98,5.14
+"147",6,"Halicampus grayii",1,93.5,7,10.71428571,124.98,5.28
+"148",6,"Apogon amboinensis",0,93.5,7,10.71428571,124.98,NA
+"149",6,"Gobidae",0,93.5,7,10.71428571,124.98,NA
+"150",6,"Apogon hyalosoma",0,93.5,7,10.71428571,124.98,NA
+"151",6,"Eleotris fusca",0,93.5,7,10.71428571,124.98,NA
+"152",6,"Zenarchopterus dispar",0,93.5,7,10.71428571,124.98,NA
+"153",6,"Acentrogobius caninus",0,93.5,7,10.71428571,124.98,NA
+"154",6,"Glosogobius",0,93.5,7,10.71428571,124.98,NA
+"155",6,"Horaichthyidae",0,93.5,7,10.71428571,124.98,NA
+"156",6,"Siganus lineatus",0,93.5,7,10.71428571,124.98,NA
+"157",6,"Acentrogobius sp",0,93.5,7,10.71428571,124.98,NA
+"158",6,"Arothron hispidus",0,93.5,7,10.71428571,124.98,NA
+"159",6,"Siganus vermiculatus",0,93.5,7,10.71428571,124.98,NA
+"160",6,"Bostrychus sinensis",0,93.5,7,10.71428571,124.98,NA
+"161",6,"Toxotes jaculatrix",0,93.5,7,10.71428571,124.98,NA
+"162",6,"Strongylura leiura",0,93.5,7,10.71428571,124.98,NA
+"163",6,"Liza macrolepsis",0,93.5,7,10.71428571,124.98,NA
+"164",6,"Scatophagus argus",0,93.5,7,10.71428571,124.98,NA
+"165",6,"Gerres limbatus",0,93.5,7,10.71428571,124.98,NA
+"166",6,"Orange fish",0,93.5,7,10.71428571,124.98,NA
+"167",6,"Apogonidae 3",0,93.5,7,10.71428571,124.98,NA
+"168",6,"Lutjanus argentimaculatus",0,93.5,7,10.71428571,124.98,NA
+"169",6,"Caranx sexfasciatus",0,93.5,7,10.71428571,124.98,NA
+"170",6,"Sphaeramia orbicularis",0,93.5,7,10.71428571,124.98,NA
+"171",6,"Chanos chanos",0,93.5,7,10.71428571,124.98,NA
+"172",6,"Plectorhinchus gibbosus",0,93.5,7,10.71428571,124.98,NA
+"173",6,"Lutjanus fulviflamma",0,93.5,7,10.71428571,124.98,NA
+"174",6,"Tetradontidae",0,93.5,7,10.71428571,124.98,NA
+"175",7,"Butis butis",1,95.32,6,37.14285714,96.98,14.55
+"176",7,"Halicampus grayii",0,95.32,6,37.14285714,96.98,NA
+"177",7,"Apogon amboinensis",1,95.32,6,37.14285714,96.98,4.29
+"178",7,"Gobidae",0,95.32,6,37.14285714,96.98,NA
+"179",7,"Apogon hyalosoma",0,95.32,6,37.14285714,96.98,NA
+"180",7,"Eleotris fusca",0,95.32,6,37.14285714,96.98,NA
+"181",7,"Zenarchopterus dispar",0,95.32,6,37.14285714,96.98,NA
+"182",7,"Acentrogobius caninus",0,95.32,6,37.14285714,96.98,NA
+"183",7,"Glosogobius",0,95.32,6,37.14285714,96.98,NA
+"184",7,"Horaichthyidae",0,95.32,6,37.14285714,96.98,NA
+"185",7,"Siganus lineatus",0,95.32,6,37.14285714,96.98,NA
+"186",7,"Acentrogobius sp",0,95.32,6,37.14285714,96.98,NA
+"187",7,"Arothron hispidus",0,95.32,6,37.14285714,96.98,NA
+"188",7,"Siganus vermiculatus",0,95.32,6,37.14285714,96.98,NA
+"189",7,"Bostrychus sinensis",0,95.32,6,37.14285714,96.98,NA
+"190",7,"Toxotes jaculatrix",0,95.32,6,37.14285714,96.98,NA
+"191",7,"Strongylura leiura",0,95.32,6,37.14285714,96.98,NA
+"192",7,"Liza macrolepsis",0,95.32,6,37.14285714,96.98,NA
+"193",7,"Scatophagus argus",0,95.32,6,37.14285714,96.98,NA
+"194",7,"Gerres limbatus",0,95.32,6,37.14285714,96.98,NA
+"195",7,"Orange fish",0,95.32,6,37.14285714,96.98,NA
+"196",7,"Apogonidae 3",0,95.32,6,37.14285714,96.98,NA
+"197",7,"Lutjanus argentimaculatus",0,95.32,6,37.14285714,96.98,NA
+"198",7,"Caranx sexfasciatus",0,95.32,6,37.14285714,96.98,NA
+"199",7,"Sphaeramia orbicularis",0,95.32,6,37.14285714,96.98,NA
+"200",7,"Chanos chanos",0,95.32,6,37.14285714,96.98,NA
+"201",7,"Plectorhinchus gibbosus",0,95.32,6,37.14285714,96.98,NA
+"202",7,"Lutjanus fulviflamma",0,95.32,6,37.14285714,96.98,NA
+"203",7,"Tetradontidae",0,95.32,6,37.14285714,96.98,NA
+"204",8,"Butis butis",0,95.06,14,18.42857143,120.94,NA
+"205",8,"Halicampus grayii",0,95.06,14,18.42857143,120.94,NA
+"206",8,"Apogon amboinensis",0,95.06,14,18.42857143,120.94,NA
+"207",8,"Gobidae",2,95.06,14,18.42857143,120.94,1
+"208",8,"Apogon hyalosoma",0,95.06,14,18.42857143,120.94,NA
+"209",8,"Eleotris fusca",0,95.06,14,18.42857143,120.94,NA
+"210",8,"Zenarchopterus dispar",0,95.06,14,18.42857143,120.94,NA
+"211",8,"Acentrogobius caninus",0,95.06,14,18.42857143,120.94,NA
+"212",8,"Glosogobius",0,95.06,14,18.42857143,120.94,NA
+"213",8,"Horaichthyidae",0,95.06,14,18.42857143,120.94,NA
+"214",8,"Siganus lineatus",0,95.06,14,18.42857143,120.94,NA
+"215",8,"Acentrogobius sp",0,95.06,14,18.42857143,120.94,NA
+"216",8,"Arothron hispidus",0,95.06,14,18.42857143,120.94,NA
+"217",8,"Siganus vermiculatus",0,95.06,14,18.42857143,120.94,NA
+"218",8,"Bostrychus sinensis",0,95.06,14,18.42857143,120.94,NA
+"219",8,"Toxotes jaculatrix",0,95.06,14,18.42857143,120.94,NA
+"220",8,"Strongylura leiura",0,95.06,14,18.42857143,120.94,NA
+"221",8,"Liza macrolepsis",0,95.06,14,18.42857143,120.94,NA
+"222",8,"Scatophagus argus",0,95.06,14,18.42857143,120.94,NA
+"223",8,"Gerres limbatus",0,95.06,14,18.42857143,120.94,NA
+"224",8,"Orange fish",0,95.06,14,18.42857143,120.94,NA
+"225",8,"Apogonidae 3",0,95.06,14,18.42857143,120.94,NA
+"226",8,"Lutjanus argentimaculatus",0,95.06,14,18.42857143,120.94,NA
+"227",8,"Caranx sexfasciatus",0,95.06,14,18.42857143,120.94,NA
+"228",8,"Sphaeramia orbicularis",0,95.06,14,18.42857143,120.94,NA
+"229",8,"Chanos chanos",0,95.06,14,18.42857143,120.94,NA
+"230",8,"Plectorhinchus gibbosus",0,95.06,14,18.42857143,120.94,NA
+"231",8,"Lutjanus fulviflamma",0,95.06,14,18.42857143,120.94,NA
+"232",8,"Tetradontidae",0,95.06,14,18.42857143,120.94,NA
+"233",9,"Butis butis",0,86.22,18,16.57142857,96.48,NA
+"234",9,"Halicampus grayii",0,86.22,18,16.57142857,96.48,NA
+"235",9,"Apogon amboinensis",0,86.22,18,16.57142857,96.48,NA
+"236",9,"Gobidae",0,86.22,18,16.57142857,96.48,NA
+"237",9,"Apogon hyalosoma",1,86.22,18,16.57142857,96.48,5
+"238",9,"Eleotris fusca",0,86.22,18,16.57142857,96.48,NA
+"239",9,"Zenarchopterus dispar",0,86.22,18,16.57142857,96.48,NA
+"240",9,"Acentrogobius caninus",0,86.22,18,16.57142857,96.48,NA
+"241",9,"Glosogobius",0,86.22,18,16.57142857,96.48,NA
+"242",9,"Horaichthyidae",0,86.22,18,16.57142857,96.48,NA
+"243",9,"Siganus lineatus",0,86.22,18,16.57142857,96.48,NA
+"244",9,"Acentrogobius sp",0,86.22,18,16.57142857,96.48,NA
+"245",9,"Arothron hispidus",0,86.22,18,16.57142857,96.48,NA
+"246",9,"Siganus vermiculatus",0,86.22,18,16.57142857,96.48,NA
+"247",9,"Bostrychus sinensis",0,86.22,18,16.57142857,96.48,NA
+"248",9,"Toxotes jaculatrix",0,86.22,18,16.57142857,96.48,NA
+"249",9,"Strongylura leiura",0,86.22,18,16.57142857,96.48,NA
+"250",9,"Liza macrolepsis",0,86.22,18,16.57142857,96.48,NA
+"251",9,"Scatophagus argus",0,86.22,18,16.57142857,96.48,NA
+"252",9,"Gerres limbatus",0,86.22,18,16.57142857,96.48,NA
+"253",9,"Orange fish",0,86.22,18,16.57142857,96.48,NA
+"254",9,"Apogonidae 3",0,86.22,18,16.57142857,96.48,NA
+"255",9,"Lutjanus argentimaculatus",0,86.22,18,16.57142857,96.48,NA
+"256",9,"Caranx sexfasciatus",0,86.22,18,16.57142857,96.48,NA
+"257",9,"Sphaeramia orbicularis",0,86.22,18,16.57142857,96.48,NA
+"258",9,"Chanos chanos",0,86.22,18,16.57142857,96.48,NA
+"259",9,"Plectorhinchus gibbosus",0,86.22,18,16.57142857,96.48,NA
+"260",9,"Lutjanus fulviflamma",0,86.22,18,16.57142857,96.48,NA
+"261",9,"Tetradontidae",0,86.22,18,16.57142857,96.48,NA
+"262",10,"Butis butis",0,61.52,13,13.14285714,126.17,NA
+"263",10,"Halicampus grayii",0,61.52,13,13.14285714,126.17,NA
+"264",10,"Apogon amboinensis",0,61.52,13,13.14285714,126.17,NA
+"265",10,"Gobidae",0,61.52,13,13.14285714,126.17,NA
+"266",10,"Apogon hyalosoma",0,61.52,13,13.14285714,126.17,NA
+"267",10,"Eleotris fusca",1,61.52,13,13.14285714,126.17,22
+"268",10,"Zenarchopterus dispar",0,61.52,13,13.14285714,126.17,NA
+"269",10,"Acentrogobius caninus",0,61.52,13,13.14285714,126.17,NA
+"270",10,"Glosogobius",0,61.52,13,13.14285714,126.17,NA
+"271",10,"Horaichthyidae",0,61.52,13,13.14285714,126.17,NA
+"272",10,"Siganus lineatus",0,61.52,13,13.14285714,126.17,NA
+"273",10,"Acentrogobius sp",0,61.52,13,13.14285714,126.17,NA
+"274",10,"Arothron hispidus",0,61.52,13,13.14285714,126.17,NA
+"275",10,"Siganus vermiculatus",0,61.52,13,13.14285714,126.17,NA
+"276",10,"Bostrychus sinensis",0,61.52,13,13.14285714,126.17,NA
+"277",10,"Toxotes jaculatrix",0,61.52,13,13.14285714,126.17,NA
+"278",10,"Strongylura leiura",0,61.52,13,13.14285714,126.17,NA
+"279",10,"Liza macrolepsis",0,61.52,13,13.14285714,126.17,NA
+"280",10,"Scatophagus argus",0,61.52,13,13.14285714,126.17,NA
+"281",10,"Gerres limbatus",0,61.52,13,13.14285714,126.17,NA
+"282",10,"Orange fish",0,61.52,13,13.14285714,126.17,NA
+"283",10,"Apogonidae 3",0,61.52,13,13.14285714,126.17,NA
+"284",10,"Lutjanus argentimaculatus",0,61.52,13,13.14285714,126.17,NA
+"285",10,"Caranx sexfasciatus",0,61.52,13,13.14285714,126.17,NA
+"286",10,"Sphaeramia orbicularis",0,61.52,13,13.14285714,126.17,NA
+"287",10,"Chanos chanos",0,61.52,13,13.14285714,126.17,NA
+"288",10,"Plectorhinchus gibbosus",0,61.52,13,13.14285714,126.17,NA
+"289",10,"Lutjanus fulviflamma",0,61.52,13,13.14285714,126.17,NA
+"290",10,"Tetradontidae",0,61.52,13,13.14285714,126.17,NA
+"291",11,"Butis butis",1,94.8,55,77.28571429,81.36,9.92
+"292",11,"Halicampus grayii",0,94.8,55,77.28571429,81.36,NA
+"293",11,"Apogon amboinensis",0,94.8,55,77.28571429,81.36,NA
+"294",11,"Gobidae",0,94.8,55,77.28571429,81.36,NA
+"295",11,"Apogon hyalosoma",0,94.8,55,77.28571429,81.36,NA
+"296",11,"Eleotris fusca",0,94.8,55,77.28571429,81.36,NA
+"297",11,"Zenarchopterus dispar",1,94.8,55,77.28571429,81.36,10.6
+"298",11,"Acentrogobius caninus",2,94.8,55,77.28571429,81.36,6.33
+"299",11,"Glosogobius",1,94.8,55,77.28571429,81.36,9.55
+"300",11,"Horaichthyidae",3,94.8,55,77.28571429,81.36,2
+"301",11,"Siganus lineatus",0,94.8,55,77.28571429,81.36,NA
+"302",11,"Acentrogobius sp",0,94.8,55,77.28571429,81.36,NA
+"303",11,"Arothron hispidus",0,94.8,55,77.28571429,81.36,NA
+"304",11,"Siganus vermiculatus",0,94.8,55,77.28571429,81.36,NA
+"305",11,"Bostrychus sinensis",0,94.8,55,77.28571429,81.36,NA
+"306",11,"Toxotes jaculatrix",0,94.8,55,77.28571429,81.36,NA
+"307",11,"Strongylura leiura",0,94.8,55,77.28571429,81.36,NA
+"308",11,"Liza macrolepsis",0,94.8,55,77.28571429,81.36,NA
+"309",11,"Scatophagus argus",0,94.8,55,77.28571429,81.36,NA
+"310",11,"Gerres limbatus",0,94.8,55,77.28571429,81.36,NA
+"311",11,"Orange fish",0,94.8,55,77.28571429,81.36,NA
+"312",11,"Apogonidae 3",0,94.8,55,77.28571429,81.36,NA
+"313",11,"Lutjanus argentimaculatus",0,94.8,55,77.28571429,81.36,NA
+"314",11,"Caranx sexfasciatus",0,94.8,55,77.28571429,81.36,NA
+"315",11,"Sphaeramia orbicularis",0,94.8,55,77.28571429,81.36,NA
+"316",11,"Chanos chanos",0,94.8,55,77.28571429,81.36,NA
+"317",11,"Plectorhinchus gibbosus",0,94.8,55,77.28571429,81.36,NA
+"318",11,"Lutjanus fulviflamma",0,94.8,55,77.28571429,81.36,NA
+"319",11,"Tetradontidae",0,94.8,55,77.28571429,81.36,NA
+"320",12,"Butis butis",0,98.7,40,79.14285714,95.92,NA
+"321",12,"Halicampus grayii",0,98.7,40,79.14285714,95.92,NA
+"322",12,"Apogon amboinensis",0,98.7,40,79.14285714,95.92,NA
+"323",12,"Gobidae",0,98.7,40,79.14285714,95.92,NA
+"324",12,"Apogon hyalosoma",3,98.7,40,79.14285714,95.92,10
+"325",12,"Eleotris fusca",0,98.7,40,79.14285714,95.92,NA
+"326",12,"Zenarchopterus dispar",0,98.7,40,79.14285714,95.92,NA
+"327",12,"Acentrogobius caninus",2,98.7,40,79.14285714,95.92,1
+"328",12,"Glosogobius",0,98.7,40,79.14285714,95.92,NA
+"329",12,"Horaichthyidae",0,98.7,40,79.14285714,95.92,NA
+"330",12,"Siganus lineatus",1,98.7,40,79.14285714,95.92,8.43
+"331",12,"Acentrogobius sp",0,98.7,40,79.14285714,95.92,NA
+"332",12,"Arothron hispidus",0,98.7,40,79.14285714,95.92,NA
+"333",12,"Siganus vermiculatus",0,98.7,40,79.14285714,95.92,NA
+"334",12,"Bostrychus sinensis",0,98.7,40,79.14285714,95.92,NA
+"335",12,"Toxotes jaculatrix",0,98.7,40,79.14285714,95.92,NA
+"336",12,"Strongylura leiura",0,98.7,40,79.14285714,95.92,NA
+"337",12,"Liza macrolepsis",0,98.7,40,79.14285714,95.92,NA
+"338",12,"Scatophagus argus",0,98.7,40,79.14285714,95.92,NA
+"339",12,"Gerres limbatus",0,98.7,40,79.14285714,95.92,NA
+"340",12,"Orange fish",0,98.7,40,79.14285714,95.92,NA
+"341",12,"Apogonidae 3",0,98.7,40,79.14285714,95.92,NA
+"342",12,"Lutjanus argentimaculatus",0,98.7,40,79.14285714,95.92,NA
+"343",12,"Caranx sexfasciatus",0,98.7,40,79.14285714,95.92,NA
+"344",12,"Sphaeramia orbicularis",0,98.7,40,79.14285714,95.92,NA
+"345",12,"Chanos chanos",0,98.7,40,79.14285714,95.92,NA
+"346",12,"Plectorhinchus gibbosus",0,98.7,40,79.14285714,95.92,NA
+"347",12,"Lutjanus fulviflamma",0,98.7,40,79.14285714,95.92,NA
+"348",12,"Tetradontidae",0,98.7,40,79.14285714,95.92,NA
+"349",13,"Butis butis",0,95.38,50,70.85714286,52.69,NA
+"350",13,"Halicampus grayii",0,95.38,50,70.85714286,52.69,NA
+"351",13,"Apogon amboinensis",0,95.38,50,70.85714286,52.69,NA
+"352",13,"Gobidae",0,95.38,50,70.85714286,52.69,NA
+"353",13,"Apogon hyalosoma",0,95.38,50,70.85714286,52.69,NA
+"354",13,"Eleotris fusca",0,95.38,50,70.85714286,52.69,NA
+"355",13,"Zenarchopterus dispar",0,95.38,50,70.85714286,52.69,NA
+"356",13,"Acentrogobius caninus",4,95.38,50,70.85714286,52.69,1
+"357",13,"Glosogobius",0,95.38,50,70.85714286,52.69,NA
+"358",13,"Horaichthyidae",0,95.38,50,70.85714286,52.69,NA
+"359",13,"Siganus lineatus",0,95.38,50,70.85714286,52.69,NA
+"360",13,"Acentrogobius sp",0,95.38,50,70.85714286,52.69,NA
+"361",13,"Arothron hispidus",0,95.38,50,70.85714286,52.69,NA
+"362",13,"Siganus vermiculatus",0,95.38,50,70.85714286,52.69,NA
+"363",13,"Bostrychus sinensis",0,95.38,50,70.85714286,52.69,NA
+"364",13,"Toxotes jaculatrix",0,95.38,50,70.85714286,52.69,NA
+"365",13,"Strongylura leiura",0,95.38,50,70.85714286,52.69,NA
+"366",13,"Liza macrolepsis",0,95.38,50,70.85714286,52.69,NA
+"367",13,"Scatophagus argus",0,95.38,50,70.85714286,52.69,NA
+"368",13,"Gerres limbatus",0,95.38,50,70.85714286,52.69,NA
+"369",13,"Orange fish",0,95.38,50,70.85714286,52.69,NA
+"370",13,"Apogonidae 3",0,95.38,50,70.85714286,52.69,NA
+"371",13,"Lutjanus argentimaculatus",0,95.38,50,70.85714286,52.69,NA
+"372",13,"Caranx sexfasciatus",0,95.38,50,70.85714286,52.69,NA
+"373",13,"Sphaeramia orbicularis",0,95.38,50,70.85714286,52.69,NA
+"374",13,"Chanos chanos",0,95.38,50,70.85714286,52.69,NA
+"375",13,"Plectorhinchus gibbosus",0,95.38,50,70.85714286,52.69,NA
+"376",13,"Lutjanus fulviflamma",0,95.38,50,70.85714286,52.69,NA
+"377",13,"Tetradontidae",0,95.38,50,70.85714286,52.69,NA
+"378",14,"Butis butis",0,91.68,60,82.71428571,93.9,NA
+"379",14,"Halicampus grayii",0,91.68,60,82.71428571,93.9,NA
+"380",14,"Apogon amboinensis",1,91.68,60,82.71428571,93.9,5.5
+"381",14,"Gobidae",0,91.68,60,82.71428571,93.9,NA
+"382",14,"Apogon hyalosoma",0,91.68,60,82.71428571,93.9,NA
+"383",14,"Eleotris fusca",0,91.68,60,82.71428571,93.9,NA
+"384",14,"Zenarchopterus dispar",0,91.68,60,82.71428571,93.9,NA
+"385",14,"Acentrogobius caninus",2,91.68,60,82.71428571,93.9,1
+"386",14,"Glosogobius",0,91.68,60,82.71428571,93.9,NA
+"387",14,"Horaichthyidae",0,91.68,60,82.71428571,93.9,NA
+"388",14,"Siganus lineatus",0,91.68,60,82.71428571,93.9,NA
+"389",14,"Acentrogobius sp",0,91.68,60,82.71428571,93.9,NA
+"390",14,"Arothron hispidus",0,91.68,60,82.71428571,93.9,NA
+"391",14,"Siganus vermiculatus",0,91.68,60,82.71428571,93.9,NA
+"392",14,"Bostrychus sinensis",0,91.68,60,82.71428571,93.9,NA
+"393",14,"Toxotes jaculatrix",0,91.68,60,82.71428571,93.9,NA
+"394",14,"Strongylura leiura",0,91.68,60,82.71428571,93.9,NA
+"395",14,"Liza macrolepsis",0,91.68,60,82.71428571,93.9,NA
+"396",14,"Scatophagus argus",0,91.68,60,82.71428571,93.9,NA
+"397",14,"Gerres limbatus",0,91.68,60,82.71428571,93.9,NA
+"398",14,"Orange fish",0,91.68,60,82.71428571,93.9,NA
+"399",14,"Apogonidae 3",0,91.68,60,82.71428571,93.9,NA
+"400",14,"Lutjanus argentimaculatus",0,91.68,60,82.71428571,93.9,NA
+"401",14,"Caranx sexfasciatus",0,91.68,60,82.71428571,93.9,NA
+"402",14,"Sphaeramia orbicularis",0,91.68,60,82.71428571,93.9,NA
+"403",14,"Chanos chanos",0,91.68,60,82.71428571,93.9,NA
+"404",14,"Plectorhinchus gibbosus",0,91.68,60,82.71428571,93.9,NA
+"405",14,"Lutjanus fulviflamma",0,91.68,60,82.71428571,93.9,NA
+"406",14,"Tetradontidae",0,91.68,60,82.71428571,93.9,NA
+"407",15,"Butis butis",3,75.56,50,55.28571429,80.74,3.433
+"408",15,"Halicampus grayii",0,75.56,50,55.28571429,80.74,NA
+"409",15,"Apogon amboinensis",0,75.56,50,55.28571429,80.74,NA
+"410",15,"Gobidae",0,75.56,50,55.28571429,80.74,NA
+"411",15,"Apogon hyalosoma",0,75.56,50,55.28571429,80.74,NA
+"412",15,"Eleotris fusca",0,75.56,50,55.28571429,80.74,NA
+"413",15,"Zenarchopterus dispar",0,75.56,50,55.28571429,80.74,NA
+"414",15,"Acentrogobius caninus",0,75.56,50,55.28571429,80.74,NA
+"415",15,"Glosogobius",1,75.56,50,55.28571429,80.74,4.6
+"416",15,"Horaichthyidae",0,75.56,50,55.28571429,80.74,NA
+"417",15,"Siganus lineatus",0,75.56,50,55.28571429,80.74,NA
+"418",15,"Acentrogobius sp",2,75.56,50,55.28571429,80.74,2.5
+"419",15,"Arothron hispidus",0,75.56,50,55.28571429,80.74,NA
+"420",15,"Siganus vermiculatus",0,75.56,50,55.28571429,80.74,NA
+"421",15,"Bostrychus sinensis",0,75.56,50,55.28571429,80.74,NA
+"422",15,"Toxotes jaculatrix",0,75.56,50,55.28571429,80.74,NA
+"423",15,"Strongylura leiura",0,75.56,50,55.28571429,80.74,NA
+"424",15,"Liza macrolepsis",0,75.56,50,55.28571429,80.74,NA
+"425",15,"Scatophagus argus",0,75.56,50,55.28571429,80.74,NA
+"426",15,"Gerres limbatus",0,75.56,50,55.28571429,80.74,NA
+"427",15,"Orange fish",0,75.56,50,55.28571429,80.74,NA
+"428",15,"Apogonidae 3",0,75.56,50,55.28571429,80.74,NA
+"429",15,"Lutjanus argentimaculatus",0,75.56,50,55.28571429,80.74,NA
+"430",15,"Caranx sexfasciatus",0,75.56,50,55.28571429,80.74,NA
+"431",15,"Sphaeramia orbicularis",0,75.56,50,55.28571429,80.74,NA
+"432",15,"Chanos chanos",0,75.56,50,55.28571429,80.74,NA
+"433",15,"Plectorhinchus gibbosus",0,75.56,50,55.28571429,80.74,NA
+"434",15,"Lutjanus fulviflamma",0,75.56,50,55.28571429,80.74,NA
+"435",15,"Tetradontidae",0,75.56,50,55.28571429,80.74,NA
+"436",16,"Butis butis",0,95.32,20.6,15.14285714,35.65,NA
+"437",16,"Halicampus grayii",0,95.32,20.6,15.14285714,35.65,NA
+"438",16,"Apogon amboinensis",0,95.32,20.6,15.14285714,35.65,NA
+"439",16,"Gobidae",0,95.32,20.6,15.14285714,35.65,NA
+"440",16,"Apogon hyalosoma",0,95.32,20.6,15.14285714,35.65,NA
+"441",16,"Eleotris fusca",0,95.32,20.6,15.14285714,35.65,NA
+"442",16,"Zenarchopterus dispar",0,95.32,20.6,15.14285714,35.65,NA
+"443",16,"Acentrogobius caninus",0,95.32,20.6,15.14285714,35.65,NA
+"444",16,"Glosogobius",0,95.32,20.6,15.14285714,35.65,NA
+"445",16,"Horaichthyidae",0,95.32,20.6,15.14285714,35.65,NA
+"446",16,"Siganus lineatus",0,95.32,20.6,15.14285714,35.65,NA
+"447",16,"Acentrogobius sp",3,95.32,20.6,15.14285714,35.65,1
+"448",16,"Arothron hispidus",1,95.32,20.6,15.14285714,35.65,15
+"449",16,"Siganus vermiculatus",0,95.32,20.6,15.14285714,35.65,NA
+"450",16,"Bostrychus sinensis",0,95.32,20.6,15.14285714,35.65,NA
+"451",16,"Toxotes jaculatrix",0,95.32,20.6,15.14285714,35.65,NA
+"452",16,"Strongylura leiura",0,95.32,20.6,15.14285714,35.65,NA
+"453",16,"Liza macrolepsis",0,95.32,20.6,15.14285714,35.65,NA
+"454",16,"Scatophagus argus",0,95.32,20.6,15.14285714,35.65,NA
+"455",16,"Gerres limbatus",0,95.32,20.6,15.14285714,35.65,NA
+"456",16,"Orange fish",0,95.32,20.6,15.14285714,35.65,NA
+"457",16,"Apogonidae 3",0,95.32,20.6,15.14285714,35.65,NA
+"458",16,"Lutjanus argentimaculatus",0,95.32,20.6,15.14285714,35.65,NA
+"459",16,"Caranx sexfasciatus",0,95.32,20.6,15.14285714,35.65,NA
+"460",16,"Sphaeramia orbicularis",0,95.32,20.6,15.14285714,35.65,NA
+"461",16,"Chanos chanos",0,95.32,20.6,15.14285714,35.65,NA
+"462",16,"Plectorhinchus gibbosus",0,95.32,20.6,15.14285714,35.65,NA
+"463",16,"Lutjanus fulviflamma",0,95.32,20.6,15.14285714,35.65,NA
+"464",16,"Tetradontidae",0,95.32,20.6,15.14285714,35.65,NA
+"465",17,"Butis butis",0,95.84,50.6,20.14285714,15.74,NA
+"466",17,"Halicampus grayii",0,95.84,50.6,20.14285714,15.74,NA
+"467",17,"Apogon amboinensis",0,95.84,50.6,20.14285714,15.74,NA
+"468",17,"Gobidae",0,95.84,50.6,20.14285714,15.74,NA
+"469",17,"Apogon hyalosoma",0,95.84,50.6,20.14285714,15.74,NA
+"470",17,"Eleotris fusca",0,95.84,50.6,20.14285714,15.74,NA
+"471",17,"Zenarchopterus dispar",0,95.84,50.6,20.14285714,15.74,NA
+"472",17,"Acentrogobius caninus",0,95.84,50.6,20.14285714,15.74,NA
+"473",17,"Glosogobius",0,95.84,50.6,20.14285714,15.74,NA
+"474",17,"Horaichthyidae",0,95.84,50.6,20.14285714,15.74,NA
+"475",17,"Siganus lineatus",0,95.84,50.6,20.14285714,15.74,NA
+"476",17,"Acentrogobius sp",0,95.84,50.6,20.14285714,15.74,NA
+"477",17,"Arothron hispidus",0,95.84,50.6,20.14285714,15.74,NA
+"478",17,"Siganus vermiculatus",0,95.84,50.6,20.14285714,15.74,NA
+"479",17,"Bostrychus sinensis",0,95.84,50.6,20.14285714,15.74,NA
+"480",17,"Toxotes jaculatrix",0,95.84,50.6,20.14285714,15.74,NA
+"481",17,"Strongylura leiura",0,95.84,50.6,20.14285714,15.74,NA
+"482",17,"Liza macrolepsis",0,95.84,50.6,20.14285714,15.74,NA
+"483",17,"Scatophagus argus",0,95.84,50.6,20.14285714,15.74,NA
+"484",17,"Gerres limbatus",0,95.84,50.6,20.14285714,15.74,NA
+"485",17,"Orange fish",0,95.84,50.6,20.14285714,15.74,NA
+"486",17,"Apogonidae 3",0,95.84,50.6,20.14285714,15.74,NA
+"487",17,"Lutjanus argentimaculatus",0,95.84,50.6,20.14285714,15.74,NA
+"488",17,"Caranx sexfasciatus",0,95.84,50.6,20.14285714,15.74,NA
+"489",17,"Sphaeramia orbicularis",0,95.84,50.6,20.14285714,15.74,NA
+"490",17,"Chanos chanos",0,95.84,50.6,20.14285714,15.74,NA
+"491",17,"Plectorhinchus gibbosus",0,95.84,50.6,20.14285714,15.74,NA
+"492",17,"Lutjanus fulviflamma",0,95.84,50.6,20.14285714,15.74,NA
+"493",17,"Tetradontidae",0,95.84,50.6,20.14285714,15.74,NA
+"494",18,"Butis butis",0,93.24,80.4,28.42857143,5.77,NA
+"495",18,"Halicampus grayii",0,93.24,80.4,28.42857143,5.77,NA
+"496",18,"Apogon amboinensis",0,93.24,80.4,28.42857143,5.77,NA
+"497",18,"Gobidae",0,93.24,80.4,28.42857143,5.77,NA
+"498",18,"Apogon hyalosoma",0,93.24,80.4,28.42857143,5.77,NA
+"499",18,"Eleotris fusca",0,93.24,80.4,28.42857143,5.77,NA
+"500",18,"Zenarchopterus dispar",0,93.24,80.4,28.42857143,5.77,NA
+"501",18,"Acentrogobius caninus",0,93.24,80.4,28.42857143,5.77,NA
+"502",18,"Glosogobius",0,93.24,80.4,28.42857143,5.77,NA
+"503",18,"Horaichthyidae",0,93.24,80.4,28.42857143,5.77,NA
+"504",18,"Siganus lineatus",0,93.24,80.4,28.42857143,5.77,NA
+"505",18,"Acentrogobius sp",0,93.24,80.4,28.42857143,5.77,NA
+"506",18,"Arothron hispidus",0,93.24,80.4,28.42857143,5.77,NA
+"507",18,"Siganus vermiculatus",0,93.24,80.4,28.42857143,5.77,NA
+"508",18,"Bostrychus sinensis",0,93.24,80.4,28.42857143,5.77,NA
+"509",18,"Toxotes jaculatrix",0,93.24,80.4,28.42857143,5.77,NA
+"510",18,"Strongylura leiura",0,93.24,80.4,28.42857143,5.77,NA
+"511",18,"Liza macrolepsis",0,93.24,80.4,28.42857143,5.77,NA
+"512",18,"Scatophagus argus",0,93.24,80.4,28.42857143,5.77,NA
+"513",18,"Gerres limbatus",0,93.24,80.4,28.42857143,5.77,NA
+"514",18,"Orange fish",0,93.24,80.4,28.42857143,5.77,NA
+"515",18,"Apogonidae 3",0,93.24,80.4,28.42857143,5.77,NA
+"516",18,"Lutjanus argentimaculatus",0,93.24,80.4,28.42857143,5.77,NA
+"517",18,"Caranx sexfasciatus",0,93.24,80.4,28.42857143,5.77,NA
+"518",18,"Sphaeramia orbicularis",0,93.24,80.4,28.42857143,5.77,NA
+"519",18,"Chanos chanos",0,93.24,80.4,28.42857143,5.77,NA
+"520",18,"Plectorhinchus gibbosus",0,93.24,80.4,28.42857143,5.77,NA
+"521",18,"Lutjanus fulviflamma",0,93.24,80.4,28.42857143,5.77,NA
+"522",18,"Tetradontidae",0,93.24,80.4,28.42857143,5.77,NA
+"523",19,"Butis butis",0,79.2,70,30,5.19,NA
+"524",19,"Halicampus grayii",0,79.2,70,30,5.19,NA
+"525",19,"Apogon amboinensis",0,79.2,70,30,5.19,NA
+"526",19,"Gobidae",0,79.2,70,30,5.19,NA
+"527",19,"Apogon hyalosoma",0,79.2,70,30,5.19,NA
+"528",19,"Eleotris fusca",1,79.2,70,30,5.19,20
+"529",19,"Zenarchopterus dispar",0,79.2,70,30,5.19,NA
+"530",19,"Acentrogobius caninus",0,79.2,70,30,5.19,NA
+"531",19,"Glosogobius",0,79.2,70,30,5.19,NA
+"532",19,"Horaichthyidae",0,79.2,70,30,5.19,NA
+"533",19,"Siganus lineatus",0,79.2,70,30,5.19,NA
+"534",19,"Acentrogobius sp",0,79.2,70,30,5.19,NA
+"535",19,"Arothron hispidus",0,79.2,70,30,5.19,NA
+"536",19,"Siganus vermiculatus",3,79.2,70,30,5.19,21.447
+"537",19,"Bostrychus sinensis",0,79.2,70,30,5.19,NA
+"538",19,"Toxotes jaculatrix",0,79.2,70,30,5.19,NA
+"539",19,"Strongylura leiura",0,79.2,70,30,5.19,NA
+"540",19,"Liza macrolepsis",0,79.2,70,30,5.19,NA
+"541",19,"Scatophagus argus",0,79.2,70,30,5.19,NA
+"542",19,"Gerres limbatus",0,79.2,70,30,5.19,NA
+"543",19,"Orange fish",0,79.2,70,30,5.19,NA
+"544",19,"Apogonidae 3",0,79.2,70,30,5.19,NA
+"545",19,"Lutjanus argentimaculatus",0,79.2,70,30,5.19,NA
+"546",19,"Caranx sexfasciatus",0,79.2,70,30,5.19,NA
+"547",19,"Sphaeramia orbicularis",0,79.2,70,30,5.19,NA
+"548",19,"Chanos chanos",0,79.2,70,30,5.19,NA
+"549",19,"Plectorhinchus gibbosus",0,79.2,70,30,5.19,NA
+"550",19,"Lutjanus fulviflamma",0,79.2,70,30,5.19,NA
+"551",19,"Tetradontidae",0,79.2,70,30,5.19,NA
+"552",20,"Butis butis",0,71.14,50.2,27.14285714,36.33,NA
+"553",20,"Halicampus grayii",0,71.14,50.2,27.14285714,36.33,NA
+"554",20,"Apogon amboinensis",0,71.14,50.2,27.14285714,36.33,NA
+"555",20,"Gobidae",0,71.14,50.2,27.14285714,36.33,NA
+"556",20,"Apogon hyalosoma",0,71.14,50.2,27.14285714,36.33,NA
+"557",20,"Eleotris fusca",1,71.14,50.2,27.14285714,36.33,18
+"558",20,"Zenarchopterus dispar",1,71.14,50.2,27.14285714,36.33,14.29
+"559",20,"Acentrogobius caninus",0,71.14,50.2,27.14285714,36.33,NA
+"560",20,"Glosogobius",0,71.14,50.2,27.14285714,36.33,NA
+"561",20,"Horaichthyidae",0,71.14,50.2,27.14285714,36.33,NA
+"562",20,"Siganus lineatus",0,71.14,50.2,27.14285714,36.33,NA
+"563",20,"Acentrogobius sp",0,71.14,50.2,27.14285714,36.33,NA
+"564",20,"Arothron hispidus",0,71.14,50.2,27.14285714,36.33,NA
+"565",20,"Siganus vermiculatus",0,71.14,50.2,27.14285714,36.33,NA
+"566",20,"Bostrychus sinensis",0,71.14,50.2,27.14285714,36.33,NA
+"567",20,"Toxotes jaculatrix",0,71.14,50.2,27.14285714,36.33,NA
+"568",20,"Strongylura leiura",0,71.14,50.2,27.14285714,36.33,NA
+"569",20,"Liza macrolepsis",0,71.14,50.2,27.14285714,36.33,NA
+"570",20,"Scatophagus argus",0,71.14,50.2,27.14285714,36.33,NA
+"571",20,"Gerres limbatus",0,71.14,50.2,27.14285714,36.33,NA
+"572",20,"Orange fish",0,71.14,50.2,27.14285714,36.33,NA
+"573",20,"Apogonidae 3",0,71.14,50.2,27.14285714,36.33,NA
+"574",20,"Lutjanus argentimaculatus",0,71.14,50.2,27.14285714,36.33,NA
+"575",20,"Caranx sexfasciatus",0,71.14,50.2,27.14285714,36.33,NA
+"576",20,"Sphaeramia orbicularis",0,71.14,50.2,27.14285714,36.33,NA
+"577",20,"Chanos chanos",0,71.14,50.2,27.14285714,36.33,NA
+"578",20,"Plectorhinchus gibbosus",0,71.14,50.2,27.14285714,36.33,NA
+"579",20,"Lutjanus fulviflamma",0,71.14,50.2,27.14285714,36.33,NA
+"580",20,"Tetradontidae",0,71.14,50.2,27.14285714,36.33,NA
+"581",21,"Butis butis",0,63.6,25,13.71428571,92.39,NA
+"582",21,"Halicampus grayii",0,63.6,25,13.71428571,92.39,NA
+"583",21,"Apogon amboinensis",0,63.6,25,13.71428571,92.39,NA
+"584",21,"Gobidae",0,63.6,25,13.71428571,92.39,NA
+"585",21,"Apogon hyalosoma",0,63.6,25,13.71428571,92.39,NA
+"586",21,"Eleotris fusca",1,63.6,25,13.71428571,92.39,5
+"587",21,"Zenarchopterus dispar",0,63.6,25,13.71428571,92.39,NA
+"588",21,"Acentrogobius caninus",0,63.6,25,13.71428571,92.39,NA
+"589",21,"Glosogobius",0,63.6,25,13.71428571,92.39,NA
+"590",21,"Horaichthyidae",0,63.6,25,13.71428571,92.39,NA
+"591",21,"Siganus lineatus",0,63.6,25,13.71428571,92.39,NA
+"592",21,"Acentrogobius sp",1,63.6,25,13.71428571,92.39,4
+"593",21,"Arothron hispidus",0,63.6,25,13.71428571,92.39,NA
+"594",21,"Siganus vermiculatus",0,63.6,25,13.71428571,92.39,NA
+"595",21,"Bostrychus sinensis",1,63.6,25,13.71428571,92.39,7.99
+"596",21,"Toxotes jaculatrix",0,63.6,25,13.71428571,92.39,NA
+"597",21,"Strongylura leiura",0,63.6,25,13.71428571,92.39,NA
+"598",21,"Liza macrolepsis",0,63.6,25,13.71428571,92.39,NA
+"599",21,"Scatophagus argus",0,63.6,25,13.71428571,92.39,NA
+"600",21,"Gerres limbatus",0,63.6,25,13.71428571,92.39,NA
+"601",21,"Orange fish",0,63.6,25,13.71428571,92.39,NA
+"602",21,"Apogonidae 3",0,63.6,25,13.71428571,92.39,NA
+"603",21,"Lutjanus argentimaculatus",0,63.6,25,13.71428571,92.39,NA
+"604",21,"Caranx sexfasciatus",0,63.6,25,13.71428571,92.39,NA
+"605",21,"Sphaeramia orbicularis",0,63.6,25,13.71428571,92.39,NA
+"606",21,"Chanos chanos",0,63.6,25,13.71428571,92.39,NA
+"607",21,"Plectorhinchus gibbosus",0,63.6,25,13.71428571,92.39,NA
+"608",21,"Lutjanus fulviflamma",0,63.6,25,13.71428571,92.39,NA
+"609",21,"Tetradontidae",0,63.6,25,13.71428571,92.39,NA
+"610",22,"Butis butis",0,96.88,30,18.85714286,69.59,NA
+"611",22,"Halicampus grayii",0,96.88,30,18.85714286,69.59,NA
+"612",22,"Apogon amboinensis",0,96.88,30,18.85714286,69.59,NA
+"613",22,"Gobidae",0,96.88,30,18.85714286,69.59,NA
+"614",22,"Apogon hyalosoma",0,96.88,30,18.85714286,69.59,NA
+"615",22,"Eleotris fusca",0,96.88,30,18.85714286,69.59,NA
+"616",22,"Zenarchopterus dispar",0,96.88,30,18.85714286,69.59,NA
+"617",22,"Acentrogobius caninus",0,96.88,30,18.85714286,69.59,NA
+"618",22,"Glosogobius",0,96.88,30,18.85714286,69.59,NA
+"619",22,"Horaichthyidae",0,96.88,30,18.85714286,69.59,NA
+"620",22,"Siganus lineatus",0,96.88,30,18.85714286,69.59,NA
+"621",22,"Acentrogobius sp",3,96.88,30,18.85714286,69.59,3.167
+"622",22,"Arothron hispidus",0,96.88,30,18.85714286,69.59,NA
+"623",22,"Siganus vermiculatus",0,96.88,30,18.85714286,69.59,NA
+"624",22,"Bostrychus sinensis",0,96.88,30,18.85714286,69.59,NA
+"625",22,"Toxotes jaculatrix",0,96.88,30,18.85714286,69.59,NA
+"626",22,"Strongylura leiura",0,96.88,30,18.85714286,69.59,NA
+"627",22,"Liza macrolepsis",0,96.88,30,18.85714286,69.59,NA
+"628",22,"Scatophagus argus",0,96.88,30,18.85714286,69.59,NA
+"629",22,"Gerres limbatus",0,96.88,30,18.85714286,69.59,NA
+"630",22,"Orange fish",0,96.88,30,18.85714286,69.59,NA
+"631",22,"Apogonidae 3",0,96.88,30,18.85714286,69.59,NA
+"632",22,"Lutjanus argentimaculatus",0,96.88,30,18.85714286,69.59,NA
+"633",22,"Caranx sexfasciatus",0,96.88,30,18.85714286,69.59,NA
+"634",22,"Sphaeramia orbicularis",0,96.88,30,18.85714286,69.59,NA
+"635",22,"Chanos chanos",0,96.88,30,18.85714286,69.59,NA
+"636",22,"Plectorhinchus gibbosus",0,96.88,30,18.85714286,69.59,NA
+"637",22,"Lutjanus fulviflamma",0,96.88,30,18.85714286,69.59,NA
+"638",22,"Tetradontidae",0,96.88,30,18.85714286,69.59,NA
+"639",23,"Butis butis",1,95.06,60,20.71428571,45.76,4
+"640",23,"Halicampus grayii",0,95.06,60,20.71428571,45.76,NA
+"641",23,"Apogon amboinensis",0,95.06,60,20.71428571,45.76,NA
+"642",23,"Gobidae",0,95.06,60,20.71428571,45.76,NA
+"643",23,"Apogon hyalosoma",0,95.06,60,20.71428571,45.76,NA
+"644",23,"Eleotris fusca",0,95.06,60,20.71428571,45.76,NA
+"645",23,"Zenarchopterus dispar",0,95.06,60,20.71428571,45.76,NA
+"646",23,"Acentrogobius caninus",0,95.06,60,20.71428571,45.76,NA
+"647",23,"Glosogobius",2,95.06,60,20.71428571,45.76,3.5
+"648",23,"Horaichthyidae",0,95.06,60,20.71428571,45.76,NA
+"649",23,"Siganus lineatus",0,95.06,60,20.71428571,45.76,NA
+"650",23,"Acentrogobius sp",0,95.06,60,20.71428571,45.76,NA
+"651",23,"Arothron hispidus",0,95.06,60,20.71428571,45.76,NA
+"652",23,"Siganus vermiculatus",0,95.06,60,20.71428571,45.76,NA
+"653",23,"Bostrychus sinensis",0,95.06,60,20.71428571,45.76,NA
+"654",23,"Toxotes jaculatrix",0,95.06,60,20.71428571,45.76,NA
+"655",23,"Strongylura leiura",0,95.06,60,20.71428571,45.76,NA
+"656",23,"Liza macrolepsis",0,95.06,60,20.71428571,45.76,NA
+"657",23,"Scatophagus argus",0,95.06,60,20.71428571,45.76,NA
+"658",23,"Gerres limbatus",0,95.06,60,20.71428571,45.76,NA
+"659",23,"Orange fish",0,95.06,60,20.71428571,45.76,NA
+"660",23,"Apogonidae 3",0,95.06,60,20.71428571,45.76,NA
+"661",23,"Lutjanus argentimaculatus",0,95.06,60,20.71428571,45.76,NA
+"662",23,"Caranx sexfasciatus",0,95.06,60,20.71428571,45.76,NA
+"663",23,"Sphaeramia orbicularis",0,95.06,60,20.71428571,45.76,NA
+"664",23,"Chanos chanos",0,95.06,60,20.71428571,45.76,NA
+"665",23,"Plectorhinchus gibbosus",0,95.06,60,20.71428571,45.76,NA
+"666",23,"Lutjanus fulviflamma",0,95.06,60,20.71428571,45.76,NA
+"667",23,"Tetradontidae",0,95.06,60,20.71428571,45.76,NA
+"668",24,"Butis butis",0,97.4,75,17.85714286,90.26,NA
+"669",24,"Halicampus grayii",0,97.4,75,17.85714286,90.26,NA
+"670",24,"Apogon amboinensis",0,97.4,75,17.85714286,90.26,NA
+"671",24,"Gobidae",0,97.4,75,17.85714286,90.26,NA
+"672",24,"Apogon hyalosoma",0,97.4,75,17.85714286,90.26,NA
+"673",24,"Eleotris fusca",0,97.4,75,17.85714286,90.26,NA
+"674",24,"Zenarchopterus dispar",0,97.4,75,17.85714286,90.26,NA
+"675",24,"Acentrogobius caninus",0,97.4,75,17.85714286,90.26,NA
+"676",24,"Glosogobius",0,97.4,75,17.85714286,90.26,NA
+"677",24,"Horaichthyidae",15,97.4,75,17.85714286,90.26,1
+"678",24,"Siganus lineatus",0,97.4,75,17.85714286,90.26,NA
+"679",24,"Acentrogobius sp",3,97.4,75,17.85714286,90.26,1.333
+"680",24,"Arothron hispidus",0,97.4,75,17.85714286,90.26,NA
+"681",24,"Siganus vermiculatus",0,97.4,75,17.85714286,90.26,NA
+"682",24,"Bostrychus sinensis",1,97.4,75,17.85714286,90.26,5
+"683",24,"Toxotes jaculatrix",0,97.4,75,17.85714286,90.26,NA
+"684",24,"Strongylura leiura",0,97.4,75,17.85714286,90.26,NA
+"685",24,"Liza macrolepsis",0,97.4,75,17.85714286,90.26,NA
+"686",24,"Scatophagus argus",0,97.4,75,17.85714286,90.26,NA
+"687",24,"Gerres limbatus",0,97.4,75,17.85714286,90.26,NA
+"688",24,"Orange fish",0,97.4,75,17.85714286,90.26,NA
+"689",24,"Apogonidae 3",0,97.4,75,17.85714286,90.26,NA
+"690",24,"Lutjanus argentimaculatus",0,97.4,75,17.85714286,90.26,NA
+"691",24,"Caranx sexfasciatus",0,97.4,75,17.85714286,90.26,NA
+"692",24,"Sphaeramia orbicularis",0,97.4,75,17.85714286,90.26,NA
+"693",24,"Chanos chanos",0,97.4,75,17.85714286,90.26,NA
+"694",24,"Plectorhinchus gibbosus",0,97.4,75,17.85714286,90.26,NA
+"695",24,"Lutjanus fulviflamma",0,97.4,75,17.85714286,90.26,NA
+"696",24,"Tetradontidae",0,97.4,75,17.85714286,90.26,NA
+"697",25,"Butis butis",0,92.98,80,26.57142857,59.29,NA
+"698",25,"Halicampus grayii",0,92.98,80,26.57142857,59.29,NA
+"699",25,"Apogon amboinensis",0,92.98,80,26.57142857,59.29,NA
+"700",25,"Gobidae",0,92.98,80,26.57142857,59.29,NA
+"701",25,"Apogon hyalosoma",0,92.98,80,26.57142857,59.29,NA
+"702",25,"Eleotris fusca",0,92.98,80,26.57142857,59.29,NA
+"703",25,"Zenarchopterus dispar",0,92.98,80,26.57142857,59.29,NA
+"704",25,"Acentrogobius caninus",0,92.98,80,26.57142857,59.29,NA
+"705",25,"Glosogobius",0,92.98,80,26.57142857,59.29,NA
+"706",25,"Horaichthyidae",0,92.98,80,26.57142857,59.29,NA
+"707",25,"Siganus lineatus",0,92.98,80,26.57142857,59.29,NA
+"708",25,"Acentrogobius sp",0,92.98,80,26.57142857,59.29,NA
+"709",25,"Arothron hispidus",0,92.98,80,26.57142857,59.29,NA
+"710",25,"Siganus vermiculatus",0,92.98,80,26.57142857,59.29,NA
+"711",25,"Bostrychus sinensis",0,92.98,80,26.57142857,59.29,NA
+"712",25,"Toxotes jaculatrix",0,92.98,80,26.57142857,59.29,NA
+"713",25,"Strongylura leiura",0,92.98,80,26.57142857,59.29,NA
+"714",25,"Liza macrolepsis",0,92.98,80,26.57142857,59.29,NA
+"715",25,"Scatophagus argus",0,92.98,80,26.57142857,59.29,NA
+"716",25,"Gerres limbatus",0,92.98,80,26.57142857,59.29,NA
+"717",25,"Orange fish",0,92.98,80,26.57142857,59.29,NA
+"718",25,"Apogonidae 3",0,92.98,80,26.57142857,59.29,NA
+"719",25,"Lutjanus argentimaculatus",0,92.98,80,26.57142857,59.29,NA
+"720",25,"Caranx sexfasciatus",0,92.98,80,26.57142857,59.29,NA
+"721",25,"Sphaeramia orbicularis",0,92.98,80,26.57142857,59.29,NA
+"722",25,"Chanos chanos",0,92.98,80,26.57142857,59.29,NA
+"723",25,"Plectorhinchus gibbosus",0,92.98,80,26.57142857,59.29,NA
+"724",25,"Lutjanus fulviflamma",0,92.98,80,26.57142857,59.29,NA
+"725",25,"Tetradontidae",0,92.98,80,26.57142857,59.29,NA
+"726",26,"Butis butis",0,40.72,30.7,7.571428571,189.36,NA
+"727",26,"Halicampus grayii",0,40.72,30.7,7.571428571,189.36,NA
+"728",26,"Apogon amboinensis",0,40.72,30.7,7.571428571,189.36,NA
+"729",26,"Gobidae",0,40.72,30.7,7.571428571,189.36,NA
+"730",26,"Apogon hyalosoma",0,40.72,30.7,7.571428571,189.36,NA
+"731",26,"Eleotris fusca",0,40.72,30.7,7.571428571,189.36,NA
+"732",26,"Zenarchopterus dispar",0,40.72,30.7,7.571428571,189.36,NA
+"733",26,"Acentrogobius caninus",0,40.72,30.7,7.571428571,189.36,NA
+"734",26,"Glosogobius",0,40.72,30.7,7.571428571,189.36,NA
+"735",26,"Horaichthyidae",0,40.72,30.7,7.571428571,189.36,NA
+"736",26,"Siganus lineatus",0,40.72,30.7,7.571428571,189.36,NA
+"737",26,"Acentrogobius sp",0,40.72,30.7,7.571428571,189.36,NA
+"738",26,"Arothron hispidus",0,40.72,30.7,7.571428571,189.36,NA
+"739",26,"Siganus vermiculatus",0,40.72,30.7,7.571428571,189.36,NA
+"740",26,"Bostrychus sinensis",0,40.72,30.7,7.571428571,189.36,NA
+"741",26,"Toxotes jaculatrix",0,40.72,30.7,7.571428571,189.36,NA
+"742",26,"Strongylura leiura",0,40.72,30.7,7.571428571,189.36,NA
+"743",26,"Liza macrolepsis",0,40.72,30.7,7.571428571,189.36,NA
+"744",26,"Scatophagus argus",0,40.72,30.7,7.571428571,189.36,NA
+"745",26,"Gerres limbatus",0,40.72,30.7,7.571428571,189.36,NA
+"746",26,"Orange fish",0,40.72,30.7,7.571428571,189.36,NA
+"747",26,"Apogonidae 3",0,40.72,30.7,7.571428571,189.36,NA
+"748",26,"Lutjanus argentimaculatus",0,40.72,30.7,7.571428571,189.36,NA
+"749",26,"Caranx sexfasciatus",0,40.72,30.7,7.571428571,189.36,NA
+"750",26,"Sphaeramia orbicularis",0,40.72,30.7,7.571428571,189.36,NA
+"751",26,"Chanos chanos",0,40.72,30.7,7.571428571,189.36,NA
+"752",26,"Plectorhinchus gibbosus",0,40.72,30.7,7.571428571,189.36,NA
+"753",26,"Lutjanus fulviflamma",0,40.72,30.7,7.571428571,189.36,NA
+"754",26,"Tetradontidae",0,40.72,30.7,7.571428571,189.36,NA
+"755",27,"Butis butis",0,85.96,20.5,23,166.46,NA
+"756",27,"Halicampus grayii",0,85.96,20.5,23,166.46,NA
+"757",27,"Apogon amboinensis",0,85.96,20.5,23,166.46,NA
+"758",27,"Gobidae",0,85.96,20.5,23,166.46,NA
+"759",27,"Apogon hyalosoma",0,85.96,20.5,23,166.46,NA
+"760",27,"Eleotris fusca",0,85.96,20.5,23,166.46,NA
+"761",27,"Zenarchopterus dispar",0,85.96,20.5,23,166.46,NA
+"762",27,"Acentrogobius caninus",0,85.96,20.5,23,166.46,NA
+"763",27,"Glosogobius",0,85.96,20.5,23,166.46,NA
+"764",27,"Horaichthyidae",2,85.96,20.5,23,166.46,1
+"765",27,"Siganus lineatus",0,85.96,20.5,23,166.46,NA
+"766",27,"Acentrogobius sp",4,85.96,20.5,23,166.46,1
+"767",27,"Arothron hispidus",0,85.96,20.5,23,166.46,NA
+"768",27,"Siganus vermiculatus",0,85.96,20.5,23,166.46,NA
+"769",27,"Bostrychus sinensis",0,85.96,20.5,23,166.46,NA
+"770",27,"Toxotes jaculatrix",0,85.96,20.5,23,166.46,NA
+"771",27,"Strongylura leiura",0,85.96,20.5,23,166.46,NA
+"772",27,"Liza macrolepsis",0,85.96,20.5,23,166.46,NA
+"773",27,"Scatophagus argus",0,85.96,20.5,23,166.46,NA
+"774",27,"Gerres limbatus",0,85.96,20.5,23,166.46,NA
+"775",27,"Orange fish",0,85.96,20.5,23,166.46,NA
+"776",27,"Apogonidae 3",0,85.96,20.5,23,166.46,NA
+"777",27,"Lutjanus argentimaculatus",0,85.96,20.5,23,166.46,NA
+"778",27,"Caranx sexfasciatus",0,85.96,20.5,23,166.46,NA
+"779",27,"Sphaeramia orbicularis",0,85.96,20.5,23,166.46,NA
+"780",27,"Chanos chanos",0,85.96,20.5,23,166.46,NA
+"781",27,"Plectorhinchus gibbosus",0,85.96,20.5,23,166.46,NA
+"782",27,"Lutjanus fulviflamma",0,85.96,20.5,23,166.46,NA
+"783",27,"Tetradontidae",0,85.96,20.5,23,166.46,NA
+"784",28,"Butis butis",0,96.88,50.8,34.57142857,150.36,NA
+"785",28,"Halicampus grayii",0,96.88,50.8,34.57142857,150.36,NA
+"786",28,"Apogon amboinensis",0,96.88,50.8,34.57142857,150.36,NA
+"787",28,"Gobidae",0,96.88,50.8,34.57142857,150.36,NA
+"788",28,"Apogon hyalosoma",0,96.88,50.8,34.57142857,150.36,NA
+"789",28,"Eleotris fusca",0,96.88,50.8,34.57142857,150.36,NA
+"790",28,"Zenarchopterus dispar",0,96.88,50.8,34.57142857,150.36,NA
+"791",28,"Acentrogobius caninus",0,96.88,50.8,34.57142857,150.36,NA
+"792",28,"Glosogobius",0,96.88,50.8,34.57142857,150.36,NA
+"793",28,"Horaichthyidae",4,96.88,50.8,34.57142857,150.36,2.075
+"794",28,"Siganus lineatus",0,96.88,50.8,34.57142857,150.36,NA
+"795",28,"Acentrogobius sp",0,96.88,50.8,34.57142857,150.36,NA
+"796",28,"Arothron hispidus",0,96.88,50.8,34.57142857,150.36,NA
+"797",28,"Siganus vermiculatus",0,96.88,50.8,34.57142857,150.36,NA
+"798",28,"Bostrychus sinensis",0,96.88,50.8,34.57142857,150.36,NA
+"799",28,"Toxotes jaculatrix",0,96.88,50.8,34.57142857,150.36,NA
+"800",28,"Strongylura leiura",0,96.88,50.8,34.57142857,150.36,NA
+"801",28,"Liza macrolepsis",0,96.88,50.8,34.57142857,150.36,NA
+"802",28,"Scatophagus argus",0,96.88,50.8,34.57142857,150.36,NA
+"803",28,"Gerres limbatus",0,96.88,50.8,34.57142857,150.36,NA
+"804",28,"Orange fish",0,96.88,50.8,34.57142857,150.36,NA
+"805",28,"Apogonidae 3",0,96.88,50.8,34.57142857,150.36,NA
+"806",28,"Lutjanus argentimaculatus",0,96.88,50.8,34.57142857,150.36,NA
+"807",28,"Caranx sexfasciatus",0,96.88,50.8,34.57142857,150.36,NA
+"808",28,"Sphaeramia orbicularis",0,96.88,50.8,34.57142857,150.36,NA
+"809",28,"Chanos chanos",0,96.88,50.8,34.57142857,150.36,NA
+"810",28,"Plectorhinchus gibbosus",0,96.88,50.8,34.57142857,150.36,NA
+"811",28,"Lutjanus fulviflamma",0,96.88,50.8,34.57142857,150.36,NA
+"812",28,"Tetradontidae",0,96.88,50.8,34.57142857,150.36,NA
+"813",29,"Butis butis",0,93.24,40.5,17.71428571,189,NA
+"814",29,"Halicampus grayii",0,93.24,40.5,17.71428571,189,NA
+"815",29,"Apogon amboinensis",0,93.24,40.5,17.71428571,189,NA
+"816",29,"Gobidae",0,93.24,40.5,17.71428571,189,NA
+"817",29,"Apogon hyalosoma",0,93.24,40.5,17.71428571,189,NA
+"818",29,"Eleotris fusca",0,93.24,40.5,17.71428571,189,NA
+"819",29,"Zenarchopterus dispar",0,93.24,40.5,17.71428571,189,NA
+"820",29,"Acentrogobius caninus",0,93.24,40.5,17.71428571,189,NA
+"821",29,"Glosogobius",0,93.24,40.5,17.71428571,189,NA
+"822",29,"Horaichthyidae",13,93.24,40.5,17.71428571,189,2
+"823",29,"Siganus lineatus",0,93.24,40.5,17.71428571,189,NA
+"824",29,"Acentrogobius sp",3,93.24,40.5,17.71428571,189,1
+"825",29,"Arothron hispidus",0,93.24,40.5,17.71428571,189,NA
+"826",29,"Siganus vermiculatus",0,93.24,40.5,17.71428571,189,NA
+"827",29,"Bostrychus sinensis",0,93.24,40.5,17.71428571,189,NA
+"828",29,"Toxotes jaculatrix",0,93.24,40.5,17.71428571,189,NA
+"829",29,"Strongylura leiura",0,93.24,40.5,17.71428571,189,NA
+"830",29,"Liza macrolepsis",0,93.24,40.5,17.71428571,189,NA
+"831",29,"Scatophagus argus",0,93.24,40.5,17.71428571,189,NA
+"832",29,"Gerres limbatus",0,93.24,40.5,17.71428571,189,NA
+"833",29,"Orange fish",0,93.24,40.5,17.71428571,189,NA
+"834",29,"Apogonidae 3",0,93.24,40.5,17.71428571,189,NA
+"835",29,"Lutjanus argentimaculatus",0,93.24,40.5,17.71428571,189,NA
+"836",29,"Caranx sexfasciatus",0,93.24,40.5,17.71428571,189,NA
+"837",29,"Sphaeramia orbicularis",0,93.24,40.5,17.71428571,189,NA
+"838",29,"Chanos chanos",0,93.24,40.5,17.71428571,189,NA
+"839",29,"Plectorhinchus gibbosus",0,93.24,40.5,17.71428571,189,NA
+"840",29,"Lutjanus fulviflamma",0,93.24,40.5,17.71428571,189,NA
+"841",29,"Tetradontidae",0,93.24,40.5,17.71428571,189,NA
+"842",30,"Butis butis",0,97.4,60.5,29.14285714,140.1,NA
+"843",30,"Halicampus grayii",0,97.4,60.5,29.14285714,140.1,NA
+"844",30,"Apogon amboinensis",0,97.4,60.5,29.14285714,140.1,NA
+"845",30,"Gobidae",0,97.4,60.5,29.14285714,140.1,NA
+"846",30,"Apogon hyalosoma",0,97.4,60.5,29.14285714,140.1,NA
+"847",30,"Eleotris fusca",0,97.4,60.5,29.14285714,140.1,NA
+"848",30,"Zenarchopterus dispar",0,97.4,60.5,29.14285714,140.1,NA
+"849",30,"Acentrogobius caninus",0,97.4,60.5,29.14285714,140.1,NA
+"850",30,"Glosogobius",0,97.4,60.5,29.14285714,140.1,NA
+"851",30,"Horaichthyidae",0,97.4,60.5,29.14285714,140.1,NA
+"852",30,"Siganus lineatus",0,97.4,60.5,29.14285714,140.1,NA
+"853",30,"Acentrogobius sp",3,97.4,60.5,29.14285714,140.1,1
+"854",30,"Arothron hispidus",0,97.4,60.5,29.14285714,140.1,NA
+"855",30,"Siganus vermiculatus",0,97.4,60.5,29.14285714,140.1,NA
+"856",30,"Bostrychus sinensis",0,97.4,60.5,29.14285714,140.1,NA
+"857",30,"Toxotes jaculatrix",0,97.4,60.5,29.14285714,140.1,NA
+"858",30,"Strongylura leiura",0,97.4,60.5,29.14285714,140.1,NA
+"859",30,"Liza macrolepsis",0,97.4,60.5,29.14285714,140.1,NA
+"860",30,"Scatophagus argus",0,97.4,60.5,29.14285714,140.1,NA
+"861",30,"Gerres limbatus",0,97.4,60.5,29.14285714,140.1,NA
+"862",30,"Orange fish",0,97.4,60.5,29.14285714,140.1,NA
+"863",30,"Apogonidae 3",0,97.4,60.5,29.14285714,140.1,NA
+"864",30,"Lutjanus argentimaculatus",0,97.4,60.5,29.14285714,140.1,NA
+"865",30,"Caranx sexfasciatus",0,97.4,60.5,29.14285714,140.1,NA
+"866",30,"Sphaeramia orbicularis",0,97.4,60.5,29.14285714,140.1,NA
+"867",30,"Chanos chanos",0,97.4,60.5,29.14285714,140.1,NA
+"868",30,"Plectorhinchus gibbosus",0,97.4,60.5,29.14285714,140.1,NA
+"869",30,"Lutjanus fulviflamma",0,97.4,60.5,29.14285714,140.1,NA
+"870",30,"Tetradontidae",0,97.4,60.5,29.14285714,140.1,NA
+"871",31,"Butis butis",0,56.32,40.9,30.57142857,272.36,NA
+"872",31,"Halicampus grayii",0,56.32,40.9,30.57142857,272.36,NA
+"873",31,"Apogon amboinensis",0,56.32,40.9,30.57142857,272.36,NA
+"874",31,"Gobidae",0,56.32,40.9,30.57142857,272.36,NA
+"875",31,"Apogon hyalosoma",0,56.32,40.9,30.57142857,272.36,NA
+"876",31,"Eleotris fusca",0,56.32,40.9,30.57142857,272.36,NA
+"877",31,"Zenarchopterus dispar",0,56.32,40.9,30.57142857,272.36,NA
+"878",31,"Acentrogobius caninus",0,56.32,40.9,30.57142857,272.36,NA
+"879",31,"Glosogobius",0,56.32,40.9,30.57142857,272.36,NA
+"880",31,"Horaichthyidae",0,56.32,40.9,30.57142857,272.36,NA
+"881",31,"Siganus lineatus",0,56.32,40.9,30.57142857,272.36,NA
+"882",31,"Acentrogobius sp",0,56.32,40.9,30.57142857,272.36,NA
+"883",31,"Arothron hispidus",0,56.32,40.9,30.57142857,272.36,NA
+"884",31,"Siganus vermiculatus",0,56.32,40.9,30.57142857,272.36,NA
+"885",31,"Bostrychus sinensis",0,56.32,40.9,30.57142857,272.36,NA
+"886",31,"Toxotes jaculatrix",0,56.32,40.9,30.57142857,272.36,NA
+"887",31,"Strongylura leiura",0,56.32,40.9,30.57142857,272.36,NA
+"888",31,"Liza macrolepsis",0,56.32,40.9,30.57142857,272.36,NA
+"889",31,"Scatophagus argus",0,56.32,40.9,30.57142857,272.36,NA
+"890",31,"Gerres limbatus",0,56.32,40.9,30.57142857,272.36,NA
+"891",31,"Orange fish",0,56.32,40.9,30.57142857,272.36,NA
+"892",31,"Apogonidae 3",0,56.32,40.9,30.57142857,272.36,NA
+"893",31,"Lutjanus argentimaculatus",0,56.32,40.9,30.57142857,272.36,NA
+"894",31,"Caranx sexfasciatus",0,56.32,40.9,30.57142857,272.36,NA
+"895",31,"Sphaeramia orbicularis",0,56.32,40.9,30.57142857,272.36,NA
+"896",31,"Chanos chanos",0,56.32,40.9,30.57142857,272.36,NA
+"897",31,"Plectorhinchus gibbosus",0,56.32,40.9,30.57142857,272.36,NA
+"898",31,"Lutjanus fulviflamma",0,56.32,40.9,30.57142857,272.36,NA
+"899",31,"Tetradontidae",0,56.32,40.9,30.57142857,272.36,NA
+"900",32,"Butis butis",0,88.56,70,29.28571429,276.92,NA
+"901",32,"Halicampus grayii",0,88.56,70,29.28571429,276.92,NA
+"902",32,"Apogon amboinensis",0,88.56,70,29.28571429,276.92,NA
+"903",32,"Gobidae",0,88.56,70,29.28571429,276.92,NA
+"904",32,"Apogon hyalosoma",0,88.56,70,29.28571429,276.92,NA
+"905",32,"Eleotris fusca",0,88.56,70,29.28571429,276.92,NA
+"906",32,"Zenarchopterus dispar",0,88.56,70,29.28571429,276.92,NA
+"907",32,"Acentrogobius caninus",0,88.56,70,29.28571429,276.92,NA
+"908",32,"Glosogobius",0,88.56,70,29.28571429,276.92,NA
+"909",32,"Horaichthyidae",0,88.56,70,29.28571429,276.92,NA
+"910",32,"Siganus lineatus",0,88.56,70,29.28571429,276.92,NA
+"911",32,"Acentrogobius sp",0,88.56,70,29.28571429,276.92,NA
+"912",32,"Arothron hispidus",0,88.56,70,29.28571429,276.92,NA
+"913",32,"Siganus vermiculatus",0,88.56,70,29.28571429,276.92,NA
+"914",32,"Bostrychus sinensis",0,88.56,70,29.28571429,276.92,NA
+"915",32,"Toxotes jaculatrix",0,88.56,70,29.28571429,276.92,NA
+"916",32,"Strongylura leiura",0,88.56,70,29.28571429,276.92,NA
+"917",32,"Liza macrolepsis",0,88.56,70,29.28571429,276.92,NA
+"918",32,"Scatophagus argus",0,88.56,70,29.28571429,276.92,NA
+"919",32,"Gerres limbatus",0,88.56,70,29.28571429,276.92,NA
+"920",32,"Orange fish",0,88.56,70,29.28571429,276.92,NA
+"921",32,"Apogonidae 3",0,88.56,70,29.28571429,276.92,NA
+"922",32,"Lutjanus argentimaculatus",0,88.56,70,29.28571429,276.92,NA
+"923",32,"Caranx sexfasciatus",0,88.56,70,29.28571429,276.92,NA
+"924",32,"Sphaeramia orbicularis",0,88.56,70,29.28571429,276.92,NA
+"925",32,"Chanos chanos",0,88.56,70,29.28571429,276.92,NA
+"926",32,"Plectorhinchus gibbosus",0,88.56,70,29.28571429,276.92,NA
+"927",32,"Lutjanus fulviflamma",0,88.56,70,29.28571429,276.92,NA
+"928",32,"Tetradontidae",0,88.56,70,29.28571429,276.92,NA
+"929",33,"Butis butis",0,95.58,80,25,299.7,NA
+"930",33,"Halicampus grayii",0,95.58,80,25,299.7,NA
+"931",33,"Apogon amboinensis",0,95.58,80,25,299.7,NA
+"932",33,"Gobidae",0,95.58,80,25,299.7,NA
+"933",33,"Apogon hyalosoma",0,95.58,80,25,299.7,NA
+"934",33,"Eleotris fusca",0,95.58,80,25,299.7,NA
+"935",33,"Zenarchopterus dispar",0,95.58,80,25,299.7,NA
+"936",33,"Acentrogobius caninus",0,95.58,80,25,299.7,NA
+"937",33,"Glosogobius",0,95.58,80,25,299.7,NA
+"938",33,"Horaichthyidae",0,95.58,80,25,299.7,NA
+"939",33,"Siganus lineatus",0,95.58,80,25,299.7,NA
+"940",33,"Acentrogobius sp",0,95.58,80,25,299.7,NA
+"941",33,"Arothron hispidus",0,95.58,80,25,299.7,NA
+"942",33,"Siganus vermiculatus",0,95.58,80,25,299.7,NA
+"943",33,"Bostrychus sinensis",0,95.58,80,25,299.7,NA
+"944",33,"Toxotes jaculatrix",0,95.58,80,25,299.7,NA
+"945",33,"Strongylura leiura",0,95.58,80,25,299.7,NA
+"946",33,"Liza macrolepsis",0,95.58,80,25,299.7,NA
+"947",33,"Scatophagus argus",0,95.58,80,25,299.7,NA
+"948",33,"Gerres limbatus",0,95.58,80,25,299.7,NA
+"949",33,"Orange fish",0,95.58,80,25,299.7,NA
+"950",33,"Apogonidae 3",0,95.58,80,25,299.7,NA
+"951",33,"Lutjanus argentimaculatus",0,95.58,80,25,299.7,NA
+"952",33,"Caranx sexfasciatus",0,95.58,80,25,299.7,NA
+"953",33,"Sphaeramia orbicularis",0,95.58,80,25,299.7,NA
+"954",33,"Chanos chanos",0,95.58,80,25,299.7,NA
+"955",33,"Plectorhinchus gibbosus",0,95.58,80,25,299.7,NA
+"956",33,"Lutjanus fulviflamma",0,95.58,80,25,299.7,NA
+"957",33,"Tetradontidae",0,95.58,80,25,299.7,NA
+"958",34,"Butis butis",0,94.94,60,30,275.97,NA
+"959",34,"Halicampus grayii",0,94.94,60,30,275.97,NA
+"960",34,"Apogon amboinensis",0,94.94,60,30,275.97,NA
+"961",34,"Gobidae",0,94.94,60,30,275.97,NA
+"962",34,"Apogon hyalosoma",0,94.94,60,30,275.97,NA
+"963",34,"Eleotris fusca",0,94.94,60,30,275.97,NA
+"964",34,"Zenarchopterus dispar",0,94.94,60,30,275.97,NA
+"965",34,"Acentrogobius caninus",0,94.94,60,30,275.97,NA
+"966",34,"Glosogobius",0,94.94,60,30,275.97,NA
+"967",34,"Horaichthyidae",0,94.94,60,30,275.97,NA
+"968",34,"Siganus lineatus",0,94.94,60,30,275.97,NA
+"969",34,"Acentrogobius sp",0,94.94,60,30,275.97,NA
+"970",34,"Arothron hispidus",0,94.94,60,30,275.97,NA
+"971",34,"Siganus vermiculatus",0,94.94,60,30,275.97,NA
+"972",34,"Bostrychus sinensis",0,94.94,60,30,275.97,NA
+"973",34,"Toxotes jaculatrix",0,94.94,60,30,275.97,NA
+"974",34,"Strongylura leiura",0,94.94,60,30,275.97,NA
+"975",34,"Liza macrolepsis",0,94.94,60,30,275.97,NA
+"976",34,"Scatophagus argus",0,94.94,60,30,275.97,NA
+"977",34,"Gerres limbatus",0,94.94,60,30,275.97,NA
+"978",34,"Orange fish",0,94.94,60,30,275.97,NA
+"979",34,"Apogonidae 3",0,94.94,60,30,275.97,NA
+"980",34,"Lutjanus argentimaculatus",0,94.94,60,30,275.97,NA
+"981",34,"Caranx sexfasciatus",0,94.94,60,30,275.97,NA
+"982",34,"Sphaeramia orbicularis",0,94.94,60,30,275.97,NA
+"983",34,"Chanos chanos",0,94.94,60,30,275.97,NA
+"984",34,"Plectorhinchus gibbosus",0,94.94,60,30,275.97,NA
+"985",34,"Lutjanus fulviflamma",0,94.94,60,30,275.97,NA
+"986",34,"Tetradontidae",0,94.94,60,30,275.97,NA
+"987",35,"Butis butis",0,95.58,60,44.57142857,250.65,NA
+"988",35,"Halicampus grayii",0,95.58,60,44.57142857,250.65,NA
+"989",35,"Apogon amboinensis",0,95.58,60,44.57142857,250.65,NA
+"990",35,"Gobidae",0,95.58,60,44.57142857,250.65,NA
+"991",35,"Apogon hyalosoma",0,95.58,60,44.57142857,250.65,NA
+"992",35,"Eleotris fusca",0,95.58,60,44.57142857,250.65,NA
+"993",35,"Zenarchopterus dispar",0,95.58,60,44.57142857,250.65,NA
+"994",35,"Acentrogobius caninus",0,95.58,60,44.57142857,250.65,NA
+"995",35,"Glosogobius",0,95.58,60,44.57142857,250.65,NA
+"996",35,"Horaichthyidae",0,95.58,60,44.57142857,250.65,NA
+"997",35,"Siganus lineatus",0,95.58,60,44.57142857,250.65,NA
+"998",35,"Acentrogobius sp",0,95.58,60,44.57142857,250.65,NA
+"999",35,"Arothron hispidus",0,95.58,60,44.57142857,250.65,NA
+"1000",35,"Siganus vermiculatus",0,95.58,60,44.57142857,250.65,NA
+"1001",35,"Bostrychus sinensis",0,95.58,60,44.57142857,250.65,NA
+"1002",35,"Toxotes jaculatrix",0,95.58,60,44.57142857,250.65,NA
+"1003",35,"Strongylura leiura",0,95.58,60,44.57142857,250.65,NA
+"1004",35,"Liza macrolepsis",0,95.58,60,44.57142857,250.65,NA
+"1005",35,"Scatophagus argus",0,95.58,60,44.57142857,250.65,NA
+"1006",35,"Gerres limbatus",0,95.58,60,44.57142857,250.65,NA
+"1007",35,"Orange fish",0,95.58,60,44.57142857,250.65,NA
+"1008",35,"Apogonidae 3",0,95.58,60,44.57142857,250.65,NA
+"1009",35,"Lutjanus argentimaculatus",0,95.58,60,44.57142857,250.65,NA
+"1010",35,"Caranx sexfasciatus",0,95.58,60,44.57142857,250.65,NA
+"1011",35,"Sphaeramia orbicularis",0,95.58,60,44.57142857,250.65,NA
+"1012",35,"Chanos chanos",0,95.58,60,44.57142857,250.65,NA
+"1013",35,"Plectorhinchus gibbosus",0,95.58,60,44.57142857,250.65,NA
+"1014",35,"Lutjanus fulviflamma",0,95.58,60,44.57142857,250.65,NA
+"1015",35,"Tetradontidae",0,95.58,60,44.57142857,250.65,NA
+"1016",36,"Butis butis",0,79.2,40.5,12.14285714,341.2,NA
+"1017",36,"Halicampus grayii",0,79.2,40.5,12.14285714,341.2,NA
+"1018",36,"Apogon amboinensis",0,79.2,40.5,12.14285714,341.2,NA
+"1019",36,"Gobidae",0,79.2,40.5,12.14285714,341.2,NA
+"1020",36,"Apogon hyalosoma",0,79.2,40.5,12.14285714,341.2,NA
+"1021",36,"Eleotris fusca",0,79.2,40.5,12.14285714,341.2,NA
+"1022",36,"Zenarchopterus dispar",0,79.2,40.5,12.14285714,341.2,NA
+"1023",36,"Acentrogobius caninus",0,79.2,40.5,12.14285714,341.2,NA
+"1024",36,"Glosogobius",0,79.2,40.5,12.14285714,341.2,NA
+"1025",36,"Horaichthyidae",0,79.2,40.5,12.14285714,341.2,NA
+"1026",36,"Siganus lineatus",0,79.2,40.5,12.14285714,341.2,NA
+"1027",36,"Acentrogobius sp",0,79.2,40.5,12.14285714,341.2,NA
+"1028",36,"Arothron hispidus",0,79.2,40.5,12.14285714,341.2,NA
+"1029",36,"Siganus vermiculatus",0,79.2,40.5,12.14285714,341.2,NA
+"1030",36,"Bostrychus sinensis",0,79.2,40.5,12.14285714,341.2,NA
+"1031",36,"Toxotes jaculatrix",0,79.2,40.5,12.14285714,341.2,NA
+"1032",36,"Strongylura leiura",0,79.2,40.5,12.14285714,341.2,NA
+"1033",36,"Liza macrolepsis",0,79.2,40.5,12.14285714,341.2,NA
+"1034",36,"Scatophagus argus",0,79.2,40.5,12.14285714,341.2,NA
+"1035",36,"Gerres limbatus",0,79.2,40.5,12.14285714,341.2,NA
+"1036",36,"Orange fish",0,79.2,40.5,12.14285714,341.2,NA
+"1037",36,"Apogonidae 3",0,79.2,40.5,12.14285714,341.2,NA
+"1038",36,"Lutjanus argentimaculatus",0,79.2,40.5,12.14285714,341.2,NA
+"1039",36,"Caranx sexfasciatus",0,79.2,40.5,12.14285714,341.2,NA
+"1040",36,"Sphaeramia orbicularis",0,79.2,40.5,12.14285714,341.2,NA
+"1041",36,"Chanos chanos",0,79.2,40.5,12.14285714,341.2,NA
+"1042",36,"Plectorhinchus gibbosus",0,79.2,40.5,12.14285714,341.2,NA
+"1043",36,"Lutjanus fulviflamma",0,79.2,40.5,12.14285714,341.2,NA
+"1044",36,"Tetradontidae",0,79.2,40.5,12.14285714,341.2,NA
+"1045",37,"Butis butis",0,92.2,50.7,24.28571429,337.05,NA
+"1046",37,"Halicampus grayii",0,92.2,50.7,24.28571429,337.05,NA
+"1047",37,"Apogon amboinensis",0,92.2,50.7,24.28571429,337.05,NA
+"1048",37,"Gobidae",0,92.2,50.7,24.28571429,337.05,NA
+"1049",37,"Apogon hyalosoma",0,92.2,50.7,24.28571429,337.05,NA
+"1050",37,"Eleotris fusca",0,92.2,50.7,24.28571429,337.05,NA
+"1051",37,"Zenarchopterus dispar",0,92.2,50.7,24.28571429,337.05,NA
+"1052",37,"Acentrogobius caninus",0,92.2,50.7,24.28571429,337.05,NA
+"1053",37,"Glosogobius",0,92.2,50.7,24.28571429,337.05,NA
+"1054",37,"Horaichthyidae",6,92.2,50.7,24.28571429,337.05,2.067
+"1055",37,"Siganus lineatus",0,92.2,50.7,24.28571429,337.05,NA
+"1056",37,"Acentrogobius sp",0,92.2,50.7,24.28571429,337.05,NA
+"1057",37,"Arothron hispidus",0,92.2,50.7,24.28571429,337.05,NA
+"1058",37,"Siganus vermiculatus",0,92.2,50.7,24.28571429,337.05,NA
+"1059",37,"Bostrychus sinensis",0,92.2,50.7,24.28571429,337.05,NA
+"1060",37,"Toxotes jaculatrix",0,92.2,50.7,24.28571429,337.05,NA
+"1061",37,"Strongylura leiura",0,92.2,50.7,24.28571429,337.05,NA
+"1062",37,"Liza macrolepsis",0,92.2,50.7,24.28571429,337.05,NA
+"1063",37,"Scatophagus argus",0,92.2,50.7,24.28571429,337.05,NA
+"1064",37,"Gerres limbatus",0,92.2,50.7,24.28571429,337.05,NA
+"1065",37,"Orange fish",0,92.2,50.7,24.28571429,337.05,NA
+"1066",37,"Apogonidae 3",0,92.2,50.7,24.28571429,337.05,NA
+"1067",37,"Lutjanus argentimaculatus",0,92.2,50.7,24.28571429,337.05,NA
+"1068",37,"Caranx sexfasciatus",0,92.2,50.7,24.28571429,337.05,NA
+"1069",37,"Sphaeramia orbicularis",0,92.2,50.7,24.28571429,337.05,NA
+"1070",37,"Chanos chanos",0,92.2,50.7,24.28571429,337.05,NA
+"1071",37,"Plectorhinchus gibbosus",0,92.2,50.7,24.28571429,337.05,NA
+"1072",37,"Lutjanus fulviflamma",0,92.2,50.7,24.28571429,337.05,NA
+"1073",37,"Tetradontidae",0,92.2,50.7,24.28571429,337.05,NA
+"1074",38,"Butis butis",0,98.18,40.9,26,347.7,NA
+"1075",38,"Halicampus grayii",0,98.18,40.9,26,347.7,NA
+"1076",38,"Apogon amboinensis",0,98.18,40.9,26,347.7,NA
+"1077",38,"Gobidae",0,98.18,40.9,26,347.7,NA
+"1078",38,"Apogon hyalosoma",0,98.18,40.9,26,347.7,NA
+"1079",38,"Eleotris fusca",0,98.18,40.9,26,347.7,NA
+"1080",38,"Zenarchopterus dispar",0,98.18,40.9,26,347.7,NA
+"1081",38,"Acentrogobius caninus",0,98.18,40.9,26,347.7,NA
+"1082",38,"Glosogobius",0,98.18,40.9,26,347.7,NA
+"1083",38,"Horaichthyidae",0,98.18,40.9,26,347.7,NA
+"1084",38,"Siganus lineatus",0,98.18,40.9,26,347.7,NA
+"1085",38,"Acentrogobius sp",0,98.18,40.9,26,347.7,NA
+"1086",38,"Arothron hispidus",0,98.18,40.9,26,347.7,NA
+"1087",38,"Siganus vermiculatus",0,98.18,40.9,26,347.7,NA
+"1088",38,"Bostrychus sinensis",0,98.18,40.9,26,347.7,NA
+"1089",38,"Toxotes jaculatrix",0,98.18,40.9,26,347.7,NA
+"1090",38,"Strongylura leiura",0,98.18,40.9,26,347.7,NA
+"1091",38,"Liza macrolepsis",0,98.18,40.9,26,347.7,NA
+"1092",38,"Scatophagus argus",0,98.18,40.9,26,347.7,NA
+"1093",38,"Gerres limbatus",0,98.18,40.9,26,347.7,NA
+"1094",38,"Orange fish",0,98.18,40.9,26,347.7,NA
+"1095",38,"Apogonidae 3",0,98.18,40.9,26,347.7,NA
+"1096",38,"Lutjanus argentimaculatus",0,98.18,40.9,26,347.7,NA
+"1097",38,"Caranx sexfasciatus",0,98.18,40.9,26,347.7,NA
+"1098",38,"Sphaeramia orbicularis",0,98.18,40.9,26,347.7,NA
+"1099",38,"Chanos chanos",0,98.18,40.9,26,347.7,NA
+"1100",38,"Plectorhinchus gibbosus",0,98.18,40.9,26,347.7,NA
+"1101",38,"Lutjanus fulviflamma",0,98.18,40.9,26,347.7,NA
+"1102",38,"Tetradontidae",0,98.18,40.9,26,347.7,NA
+"1103",39,"Butis butis",0,93.76,50.2,25.42857143,362.96,NA
+"1104",39,"Halicampus grayii",0,93.76,50.2,25.42857143,362.96,NA
+"1105",39,"Apogon amboinensis",0,93.76,50.2,25.42857143,362.96,NA
+"1106",39,"Gobidae",0,93.76,50.2,25.42857143,362.96,NA
+"1107",39,"Apogon hyalosoma",0,93.76,50.2,25.42857143,362.96,NA
+"1108",39,"Eleotris fusca",0,93.76,50.2,25.42857143,362.96,NA
+"1109",39,"Zenarchopterus dispar",0,93.76,50.2,25.42857143,362.96,NA
+"1110",39,"Acentrogobius caninus",0,93.76,50.2,25.42857143,362.96,NA
+"1111",39,"Glosogobius",0,93.76,50.2,25.42857143,362.96,NA
+"1112",39,"Horaichthyidae",0,93.76,50.2,25.42857143,362.96,NA
+"1113",39,"Siganus lineatus",0,93.76,50.2,25.42857143,362.96,NA
+"1114",39,"Acentrogobius sp",0,93.76,50.2,25.42857143,362.96,NA
+"1115",39,"Arothron hispidus",0,93.76,50.2,25.42857143,362.96,NA
+"1116",39,"Siganus vermiculatus",0,93.76,50.2,25.42857143,362.96,NA
+"1117",39,"Bostrychus sinensis",0,93.76,50.2,25.42857143,362.96,NA
+"1118",39,"Toxotes jaculatrix",0,93.76,50.2,25.42857143,362.96,NA
+"1119",39,"Strongylura leiura",0,93.76,50.2,25.42857143,362.96,NA
+"1120",39,"Liza macrolepsis",0,93.76,50.2,25.42857143,362.96,NA
+"1121",39,"Scatophagus argus",0,93.76,50.2,25.42857143,362.96,NA
+"1122",39,"Gerres limbatus",0,93.76,50.2,25.42857143,362.96,NA
+"1123",39,"Orange fish",0,93.76,50.2,25.42857143,362.96,NA
+"1124",39,"Apogonidae 3",0,93.76,50.2,25.42857143,362.96,NA
+"1125",39,"Lutjanus argentimaculatus",0,93.76,50.2,25.42857143,362.96,NA
+"1126",39,"Caranx sexfasciatus",0,93.76,50.2,25.42857143,362.96,NA
+"1127",39,"Sphaeramia orbicularis",0,93.76,50.2,25.42857143,362.96,NA
+"1128",39,"Chanos chanos",0,93.76,50.2,25.42857143,362.96,NA
+"1129",39,"Plectorhinchus gibbosus",0,93.76,50.2,25.42857143,362.96,NA
+"1130",39,"Lutjanus fulviflamma",0,93.76,50.2,25.42857143,362.96,NA
+"1131",39,"Tetradontidae",0,93.76,50.2,25.42857143,362.96,NA
+"1132",40,"Butis butis",0,97.14,50.4,53.14285714,318.61,NA
+"1133",40,"Halicampus grayii",0,97.14,50.4,53.14285714,318.61,NA
+"1134",40,"Apogon amboinensis",0,97.14,50.4,53.14285714,318.61,NA
+"1135",40,"Gobidae",0,97.14,50.4,53.14285714,318.61,NA
+"1136",40,"Apogon hyalosoma",0,97.14,50.4,53.14285714,318.61,NA
+"1137",40,"Eleotris fusca",0,97.14,50.4,53.14285714,318.61,NA
+"1138",40,"Zenarchopterus dispar",0,97.14,50.4,53.14285714,318.61,NA
+"1139",40,"Acentrogobius caninus",0,97.14,50.4,53.14285714,318.61,NA
+"1140",40,"Glosogobius",0,97.14,50.4,53.14285714,318.61,NA
+"1141",40,"Horaichthyidae",0,97.14,50.4,53.14285714,318.61,NA
+"1142",40,"Siganus lineatus",0,97.14,50.4,53.14285714,318.61,NA
+"1143",40,"Acentrogobius sp",0,97.14,50.4,53.14285714,318.61,NA
+"1144",40,"Arothron hispidus",0,97.14,50.4,53.14285714,318.61,NA
+"1145",40,"Siganus vermiculatus",0,97.14,50.4,53.14285714,318.61,NA
+"1146",40,"Bostrychus sinensis",0,97.14,50.4,53.14285714,318.61,NA
+"1147",40,"Toxotes jaculatrix",0,97.14,50.4,53.14285714,318.61,NA
+"1148",40,"Strongylura leiura",0,97.14,50.4,53.14285714,318.61,NA
+"1149",40,"Liza macrolepsis",0,97.14,50.4,53.14285714,318.61,NA
+"1150",40,"Scatophagus argus",0,97.14,50.4,53.14285714,318.61,NA
+"1151",40,"Gerres limbatus",0,97.14,50.4,53.14285714,318.61,NA
+"1152",40,"Orange fish",0,97.14,50.4,53.14285714,318.61,NA
+"1153",40,"Apogonidae 3",0,97.14,50.4,53.14285714,318.61,NA
+"1154",40,"Lutjanus argentimaculatus",0,97.14,50.4,53.14285714,318.61,NA
+"1155",40,"Caranx sexfasciatus",0,97.14,50.4,53.14285714,318.61,NA
+"1156",40,"Sphaeramia orbicularis",0,97.14,50.4,53.14285714,318.61,NA
+"1157",40,"Chanos chanos",0,97.14,50.4,53.14285714,318.61,NA
+"1158",40,"Plectorhinchus gibbosus",0,97.14,50.4,53.14285714,318.61,NA
+"1159",40,"Lutjanus fulviflamma",0,97.14,50.4,53.14285714,318.61,NA
+"1160",40,"Tetradontidae",0,97.14,50.4,53.14285714,318.61,NA
+"1161",41,"Butis butis",0,96.88,40,41.57142857,55.79,NA
+"1162",41,"Halicampus grayii",0,96.88,40,41.57142857,55.79,NA
+"1163",41,"Apogon amboinensis",0,96.88,40,41.57142857,55.79,NA
+"1164",41,"Gobidae",0,96.88,40,41.57142857,55.79,NA
+"1165",41,"Apogon hyalosoma",0,96.88,40,41.57142857,55.79,NA
+"1166",41,"Eleotris fusca",1,96.88,40,41.57142857,55.79,23
+"1167",41,"Zenarchopterus dispar",0,96.88,40,41.57142857,55.79,NA
+"1168",41,"Acentrogobius caninus",0,96.88,40,41.57142857,55.79,NA
+"1169",41,"Glosogobius",2,96.88,40,41.57142857,55.79,8
+"1170",41,"Horaichthyidae",0,96.88,40,41.57142857,55.79,NA
+"1171",41,"Siganus lineatus",0,96.88,40,41.57142857,55.79,NA
+"1172",41,"Acentrogobius sp",0,96.88,40,41.57142857,55.79,NA
+"1173",41,"Arothron hispidus",0,96.88,40,41.57142857,55.79,NA
+"1174",41,"Siganus vermiculatus",0,96.88,40,41.57142857,55.79,NA
+"1175",41,"Bostrychus sinensis",0,96.88,40,41.57142857,55.79,NA
+"1176",41,"Toxotes jaculatrix",0,96.88,40,41.57142857,55.79,NA
+"1177",41,"Strongylura leiura",0,96.88,40,41.57142857,55.79,NA
+"1178",41,"Liza macrolepsis",0,96.88,40,41.57142857,55.79,NA
+"1179",41,"Scatophagus argus",0,96.88,40,41.57142857,55.79,NA
+"1180",41,"Gerres limbatus",0,96.88,40,41.57142857,55.79,NA
+"1181",41,"Orange fish",0,96.88,40,41.57142857,55.79,NA
+"1182",41,"Apogonidae 3",0,96.88,40,41.57142857,55.79,NA
+"1183",41,"Lutjanus argentimaculatus",0,96.88,40,41.57142857,55.79,NA
+"1184",41,"Caranx sexfasciatus",0,96.88,40,41.57142857,55.79,NA
+"1185",41,"Sphaeramia orbicularis",0,96.88,40,41.57142857,55.79,NA
+"1186",41,"Chanos chanos",0,96.88,40,41.57142857,55.79,NA
+"1187",41,"Plectorhinchus gibbosus",0,96.88,40,41.57142857,55.79,NA
+"1188",41,"Lutjanus fulviflamma",0,96.88,40,41.57142857,55.79,NA
+"1189",41,"Tetradontidae",0,96.88,40,41.57142857,55.79,NA
+"1190",42,"Butis butis",1,84.66,40.7,20.14285714,34.92,15
+"1191",42,"Halicampus grayii",0,84.66,40.7,20.14285714,34.92,NA
+"1192",42,"Apogon amboinensis",0,84.66,40.7,20.14285714,34.92,NA
+"1193",42,"Gobidae",0,84.66,40.7,20.14285714,34.92,NA
+"1194",42,"Apogon hyalosoma",0,84.66,40.7,20.14285714,34.92,NA
+"1195",42,"Eleotris fusca",0,84.66,40.7,20.14285714,34.92,NA
+"1196",42,"Zenarchopterus dispar",0,84.66,40.7,20.14285714,34.92,NA
+"1197",42,"Acentrogobius caninus",0,84.66,40.7,20.14285714,34.92,NA
+"1198",42,"Glosogobius",2,84.66,40.7,20.14285714,34.92,4.9
+"1199",42,"Horaichthyidae",0,84.66,40.7,20.14285714,34.92,NA
+"1200",42,"Siganus lineatus",0,84.66,40.7,20.14285714,34.92,NA
+"1201",42,"Acentrogobius sp",1,84.66,40.7,20.14285714,34.92,4.3
+"1202",42,"Arothron hispidus",0,84.66,40.7,20.14285714,34.92,NA
+"1203",42,"Siganus vermiculatus",0,84.66,40.7,20.14285714,34.92,NA
+"1204",42,"Bostrychus sinensis",0,84.66,40.7,20.14285714,34.92,NA
+"1205",42,"Toxotes jaculatrix",0,84.66,40.7,20.14285714,34.92,NA
+"1206",42,"Strongylura leiura",0,84.66,40.7,20.14285714,34.92,NA
+"1207",42,"Liza macrolepsis",0,84.66,40.7,20.14285714,34.92,NA
+"1208",42,"Scatophagus argus",0,84.66,40.7,20.14285714,34.92,NA
+"1209",42,"Gerres limbatus",0,84.66,40.7,20.14285714,34.92,NA
+"1210",42,"Orange fish",0,84.66,40.7,20.14285714,34.92,NA
+"1211",42,"Apogonidae 3",0,84.66,40.7,20.14285714,34.92,NA
+"1212",42,"Lutjanus argentimaculatus",0,84.66,40.7,20.14285714,34.92,NA
+"1213",42,"Caranx sexfasciatus",0,84.66,40.7,20.14285714,34.92,NA
+"1214",42,"Sphaeramia orbicularis",0,84.66,40.7,20.14285714,34.92,NA
+"1215",42,"Chanos chanos",0,84.66,40.7,20.14285714,34.92,NA
+"1216",42,"Plectorhinchus gibbosus",0,84.66,40.7,20.14285714,34.92,NA
+"1217",42,"Lutjanus fulviflamma",0,84.66,40.7,20.14285714,34.92,NA
+"1218",42,"Tetradontidae",0,84.66,40.7,20.14285714,34.92,NA
+"1219",43,"Butis butis",0,94.8,80.2,65.71428571,42.39,NA
+"1220",43,"Halicampus grayii",0,94.8,80.2,65.71428571,42.39,NA
+"1221",43,"Apogon amboinensis",0,94.8,80.2,65.71428571,42.39,NA
+"1222",43,"Gobidae",0,94.8,80.2,65.71428571,42.39,NA
+"1223",43,"Apogon hyalosoma",0,94.8,80.2,65.71428571,42.39,NA
+"1224",43,"Eleotris fusca",0,94.8,80.2,65.71428571,42.39,NA
+"1225",43,"Zenarchopterus dispar",0,94.8,80.2,65.71428571,42.39,NA
+"1226",43,"Acentrogobius caninus",0,94.8,80.2,65.71428571,42.39,NA
+"1227",43,"Glosogobius",2,94.8,80.2,65.71428571,42.39,5.35
+"1228",43,"Horaichthyidae",0,94.8,80.2,65.71428571,42.39,NA
+"1229",43,"Siganus lineatus",0,94.8,80.2,65.71428571,42.39,NA
+"1230",43,"Acentrogobius sp",1,94.8,80.2,65.71428571,42.39,4.6
+"1231",43,"Arothron hispidus",0,94.8,80.2,65.71428571,42.39,NA
+"1232",43,"Siganus vermiculatus",0,94.8,80.2,65.71428571,42.39,NA
+"1233",43,"Bostrychus sinensis",0,94.8,80.2,65.71428571,42.39,NA
+"1234",43,"Toxotes jaculatrix",1,94.8,80.2,65.71428571,42.39,6.48
+"1235",43,"Strongylura leiura",0,94.8,80.2,65.71428571,42.39,NA
+"1236",43,"Liza macrolepsis",0,94.8,80.2,65.71428571,42.39,NA
+"1237",43,"Scatophagus argus",0,94.8,80.2,65.71428571,42.39,NA
+"1238",43,"Gerres limbatus",0,94.8,80.2,65.71428571,42.39,NA
+"1239",43,"Orange fish",0,94.8,80.2,65.71428571,42.39,NA
+"1240",43,"Apogonidae 3",0,94.8,80.2,65.71428571,42.39,NA
+"1241",43,"Lutjanus argentimaculatus",0,94.8,80.2,65.71428571,42.39,NA
+"1242",43,"Caranx sexfasciatus",0,94.8,80.2,65.71428571,42.39,NA
+"1243",43,"Sphaeramia orbicularis",0,94.8,80.2,65.71428571,42.39,NA
+"1244",43,"Chanos chanos",0,94.8,80.2,65.71428571,42.39,NA
+"1245",43,"Plectorhinchus gibbosus",0,94.8,80.2,65.71428571,42.39,NA
+"1246",43,"Lutjanus fulviflamma",0,94.8,80.2,65.71428571,42.39,NA
+"1247",43,"Tetradontidae",0,94.8,80.2,65.71428571,42.39,NA
+"1248",44,"Butis butis",0,87.78,50.9,36.71428571,42.7,NA
+"1249",44,"Halicampus grayii",0,87.78,50.9,36.71428571,42.7,NA
+"1250",44,"Apogon amboinensis",0,87.78,50.9,36.71428571,42.7,NA
+"1251",44,"Gobidae",0,87.78,50.9,36.71428571,42.7,NA
+"1252",44,"Apogon hyalosoma",0,87.78,50.9,36.71428571,42.7,NA
+"1253",44,"Eleotris fusca",0,87.78,50.9,36.71428571,42.7,NA
+"1254",44,"Zenarchopterus dispar",0,87.78,50.9,36.71428571,42.7,NA
+"1255",44,"Acentrogobius caninus",0,87.78,50.9,36.71428571,42.7,NA
+"1256",44,"Glosogobius",4,87.78,50.9,36.71428571,42.7,7.375
+"1257",44,"Horaichthyidae",1,87.78,50.9,36.71428571,42.7,2
+"1258",44,"Siganus lineatus",0,87.78,50.9,36.71428571,42.7,NA
+"1259",44,"Acentrogobius sp",0,87.78,50.9,36.71428571,42.7,NA
+"1260",44,"Arothron hispidus",0,87.78,50.9,36.71428571,42.7,NA
+"1261",44,"Siganus vermiculatus",0,87.78,50.9,36.71428571,42.7,NA
+"1262",44,"Bostrychus sinensis",0,87.78,50.9,36.71428571,42.7,NA
+"1263",44,"Toxotes jaculatrix",0,87.78,50.9,36.71428571,42.7,NA
+"1264",44,"Strongylura leiura",0,87.78,50.9,36.71428571,42.7,NA
+"1265",44,"Liza macrolepsis",0,87.78,50.9,36.71428571,42.7,NA
+"1266",44,"Scatophagus argus",0,87.78,50.9,36.71428571,42.7,NA
+"1267",44,"Gerres limbatus",0,87.78,50.9,36.71428571,42.7,NA
+"1268",44,"Orange fish",0,87.78,50.9,36.71428571,42.7,NA
+"1269",44,"Apogonidae 3",0,87.78,50.9,36.71428571,42.7,NA
+"1270",44,"Lutjanus argentimaculatus",0,87.78,50.9,36.71428571,42.7,NA
+"1271",44,"Caranx sexfasciatus",0,87.78,50.9,36.71428571,42.7,NA
+"1272",44,"Sphaeramia orbicularis",0,87.78,50.9,36.71428571,42.7,NA
+"1273",44,"Chanos chanos",0,87.78,50.9,36.71428571,42.7,NA
+"1274",44,"Plectorhinchus gibbosus",0,87.78,50.9,36.71428571,42.7,NA
+"1275",44,"Lutjanus fulviflamma",0,87.78,50.9,36.71428571,42.7,NA
+"1276",44,"Tetradontidae",0,87.78,50.9,36.71428571,42.7,NA
+"1277",45,"Butis butis",1,98.7,40.4,61.85714286,68.32,10
+"1278",45,"Halicampus grayii",0,98.7,40.4,61.85714286,68.32,NA
+"1279",45,"Apogon amboinensis",0,98.7,40.4,61.85714286,68.32,NA
+"1280",45,"Gobidae",0,98.7,40.4,61.85714286,68.32,NA
+"1281",45,"Apogon hyalosoma",0,98.7,40.4,61.85714286,68.32,NA
+"1282",45,"Eleotris fusca",0,98.7,40.4,61.85714286,68.32,NA
+"1283",45,"Zenarchopterus dispar",0,98.7,40.4,61.85714286,68.32,NA
+"1284",45,"Acentrogobius caninus",0,98.7,40.4,61.85714286,68.32,NA
+"1285",45,"Glosogobius",0,98.7,40.4,61.85714286,68.32,NA
+"1286",45,"Horaichthyidae",0,98.7,40.4,61.85714286,68.32,NA
+"1287",45,"Siganus lineatus",0,98.7,40.4,61.85714286,68.32,NA
+"1288",45,"Acentrogobius sp",0,98.7,40.4,61.85714286,68.32,NA
+"1289",45,"Arothron hispidus",0,98.7,40.4,61.85714286,68.32,NA
+"1290",45,"Siganus vermiculatus",0,98.7,40.4,61.85714286,68.32,NA
+"1291",45,"Bostrychus sinensis",0,98.7,40.4,61.85714286,68.32,NA
+"1292",45,"Toxotes jaculatrix",0,98.7,40.4,61.85714286,68.32,NA
+"1293",45,"Strongylura leiura",1,98.7,40.4,61.85714286,68.32,2.6
+"1294",45,"Liza macrolepsis",0,98.7,40.4,61.85714286,68.32,NA
+"1295",45,"Scatophagus argus",0,98.7,40.4,61.85714286,68.32,NA
+"1296",45,"Gerres limbatus",0,98.7,40.4,61.85714286,68.32,NA
+"1297",45,"Orange fish",0,98.7,40.4,61.85714286,68.32,NA
+"1298",45,"Apogonidae 3",0,98.7,40.4,61.85714286,68.32,NA
+"1299",45,"Lutjanus argentimaculatus",0,98.7,40.4,61.85714286,68.32,NA
+"1300",45,"Caranx sexfasciatus",0,98.7,40.4,61.85714286,68.32,NA
+"1301",45,"Sphaeramia orbicularis",0,98.7,40.4,61.85714286,68.32,NA
+"1302",45,"Chanos chanos",0,98.7,40.4,61.85714286,68.32,NA
+"1303",45,"Plectorhinchus gibbosus",0,98.7,40.4,61.85714286,68.32,NA
+"1304",45,"Lutjanus fulviflamma",0,98.7,40.4,61.85714286,68.32,NA
+"1305",45,"Tetradontidae",0,98.7,40.4,61.85714286,68.32,NA
+"1306",46,"Butis butis",0,95.32,30.6,33.42857143,32.11,NA
+"1307",46,"Halicampus grayii",0,95.32,30.6,33.42857143,32.11,NA
+"1308",46,"Apogon amboinensis",0,95.32,30.6,33.42857143,32.11,NA
+"1309",46,"Gobidae",0,95.32,30.6,33.42857143,32.11,NA
+"1310",46,"Apogon hyalosoma",0,95.32,30.6,33.42857143,32.11,NA
+"1311",46,"Eleotris fusca",0,95.32,30.6,33.42857143,32.11,NA
+"1312",46,"Zenarchopterus dispar",0,95.32,30.6,33.42857143,32.11,NA
+"1313",46,"Acentrogobius caninus",0,95.32,30.6,33.42857143,32.11,NA
+"1314",46,"Glosogobius",0,95.32,30.6,33.42857143,32.11,NA
+"1315",46,"Horaichthyidae",3,95.32,30.6,33.42857143,32.11,2
+"1316",46,"Siganus lineatus",0,95.32,30.6,33.42857143,32.11,NA
+"1317",46,"Acentrogobius sp",0,95.32,30.6,33.42857143,32.11,NA
+"1318",46,"Arothron hispidus",0,95.32,30.6,33.42857143,32.11,NA
+"1319",46,"Siganus vermiculatus",0,95.32,30.6,33.42857143,32.11,NA
+"1320",46,"Bostrychus sinensis",0,95.32,30.6,33.42857143,32.11,NA
+"1321",46,"Toxotes jaculatrix",0,95.32,30.6,33.42857143,32.11,NA
+"1322",46,"Strongylura leiura",0,95.32,30.6,33.42857143,32.11,NA
+"1323",46,"Liza macrolepsis",0,95.32,30.6,33.42857143,32.11,NA
+"1324",46,"Scatophagus argus",0,95.32,30.6,33.42857143,32.11,NA
+"1325",46,"Gerres limbatus",0,95.32,30.6,33.42857143,32.11,NA
+"1326",46,"Orange fish",0,95.32,30.6,33.42857143,32.11,NA
+"1327",46,"Apogonidae 3",0,95.32,30.6,33.42857143,32.11,NA
+"1328",46,"Lutjanus argentimaculatus",0,95.32,30.6,33.42857143,32.11,NA
+"1329",46,"Caranx sexfasciatus",0,95.32,30.6,33.42857143,32.11,NA
+"1330",46,"Sphaeramia orbicularis",0,95.32,30.6,33.42857143,32.11,NA
+"1331",46,"Chanos chanos",0,95.32,30.6,33.42857143,32.11,NA
+"1332",46,"Plectorhinchus gibbosus",0,95.32,30.6,33.42857143,32.11,NA
+"1333",46,"Lutjanus fulviflamma",0,95.32,30.6,33.42857143,32.11,NA
+"1334",46,"Tetradontidae",0,95.32,30.6,33.42857143,32.11,NA
+"1335",47,"Butis butis",0,99.22,30,58.28571429,45.9,NA
+"1336",47,"Halicampus grayii",0,99.22,30,58.28571429,45.9,NA
+"1337",47,"Apogon amboinensis",1,99.22,30,58.28571429,45.9,6.8
+"1338",47,"Gobidae",0,99.22,30,58.28571429,45.9,NA
+"1339",47,"Apogon hyalosoma",0,99.22,30,58.28571429,45.9,NA
+"1340",47,"Eleotris fusca",0,99.22,30,58.28571429,45.9,NA
+"1341",47,"Zenarchopterus dispar",0,99.22,30,58.28571429,45.9,NA
+"1342",47,"Acentrogobius caninus",0,99.22,30,58.28571429,45.9,NA
+"1343",47,"Glosogobius",0,99.22,30,58.28571429,45.9,NA
+"1344",47,"Horaichthyidae",28,99.22,30,58.28571429,45.9,2.018
+"1345",47,"Siganus lineatus",0,99.22,30,58.28571429,45.9,NA
+"1346",47,"Acentrogobius sp",0,99.22,30,58.28571429,45.9,NA
+"1347",47,"Arothron hispidus",0,99.22,30,58.28571429,45.9,NA
+"1348",47,"Siganus vermiculatus",0,99.22,30,58.28571429,45.9,NA
+"1349",47,"Bostrychus sinensis",0,99.22,30,58.28571429,45.9,NA
+"1350",47,"Toxotes jaculatrix",0,99.22,30,58.28571429,45.9,NA
+"1351",47,"Strongylura leiura",0,99.22,30,58.28571429,45.9,NA
+"1352",47,"Liza macrolepsis",0,99.22,30,58.28571429,45.9,NA
+"1353",47,"Scatophagus argus",0,99.22,30,58.28571429,45.9,NA
+"1354",47,"Gerres limbatus",0,99.22,30,58.28571429,45.9,NA
+"1355",47,"Orange fish",0,99.22,30,58.28571429,45.9,NA
+"1356",47,"Apogonidae 3",0,99.22,30,58.28571429,45.9,NA
+"1357",47,"Lutjanus argentimaculatus",0,99.22,30,58.28571429,45.9,NA
+"1358",47,"Caranx sexfasciatus",0,99.22,30,58.28571429,45.9,NA
+"1359",47,"Sphaeramia orbicularis",0,99.22,30,58.28571429,45.9,NA
+"1360",47,"Chanos chanos",0,99.22,30,58.28571429,45.9,NA
+"1361",47,"Plectorhinchus gibbosus",0,99.22,30,58.28571429,45.9,NA
+"1362",47,"Lutjanus fulviflamma",0,99.22,30,58.28571429,45.9,NA
+"1363",47,"Tetradontidae",0,99.22,30,58.28571429,45.9,NA
+"1364",48,"Butis butis",0,79.72,40.6,25.85714286,43.63,NA
+"1365",48,"Halicampus grayii",0,79.72,40.6,25.85714286,43.63,NA
+"1366",48,"Apogon amboinensis",0,79.72,40.6,25.85714286,43.63,NA
+"1367",48,"Gobidae",0,79.72,40.6,25.85714286,43.63,NA
+"1368",48,"Apogon hyalosoma",0,79.72,40.6,25.85714286,43.63,NA
+"1369",48,"Eleotris fusca",0,79.72,40.6,25.85714286,43.63,NA
+"1370",48,"Zenarchopterus dispar",1,79.72,40.6,25.85714286,43.63,12.4
+"1371",48,"Acentrogobius caninus",0,79.72,40.6,25.85714286,43.63,NA
+"1372",48,"Glosogobius",0,79.72,40.6,25.85714286,43.63,NA
+"1373",48,"Horaichthyidae",0,79.72,40.6,25.85714286,43.63,NA
+"1374",48,"Siganus lineatus",0,79.72,40.6,25.85714286,43.63,NA
+"1375",48,"Acentrogobius sp",0,79.72,40.6,25.85714286,43.63,NA
+"1376",48,"Arothron hispidus",0,79.72,40.6,25.85714286,43.63,NA
+"1377",48,"Siganus vermiculatus",0,79.72,40.6,25.85714286,43.63,NA
+"1378",48,"Bostrychus sinensis",1,79.72,40.6,25.85714286,43.63,10
+"1379",48,"Toxotes jaculatrix",0,79.72,40.6,25.85714286,43.63,NA
+"1380",48,"Strongylura leiura",0,79.72,40.6,25.85714286,43.63,NA
+"1381",48,"Liza macrolepsis",0,79.72,40.6,25.85714286,43.63,NA
+"1382",48,"Scatophagus argus",0,79.72,40.6,25.85714286,43.63,NA
+"1383",48,"Gerres limbatus",0,79.72,40.6,25.85714286,43.63,NA
+"1384",48,"Orange fish",0,79.72,40.6,25.85714286,43.63,NA
+"1385",48,"Apogonidae 3",0,79.72,40.6,25.85714286,43.63,NA
+"1386",48,"Lutjanus argentimaculatus",0,79.72,40.6,25.85714286,43.63,NA
+"1387",48,"Caranx sexfasciatus",0,79.72,40.6,25.85714286,43.63,NA
+"1388",48,"Sphaeramia orbicularis",0,79.72,40.6,25.85714286,43.63,NA
+"1389",48,"Chanos chanos",0,79.72,40.6,25.85714286,43.63,NA
+"1390",48,"Plectorhinchus gibbosus",0,79.72,40.6,25.85714286,43.63,NA
+"1391",48,"Lutjanus fulviflamma",0,79.72,40.6,25.85714286,43.63,NA
+"1392",48,"Tetradontidae",0,79.72,40.6,25.85714286,43.63,NA
+"1393",49,"Butis butis",0,99.74,30.5,35.42857143,63.85,NA
+"1394",49,"Halicampus grayii",1,99.74,30.5,35.42857143,63.85,6.5
+"1395",49,"Apogon amboinensis",0,99.74,30.5,35.42857143,63.85,NA
+"1396",49,"Gobidae",0,99.74,30.5,35.42857143,63.85,NA
+"1397",49,"Apogon hyalosoma",0,99.74,30.5,35.42857143,63.85,NA
+"1398",49,"Eleotris fusca",0,99.74,30.5,35.42857143,63.85,NA
+"1399",49,"Zenarchopterus dispar",0,99.74,30.5,35.42857143,63.85,NA
+"1400",49,"Acentrogobius caninus",0,99.74,30.5,35.42857143,63.85,NA
+"1401",49,"Glosogobius",0,99.74,30.5,35.42857143,63.85,NA
+"1402",49,"Horaichthyidae",2,99.74,30.5,35.42857143,63.85,2
+"1403",49,"Siganus lineatus",0,99.74,30.5,35.42857143,63.85,NA
+"1404",49,"Acentrogobius sp",1,99.74,30.5,35.42857143,63.85,1
+"1405",49,"Arothron hispidus",0,99.74,30.5,35.42857143,63.85,NA
+"1406",49,"Siganus vermiculatus",0,99.74,30.5,35.42857143,63.85,NA
+"1407",49,"Bostrychus sinensis",0,99.74,30.5,35.42857143,63.85,NA
+"1408",49,"Toxotes jaculatrix",0,99.74,30.5,35.42857143,63.85,NA
+"1409",49,"Strongylura leiura",0,99.74,30.5,35.42857143,63.85,NA
+"1410",49,"Liza macrolepsis",0,99.74,30.5,35.42857143,63.85,NA
+"1411",49,"Scatophagus argus",0,99.74,30.5,35.42857143,63.85,NA
+"1412",49,"Gerres limbatus",0,99.74,30.5,35.42857143,63.85,NA
+"1413",49,"Orange fish",0,99.74,30.5,35.42857143,63.85,NA
+"1414",49,"Apogonidae 3",0,99.74,30.5,35.42857143,63.85,NA
+"1415",49,"Lutjanus argentimaculatus",0,99.74,30.5,35.42857143,63.85,NA
+"1416",49,"Caranx sexfasciatus",0,99.74,30.5,35.42857143,63.85,NA
+"1417",49,"Sphaeramia orbicularis",0,99.74,30.5,35.42857143,63.85,NA
+"1418",49,"Chanos chanos",0,99.74,30.5,35.42857143,63.85,NA
+"1419",49,"Plectorhinchus gibbosus",0,99.74,30.5,35.42857143,63.85,NA
+"1420",49,"Lutjanus fulviflamma",0,99.74,30.5,35.42857143,63.85,NA
+"1421",49,"Tetradontidae",0,99.74,30.5,35.42857143,63.85,NA
+"1422",50,"Butis butis",0,92.2,30.5,33,17.48,NA
+"1423",50,"Halicampus grayii",0,92.2,30.5,33,17.48,NA
+"1424",50,"Apogon amboinensis",0,92.2,30.5,33,17.48,NA
+"1425",50,"Gobidae",0,92.2,30.5,33,17.48,NA
+"1426",50,"Apogon hyalosoma",0,92.2,30.5,33,17.48,NA
+"1427",50,"Eleotris fusca",0,92.2,30.5,33,17.48,NA
+"1428",50,"Zenarchopterus dispar",1,92.2,30.5,33,17.48,10
+"1429",50,"Acentrogobius caninus",0,92.2,30.5,33,17.48,NA
+"1430",50,"Glosogobius",0,92.2,30.5,33,17.48,NA
+"1431",50,"Horaichthyidae",3,92.2,30.5,33,17.48,2
+"1432",50,"Siganus lineatus",0,92.2,30.5,33,17.48,NA
+"1433",50,"Acentrogobius sp",15,92.2,30.5,33,17.48,1.5
+"1434",50,"Arothron hispidus",0,92.2,30.5,33,17.48,NA
+"1435",50,"Siganus vermiculatus",0,92.2,30.5,33,17.48,NA
+"1436",50,"Bostrychus sinensis",0,92.2,30.5,33,17.48,NA
+"1437",50,"Toxotes jaculatrix",0,92.2,30.5,33,17.48,NA
+"1438",50,"Strongylura leiura",0,92.2,30.5,33,17.48,NA
+"1439",50,"Liza macrolepsis",0,92.2,30.5,33,17.48,NA
+"1440",50,"Scatophagus argus",0,92.2,30.5,33,17.48,NA
+"1441",50,"Gerres limbatus",0,92.2,30.5,33,17.48,NA
+"1442",50,"Orange fish",0,92.2,30.5,33,17.48,NA
+"1443",50,"Apogonidae 3",0,92.2,30.5,33,17.48,NA
+"1444",50,"Lutjanus argentimaculatus",0,92.2,30.5,33,17.48,NA
+"1445",50,"Caranx sexfasciatus",0,92.2,30.5,33,17.48,NA
+"1446",50,"Sphaeramia orbicularis",0,92.2,30.5,33,17.48,NA
+"1447",50,"Chanos chanos",0,92.2,30.5,33,17.48,NA
+"1448",50,"Plectorhinchus gibbosus",0,92.2,30.5,33,17.48,NA
+"1449",50,"Lutjanus fulviflamma",0,92.2,30.5,33,17.48,NA
+"1450",50,"Tetradontidae",0,92.2,30.5,33,17.48,NA
+"1451",51,"Butis butis",0,92.72,20.8,50.42857143,118.48,NA
+"1452",51,"Halicampus grayii",0,92.72,20.8,50.42857143,118.48,NA
+"1453",51,"Apogon amboinensis",0,92.72,20.8,50.42857143,118.48,NA
+"1454",51,"Gobidae",0,92.72,20.8,50.42857143,118.48,NA
+"1455",51,"Apogon hyalosoma",0,92.72,20.8,50.42857143,118.48,NA
+"1456",51,"Eleotris fusca",0,92.72,20.8,50.42857143,118.48,NA
+"1457",51,"Zenarchopterus dispar",0,92.72,20.8,50.42857143,118.48,NA
+"1458",51,"Acentrogobius caninus",0,92.72,20.8,50.42857143,118.48,NA
+"1459",51,"Glosogobius",0,92.72,20.8,50.42857143,118.48,NA
+"1460",51,"Horaichthyidae",5,92.72,20.8,50.42857143,118.48,2
+"1461",51,"Siganus lineatus",0,92.72,20.8,50.42857143,118.48,NA
+"1462",51,"Acentrogobius sp",0,92.72,20.8,50.42857143,118.48,NA
+"1463",51,"Arothron hispidus",0,92.72,20.8,50.42857143,118.48,NA
+"1464",51,"Siganus vermiculatus",0,92.72,20.8,50.42857143,118.48,NA
+"1465",51,"Bostrychus sinensis",0,92.72,20.8,50.42857143,118.48,NA
+"1466",51,"Toxotes jaculatrix",0,92.72,20.8,50.42857143,118.48,NA
+"1467",51,"Strongylura leiura",0,92.72,20.8,50.42857143,118.48,NA
+"1468",51,"Liza macrolepsis",0,92.72,20.8,50.42857143,118.48,NA
+"1469",51,"Scatophagus argus",0,92.72,20.8,50.42857143,118.48,NA
+"1470",51,"Gerres limbatus",0,92.72,20.8,50.42857143,118.48,NA
+"1471",51,"Orange fish",0,92.72,20.8,50.42857143,118.48,NA
+"1472",51,"Apogonidae 3",0,92.72,20.8,50.42857143,118.48,NA
+"1473",51,"Lutjanus argentimaculatus",0,92.72,20.8,50.42857143,118.48,NA
+"1474",51,"Caranx sexfasciatus",0,92.72,20.8,50.42857143,118.48,NA
+"1475",51,"Sphaeramia orbicularis",0,92.72,20.8,50.42857143,118.48,NA
+"1476",51,"Chanos chanos",0,92.72,20.8,50.42857143,118.48,NA
+"1477",51,"Plectorhinchus gibbosus",0,92.72,20.8,50.42857143,118.48,NA
+"1478",51,"Lutjanus fulviflamma",0,92.72,20.8,50.42857143,118.48,NA
+"1479",51,"Tetradontidae",0,92.72,20.8,50.42857143,118.48,NA
+"1480",52,"Butis butis",0,95.06,30.7,54.42857143,118.06,NA
+"1481",52,"Halicampus grayii",0,95.06,30.7,54.42857143,118.06,NA
+"1482",52,"Apogon amboinensis",0,95.06,30.7,54.42857143,118.06,NA
+"1483",52,"Gobidae",0,95.06,30.7,54.42857143,118.06,NA
+"1484",52,"Apogon hyalosoma",0,95.06,30.7,54.42857143,118.06,NA
+"1485",52,"Eleotris fusca",0,95.06,30.7,54.42857143,118.06,NA
+"1486",52,"Zenarchopterus dispar",0,95.06,30.7,54.42857143,118.06,NA
+"1487",52,"Acentrogobius caninus",0,95.06,30.7,54.42857143,118.06,NA
+"1488",52,"Glosogobius",0,95.06,30.7,54.42857143,118.06,NA
+"1489",52,"Horaichthyidae",8,95.06,30.7,54.42857143,118.06,1.938
+"1490",52,"Siganus lineatus",0,95.06,30.7,54.42857143,118.06,NA
+"1491",52,"Acentrogobius sp",0,95.06,30.7,54.42857143,118.06,NA
+"1492",52,"Arothron hispidus",0,95.06,30.7,54.42857143,118.06,NA
+"1493",52,"Siganus vermiculatus",0,95.06,30.7,54.42857143,118.06,NA
+"1494",52,"Bostrychus sinensis",0,95.06,30.7,54.42857143,118.06,NA
+"1495",52,"Toxotes jaculatrix",0,95.06,30.7,54.42857143,118.06,NA
+"1496",52,"Strongylura leiura",0,95.06,30.7,54.42857143,118.06,NA
+"1497",52,"Liza macrolepsis",0,95.06,30.7,54.42857143,118.06,NA
+"1498",52,"Scatophagus argus",0,95.06,30.7,54.42857143,118.06,NA
+"1499",52,"Gerres limbatus",0,95.06,30.7,54.42857143,118.06,NA
+"1500",52,"Orange fish",0,95.06,30.7,54.42857143,118.06,NA
+"1501",52,"Apogonidae 3",0,95.06,30.7,54.42857143,118.06,NA
+"1502",52,"Lutjanus argentimaculatus",0,95.06,30.7,54.42857143,118.06,NA
+"1503",52,"Caranx sexfasciatus",0,95.06,30.7,54.42857143,118.06,NA
+"1504",52,"Sphaeramia orbicularis",0,95.06,30.7,54.42857143,118.06,NA
+"1505",52,"Chanos chanos",0,95.06,30.7,54.42857143,118.06,NA
+"1506",52,"Plectorhinchus gibbosus",0,95.06,30.7,54.42857143,118.06,NA
+"1507",52,"Lutjanus fulviflamma",0,95.06,30.7,54.42857143,118.06,NA
+"1508",52,"Tetradontidae",0,95.06,30.7,54.42857143,118.06,NA
+"1509",53,"Butis butis",0,97.4,50,39.85714286,119,NA
+"1510",53,"Halicampus grayii",0,97.4,50,39.85714286,119,NA
+"1511",53,"Apogon amboinensis",0,97.4,50,39.85714286,119,NA
+"1512",53,"Gobidae",0,97.4,50,39.85714286,119,NA
+"1513",53,"Apogon hyalosoma",0,97.4,50,39.85714286,119,NA
+"1514",53,"Eleotris fusca",0,97.4,50,39.85714286,119,NA
+"1515",53,"Zenarchopterus dispar",0,97.4,50,39.85714286,119,NA
+"1516",53,"Acentrogobius caninus",0,97.4,50,39.85714286,119,NA
+"1517",53,"Glosogobius",0,97.4,50,39.85714286,119,NA
+"1518",53,"Horaichthyidae",0,97.4,50,39.85714286,119,NA
+"1519",53,"Siganus lineatus",0,97.4,50,39.85714286,119,NA
+"1520",53,"Acentrogobius sp",0,97.4,50,39.85714286,119,NA
+"1521",53,"Arothron hispidus",0,97.4,50,39.85714286,119,NA
+"1522",53,"Siganus vermiculatus",0,97.4,50,39.85714286,119,NA
+"1523",53,"Bostrychus sinensis",0,97.4,50,39.85714286,119,NA
+"1524",53,"Toxotes jaculatrix",0,97.4,50,39.85714286,119,NA
+"1525",53,"Strongylura leiura",0,97.4,50,39.85714286,119,NA
+"1526",53,"Liza macrolepsis",1,97.4,50,39.85714286,119,6.4
+"1527",53,"Scatophagus argus",0,97.4,50,39.85714286,119,NA
+"1528",53,"Gerres limbatus",0,97.4,50,39.85714286,119,NA
+"1529",53,"Orange fish",0,97.4,50,39.85714286,119,NA
+"1530",53,"Apogonidae 3",0,97.4,50,39.85714286,119,NA
+"1531",53,"Lutjanus argentimaculatus",0,97.4,50,39.85714286,119,NA
+"1532",53,"Caranx sexfasciatus",0,97.4,50,39.85714286,119,NA
+"1533",53,"Sphaeramia orbicularis",0,97.4,50,39.85714286,119,NA
+"1534",53,"Chanos chanos",0,97.4,50,39.85714286,119,NA
+"1535",53,"Plectorhinchus gibbosus",0,97.4,50,39.85714286,119,NA
+"1536",53,"Lutjanus fulviflamma",0,97.4,50,39.85714286,119,NA
+"1537",53,"Tetradontidae",0,97.4,50,39.85714286,119,NA
+"1538",54,"Butis butis",0,98.18,40.4,47.85714286,85.87,NA
+"1539",54,"Halicampus grayii",0,98.18,40.4,47.85714286,85.87,NA
+"1540",54,"Apogon amboinensis",0,98.18,40.4,47.85714286,85.87,NA
+"1541",54,"Gobidae",0,98.18,40.4,47.85714286,85.87,NA
+"1542",54,"Apogon hyalosoma",0,98.18,40.4,47.85714286,85.87,NA
+"1543",54,"Eleotris fusca",0,98.18,40.4,47.85714286,85.87,NA
+"1544",54,"Zenarchopterus dispar",0,98.18,40.4,47.85714286,85.87,NA
+"1545",54,"Acentrogobius caninus",0,98.18,40.4,47.85714286,85.87,NA
+"1546",54,"Glosogobius",0,98.18,40.4,47.85714286,85.87,NA
+"1547",54,"Horaichthyidae",0,98.18,40.4,47.85714286,85.87,NA
+"1548",54,"Siganus lineatus",0,98.18,40.4,47.85714286,85.87,NA
+"1549",54,"Acentrogobius sp",0,98.18,40.4,47.85714286,85.87,NA
+"1550",54,"Arothron hispidus",0,98.18,40.4,47.85714286,85.87,NA
+"1551",54,"Siganus vermiculatus",0,98.18,40.4,47.85714286,85.87,NA
+"1552",54,"Bostrychus sinensis",0,98.18,40.4,47.85714286,85.87,NA
+"1553",54,"Toxotes jaculatrix",0,98.18,40.4,47.85714286,85.87,NA
+"1554",54,"Strongylura leiura",0,98.18,40.4,47.85714286,85.87,NA
+"1555",54,"Liza macrolepsis",0,98.18,40.4,47.85714286,85.87,NA
+"1556",54,"Scatophagus argus",0,98.18,40.4,47.85714286,85.87,NA
+"1557",54,"Gerres limbatus",0,98.18,40.4,47.85714286,85.87,NA
+"1558",54,"Orange fish",0,98.18,40.4,47.85714286,85.87,NA
+"1559",54,"Apogonidae 3",0,98.18,40.4,47.85714286,85.87,NA
+"1560",54,"Lutjanus argentimaculatus",0,98.18,40.4,47.85714286,85.87,NA
+"1561",54,"Caranx sexfasciatus",0,98.18,40.4,47.85714286,85.87,NA
+"1562",54,"Sphaeramia orbicularis",0,98.18,40.4,47.85714286,85.87,NA
+"1563",54,"Chanos chanos",0,98.18,40.4,47.85714286,85.87,NA
+"1564",54,"Plectorhinchus gibbosus",0,98.18,40.4,47.85714286,85.87,NA
+"1565",54,"Lutjanus fulviflamma",0,98.18,40.4,47.85714286,85.87,NA
+"1566",54,"Tetradontidae",0,98.18,40.4,47.85714286,85.87,NA
+"1567",55,"Butis butis",0,86.22,20.7,21.85714286,142.7,NA
+"1568",55,"Halicampus grayii",0,86.22,20.7,21.85714286,142.7,NA
+"1569",55,"Apogon amboinensis",0,86.22,20.7,21.85714286,142.7,NA
+"1570",55,"Gobidae",0,86.22,20.7,21.85714286,142.7,NA
+"1571",55,"Apogon hyalosoma",0,86.22,20.7,21.85714286,142.7,NA
+"1572",55,"Eleotris fusca",0,86.22,20.7,21.85714286,142.7,NA
+"1573",55,"Zenarchopterus dispar",0,86.22,20.7,21.85714286,142.7,NA
+"1574",55,"Acentrogobius caninus",0,86.22,20.7,21.85714286,142.7,NA
+"1575",55,"Glosogobius",0,86.22,20.7,21.85714286,142.7,NA
+"1576",55,"Horaichthyidae",0,86.22,20.7,21.85714286,142.7,NA
+"1577",55,"Siganus lineatus",0,86.22,20.7,21.85714286,142.7,NA
+"1578",55,"Acentrogobius sp",0,86.22,20.7,21.85714286,142.7,NA
+"1579",55,"Arothron hispidus",0,86.22,20.7,21.85714286,142.7,NA
+"1580",55,"Siganus vermiculatus",0,86.22,20.7,21.85714286,142.7,NA
+"1581",55,"Bostrychus sinensis",0,86.22,20.7,21.85714286,142.7,NA
+"1582",55,"Toxotes jaculatrix",0,86.22,20.7,21.85714286,142.7,NA
+"1583",55,"Strongylura leiura",0,86.22,20.7,21.85714286,142.7,NA
+"1584",55,"Liza macrolepsis",0,86.22,20.7,21.85714286,142.7,NA
+"1585",55,"Scatophagus argus",0,86.22,20.7,21.85714286,142.7,NA
+"1586",55,"Gerres limbatus",0,86.22,20.7,21.85714286,142.7,NA
+"1587",55,"Orange fish",0,86.22,20.7,21.85714286,142.7,NA
+"1588",55,"Apogonidae 3",0,86.22,20.7,21.85714286,142.7,NA
+"1589",55,"Lutjanus argentimaculatus",0,86.22,20.7,21.85714286,142.7,NA
+"1590",55,"Caranx sexfasciatus",0,86.22,20.7,21.85714286,142.7,NA
+"1591",55,"Sphaeramia orbicularis",0,86.22,20.7,21.85714286,142.7,NA
+"1592",55,"Chanos chanos",0,86.22,20.7,21.85714286,142.7,NA
+"1593",55,"Plectorhinchus gibbosus",0,86.22,20.7,21.85714286,142.7,NA
+"1594",55,"Lutjanus fulviflamma",0,86.22,20.7,21.85714286,142.7,NA
+"1595",55,"Tetradontidae",0,86.22,20.7,21.85714286,142.7,NA
+"1596",56,"Butis butis",0,96.62,50.3,55.14285714,126.54,NA
+"1597",56,"Halicampus grayii",0,96.62,50.3,55.14285714,126.54,NA
+"1598",56,"Apogon amboinensis",0,96.62,50.3,55.14285714,126.54,NA
+"1599",56,"Gobidae",0,96.62,50.3,55.14285714,126.54,NA
+"1600",56,"Apogon hyalosoma",0,96.62,50.3,55.14285714,126.54,NA
+"1601",56,"Eleotris fusca",0,96.62,50.3,55.14285714,126.54,NA
+"1602",56,"Zenarchopterus dispar",0,96.62,50.3,55.14285714,126.54,NA
+"1603",56,"Acentrogobius caninus",0,96.62,50.3,55.14285714,126.54,NA
+"1604",56,"Glosogobius",0,96.62,50.3,55.14285714,126.54,NA
+"1605",56,"Horaichthyidae",10,96.62,50.3,55.14285714,126.54,2
+"1606",56,"Siganus lineatus",0,96.62,50.3,55.14285714,126.54,NA
+"1607",56,"Acentrogobius sp",0,96.62,50.3,55.14285714,126.54,NA
+"1608",56,"Arothron hispidus",0,96.62,50.3,55.14285714,126.54,NA
+"1609",56,"Siganus vermiculatus",0,96.62,50.3,55.14285714,126.54,NA
+"1610",56,"Bostrychus sinensis",0,96.62,50.3,55.14285714,126.54,NA
+"1611",56,"Toxotes jaculatrix",0,96.62,50.3,55.14285714,126.54,NA
+"1612",56,"Strongylura leiura",0,96.62,50.3,55.14285714,126.54,NA
+"1613",56,"Liza macrolepsis",0,96.62,50.3,55.14285714,126.54,NA
+"1614",56,"Scatophagus argus",0,96.62,50.3,55.14285714,126.54,NA
+"1615",56,"Gerres limbatus",0,96.62,50.3,55.14285714,126.54,NA
+"1616",56,"Orange fish",0,96.62,50.3,55.14285714,126.54,NA
+"1617",56,"Apogonidae 3",0,96.62,50.3,55.14285714,126.54,NA
+"1618",56,"Lutjanus argentimaculatus",0,96.62,50.3,55.14285714,126.54,NA
+"1619",56,"Caranx sexfasciatus",0,96.62,50.3,55.14285714,126.54,NA
+"1620",56,"Sphaeramia orbicularis",0,96.62,50.3,55.14285714,126.54,NA
+"1621",56,"Chanos chanos",0,96.62,50.3,55.14285714,126.54,NA
+"1622",56,"Plectorhinchus gibbosus",0,96.62,50.3,55.14285714,126.54,NA
+"1623",56,"Lutjanus fulviflamma",0,96.62,50.3,55.14285714,126.54,NA
+"1624",56,"Tetradontidae",0,96.62,50.3,55.14285714,126.54,NA
+"1625",57,"Butis butis",0,98.96,40.3,43.71428571,116.1,NA
+"1626",57,"Halicampus grayii",0,98.96,40.3,43.71428571,116.1,NA
+"1627",57,"Apogon amboinensis",0,98.96,40.3,43.71428571,116.1,NA
+"1628",57,"Gobidae",0,98.96,40.3,43.71428571,116.1,NA
+"1629",57,"Apogon hyalosoma",0,98.96,40.3,43.71428571,116.1,NA
+"1630",57,"Eleotris fusca",0,98.96,40.3,43.71428571,116.1,NA
+"1631",57,"Zenarchopterus dispar",0,98.96,40.3,43.71428571,116.1,NA
+"1632",57,"Acentrogobius caninus",0,98.96,40.3,43.71428571,116.1,NA
+"1633",57,"Glosogobius",0,98.96,40.3,43.71428571,116.1,NA
+"1634",57,"Horaichthyidae",0,98.96,40.3,43.71428571,116.1,NA
+"1635",57,"Siganus lineatus",0,98.96,40.3,43.71428571,116.1,NA
+"1636",57,"Acentrogobius sp",0,98.96,40.3,43.71428571,116.1,NA
+"1637",57,"Arothron hispidus",0,98.96,40.3,43.71428571,116.1,NA
+"1638",57,"Siganus vermiculatus",0,98.96,40.3,43.71428571,116.1,NA
+"1639",57,"Bostrychus sinensis",0,98.96,40.3,43.71428571,116.1,NA
+"1640",57,"Toxotes jaculatrix",0,98.96,40.3,43.71428571,116.1,NA
+"1641",57,"Strongylura leiura",2,98.96,40.3,43.71428571,116.1,2.25
+"1642",57,"Liza macrolepsis",0,98.96,40.3,43.71428571,116.1,NA
+"1643",57,"Scatophagus argus",0,98.96,40.3,43.71428571,116.1,NA
+"1644",57,"Gerres limbatus",0,98.96,40.3,43.71428571,116.1,NA
+"1645",57,"Orange fish",0,98.96,40.3,43.71428571,116.1,NA
+"1646",57,"Apogonidae 3",0,98.96,40.3,43.71428571,116.1,NA
+"1647",57,"Lutjanus argentimaculatus",0,98.96,40.3,43.71428571,116.1,NA
+"1648",57,"Caranx sexfasciatus",0,98.96,40.3,43.71428571,116.1,NA
+"1649",57,"Sphaeramia orbicularis",0,98.96,40.3,43.71428571,116.1,NA
+"1650",57,"Chanos chanos",0,98.96,40.3,43.71428571,116.1,NA
+"1651",57,"Plectorhinchus gibbosus",0,98.96,40.3,43.71428571,116.1,NA
+"1652",57,"Lutjanus fulviflamma",0,98.96,40.3,43.71428571,116.1,NA
+"1653",57,"Tetradontidae",0,98.96,40.3,43.71428571,116.1,NA
+"1654",58,"Butis butis",0,88.56,50.8,43,139.58,NA
+"1655",58,"Halicampus grayii",0,88.56,50.8,43,139.58,NA
+"1656",58,"Apogon amboinensis",0,88.56,50.8,43,139.58,NA
+"1657",58,"Gobidae",0,88.56,50.8,43,139.58,NA
+"1658",58,"Apogon hyalosoma",0,88.56,50.8,43,139.58,NA
+"1659",58,"Eleotris fusca",0,88.56,50.8,43,139.58,NA
+"1660",58,"Zenarchopterus dispar",0,88.56,50.8,43,139.58,NA
+"1661",58,"Acentrogobius caninus",0,88.56,50.8,43,139.58,NA
+"1662",58,"Glosogobius",0,88.56,50.8,43,139.58,NA
+"1663",58,"Horaichthyidae",0,88.56,50.8,43,139.58,NA
+"1664",58,"Siganus lineatus",0,88.56,50.8,43,139.58,NA
+"1665",58,"Acentrogobius sp",0,88.56,50.8,43,139.58,NA
+"1666",58,"Arothron hispidus",0,88.56,50.8,43,139.58,NA
+"1667",58,"Siganus vermiculatus",0,88.56,50.8,43,139.58,NA
+"1668",58,"Bostrychus sinensis",0,88.56,50.8,43,139.58,NA
+"1669",58,"Toxotes jaculatrix",0,88.56,50.8,43,139.58,NA
+"1670",58,"Strongylura leiura",0,88.56,50.8,43,139.58,NA
+"1671",58,"Liza macrolepsis",0,88.56,50.8,43,139.58,NA
+"1672",58,"Scatophagus argus",1,88.56,50.8,43,139.58,15
+"1673",58,"Gerres limbatus",2,88.56,50.8,43,139.58,6.33
+"1674",58,"Orange fish",0,88.56,50.8,43,139.58,NA
+"1675",58,"Apogonidae 3",0,88.56,50.8,43,139.58,NA
+"1676",58,"Lutjanus argentimaculatus",0,88.56,50.8,43,139.58,NA
+"1677",58,"Caranx sexfasciatus",0,88.56,50.8,43,139.58,NA
+"1678",58,"Sphaeramia orbicularis",0,88.56,50.8,43,139.58,NA
+"1679",58,"Chanos chanos",0,88.56,50.8,43,139.58,NA
+"1680",58,"Plectorhinchus gibbosus",0,88.56,50.8,43,139.58,NA
+"1681",58,"Lutjanus fulviflamma",0,88.56,50.8,43,139.58,NA
+"1682",58,"Tetradontidae",0,88.56,50.8,43,139.58,NA
+"1683",59,"Butis butis",0,86.74,30.4,21.85714286,111.66,NA
+"1684",59,"Halicampus grayii",0,86.74,30.4,21.85714286,111.66,NA
+"1685",59,"Apogon amboinensis",0,86.74,30.4,21.85714286,111.66,NA
+"1686",59,"Gobidae",0,86.74,30.4,21.85714286,111.66,NA
+"1687",59,"Apogon hyalosoma",0,86.74,30.4,21.85714286,111.66,NA
+"1688",59,"Eleotris fusca",0,86.74,30.4,21.85714286,111.66,NA
+"1689",59,"Zenarchopterus dispar",0,86.74,30.4,21.85714286,111.66,NA
+"1690",59,"Acentrogobius caninus",0,86.74,30.4,21.85714286,111.66,NA
+"1691",59,"Glosogobius",0,86.74,30.4,21.85714286,111.66,NA
+"1692",59,"Horaichthyidae",0,86.74,30.4,21.85714286,111.66,NA
+"1693",59,"Siganus lineatus",0,86.74,30.4,21.85714286,111.66,NA
+"1694",59,"Acentrogobius sp",0,86.74,30.4,21.85714286,111.66,NA
+"1695",59,"Arothron hispidus",0,86.74,30.4,21.85714286,111.66,NA
+"1696",59,"Siganus vermiculatus",0,86.74,30.4,21.85714286,111.66,NA
+"1697",59,"Bostrychus sinensis",0,86.74,30.4,21.85714286,111.66,NA
+"1698",59,"Toxotes jaculatrix",0,86.74,30.4,21.85714286,111.66,NA
+"1699",59,"Strongylura leiura",1,86.74,30.4,21.85714286,111.66,3.8
+"1700",59,"Liza macrolepsis",0,86.74,30.4,21.85714286,111.66,NA
+"1701",59,"Scatophagus argus",0,86.74,30.4,21.85714286,111.66,NA
+"1702",59,"Gerres limbatus",0,86.74,30.4,21.85714286,111.66,NA
+"1703",59,"Orange fish",1,86.74,30.4,21.85714286,111.66,9.68
+"1704",59,"Apogonidae 3",0,86.74,30.4,21.85714286,111.66,NA
+"1705",59,"Lutjanus argentimaculatus",0,86.74,30.4,21.85714286,111.66,NA
+"1706",59,"Caranx sexfasciatus",0,86.74,30.4,21.85714286,111.66,NA
+"1707",59,"Sphaeramia orbicularis",0,86.74,30.4,21.85714286,111.66,NA
+"1708",59,"Chanos chanos",0,86.74,30.4,21.85714286,111.66,NA
+"1709",59,"Plectorhinchus gibbosus",0,86.74,30.4,21.85714286,111.66,NA
+"1710",59,"Lutjanus fulviflamma",0,86.74,30.4,21.85714286,111.66,NA
+"1711",59,"Tetradontidae",0,86.74,30.4,21.85714286,111.66,NA
+"1712",60,"Butis butis",0,94.54,50.2,32.28571429,157.34,NA
+"1713",60,"Halicampus grayii",0,94.54,50.2,32.28571429,157.34,NA
+"1714",60,"Apogon amboinensis",0,94.54,50.2,32.28571429,157.34,NA
+"1715",60,"Gobidae",0,94.54,50.2,32.28571429,157.34,NA
+"1716",60,"Apogon hyalosoma",0,94.54,50.2,32.28571429,157.34,NA
+"1717",60,"Eleotris fusca",0,94.54,50.2,32.28571429,157.34,NA
+"1718",60,"Zenarchopterus dispar",0,94.54,50.2,32.28571429,157.34,NA
+"1719",60,"Acentrogobius caninus",0,94.54,50.2,32.28571429,157.34,NA
+"1720",60,"Glosogobius",0,94.54,50.2,32.28571429,157.34,NA
+"1721",60,"Horaichthyidae",8,94.54,50.2,32.28571429,157.34,2
+"1722",60,"Siganus lineatus",0,94.54,50.2,32.28571429,157.34,NA
+"1723",60,"Acentrogobius sp",0,94.54,50.2,32.28571429,157.34,NA
+"1724",60,"Arothron hispidus",0,94.54,50.2,32.28571429,157.34,NA
+"1725",60,"Siganus vermiculatus",0,94.54,50.2,32.28571429,157.34,NA
+"1726",60,"Bostrychus sinensis",0,94.54,50.2,32.28571429,157.34,NA
+"1727",60,"Toxotes jaculatrix",0,94.54,50.2,32.28571429,157.34,NA
+"1728",60,"Strongylura leiura",0,94.54,50.2,32.28571429,157.34,NA
+"1729",60,"Liza macrolepsis",0,94.54,50.2,32.28571429,157.34,NA
+"1730",60,"Scatophagus argus",0,94.54,50.2,32.28571429,157.34,NA
+"1731",60,"Gerres limbatus",0,94.54,50.2,32.28571429,157.34,NA
+"1732",60,"Orange fish",0,94.54,50.2,32.28571429,157.34,NA
+"1733",60,"Apogonidae 3",0,94.54,50.2,32.28571429,157.34,NA
+"1734",60,"Lutjanus argentimaculatus",0,94.54,50.2,32.28571429,157.34,NA
+"1735",60,"Caranx sexfasciatus",0,94.54,50.2,32.28571429,157.34,NA
+"1736",60,"Sphaeramia orbicularis",0,94.54,50.2,32.28571429,157.34,NA
+"1737",60,"Chanos chanos",0,94.54,50.2,32.28571429,157.34,NA
+"1738",60,"Plectorhinchus gibbosus",0,94.54,50.2,32.28571429,157.34,NA
+"1739",60,"Lutjanus fulviflamma",0,94.54,50.2,32.28571429,157.34,NA
+"1740",60,"Tetradontidae",0,94.54,50.2,32.28571429,157.34,NA
+"1741",61,"Butis butis",0,67.76,30,26.85714286,70.45,NA
+"1742",61,"Halicampus grayii",0,67.76,30,26.85714286,70.45,NA
+"1743",61,"Apogon amboinensis",0,67.76,30,26.85714286,70.45,NA
+"1744",61,"Gobidae",0,67.76,30,26.85714286,70.45,NA
+"1745",61,"Apogon hyalosoma",0,67.76,30,26.85714286,70.45,NA
+"1746",61,"Eleotris fusca",0,67.76,30,26.85714286,70.45,NA
+"1747",61,"Zenarchopterus dispar",0,67.76,30,26.85714286,70.45,NA
+"1748",61,"Acentrogobius caninus",0,67.76,30,26.85714286,70.45,NA
+"1749",61,"Glosogobius",0,67.76,30,26.85714286,70.45,NA
+"1750",61,"Horaichthyidae",16,67.76,30,26.85714286,70.45,2
+"1751",61,"Siganus lineatus",0,67.76,30,26.85714286,70.45,NA
+"1752",61,"Acentrogobius sp",0,67.76,30,26.85714286,70.45,NA
+"1753",61,"Arothron hispidus",0,67.76,30,26.85714286,70.45,NA
+"1754",61,"Siganus vermiculatus",0,67.76,30,26.85714286,70.45,NA
+"1755",61,"Bostrychus sinensis",0,67.76,30,26.85714286,70.45,NA
+"1756",61,"Toxotes jaculatrix",0,67.76,30,26.85714286,70.45,NA
+"1757",61,"Strongylura leiura",0,67.76,30,26.85714286,70.45,NA
+"1758",61,"Liza macrolepsis",0,67.76,30,26.85714286,70.45,NA
+"1759",61,"Scatophagus argus",0,67.76,30,26.85714286,70.45,NA
+"1760",61,"Gerres limbatus",0,67.76,30,26.85714286,70.45,NA
+"1761",61,"Orange fish",0,67.76,30,26.85714286,70.45,NA
+"1762",61,"Apogonidae 3",0,67.76,30,26.85714286,70.45,NA
+"1763",61,"Lutjanus argentimaculatus",0,67.76,30,26.85714286,70.45,NA
+"1764",61,"Caranx sexfasciatus",0,67.76,30,26.85714286,70.45,NA
+"1765",61,"Sphaeramia orbicularis",0,67.76,30,26.85714286,70.45,NA
+"1766",61,"Chanos chanos",0,67.76,30,26.85714286,70.45,NA
+"1767",61,"Plectorhinchus gibbosus",0,67.76,30,26.85714286,70.45,NA
+"1768",61,"Lutjanus fulviflamma",0,67.76,30,26.85714286,70.45,NA
+"1769",61,"Tetradontidae",0,67.76,30,26.85714286,70.45,NA
+"1770",62,"Butis butis",0,98.96,40.3,31.14285714,58.6,NA
+"1771",62,"Halicampus grayii",0,98.96,40.3,31.14285714,58.6,NA
+"1772",62,"Apogon amboinensis",0,98.96,40.3,31.14285714,58.6,NA
+"1773",62,"Gobidae",0,98.96,40.3,31.14285714,58.6,NA
+"1774",62,"Apogon hyalosoma",0,98.96,40.3,31.14285714,58.6,NA
+"1775",62,"Eleotris fusca",0,98.96,40.3,31.14285714,58.6,NA
+"1776",62,"Zenarchopterus dispar",0,98.96,40.3,31.14285714,58.6,NA
+"1777",62,"Acentrogobius caninus",0,98.96,40.3,31.14285714,58.6,NA
+"1778",62,"Glosogobius",0,98.96,40.3,31.14285714,58.6,NA
+"1779",62,"Horaichthyidae",0,98.96,40.3,31.14285714,58.6,NA
+"1780",62,"Siganus lineatus",0,98.96,40.3,31.14285714,58.6,NA
+"1781",62,"Acentrogobius sp",0,98.96,40.3,31.14285714,58.6,NA
+"1782",62,"Arothron hispidus",0,98.96,40.3,31.14285714,58.6,NA
+"1783",62,"Siganus vermiculatus",0,98.96,40.3,31.14285714,58.6,NA
+"1784",62,"Bostrychus sinensis",0,98.96,40.3,31.14285714,58.6,NA
+"1785",62,"Toxotes jaculatrix",0,98.96,40.3,31.14285714,58.6,NA
+"1786",62,"Strongylura leiura",0,98.96,40.3,31.14285714,58.6,NA
+"1787",62,"Liza macrolepsis",0,98.96,40.3,31.14285714,58.6,NA
+"1788",62,"Scatophagus argus",0,98.96,40.3,31.14285714,58.6,NA
+"1789",62,"Gerres limbatus",0,98.96,40.3,31.14285714,58.6,NA
+"1790",62,"Orange fish",0,98.96,40.3,31.14285714,58.6,NA
+"1791",62,"Apogonidae 3",0,98.96,40.3,31.14285714,58.6,NA
+"1792",62,"Lutjanus argentimaculatus",0,98.96,40.3,31.14285714,58.6,NA
+"1793",62,"Caranx sexfasciatus",0,98.96,40.3,31.14285714,58.6,NA
+"1794",62,"Sphaeramia orbicularis",0,98.96,40.3,31.14285714,58.6,NA
+"1795",62,"Chanos chanos",0,98.96,40.3,31.14285714,58.6,NA
+"1796",62,"Plectorhinchus gibbosus",0,98.96,40.3,31.14285714,58.6,NA
+"1797",62,"Lutjanus fulviflamma",0,98.96,40.3,31.14285714,58.6,NA
+"1798",62,"Tetradontidae",0,98.96,40.3,31.14285714,58.6,NA
+"1799",63,"Butis butis",0,100,50.3,19.57142857,56.11,NA
+"1800",63,"Halicampus grayii",0,100,50.3,19.57142857,56.11,NA
+"1801",63,"Apogon amboinensis",0,100,50.3,19.57142857,56.11,NA
+"1802",63,"Gobidae",0,100,50.3,19.57142857,56.11,NA
+"1803",63,"Apogon hyalosoma",0,100,50.3,19.57142857,56.11,NA
+"1804",63,"Eleotris fusca",0,100,50.3,19.57142857,56.11,NA
+"1805",63,"Zenarchopterus dispar",0,100,50.3,19.57142857,56.11,NA
+"1806",63,"Acentrogobius caninus",0,100,50.3,19.57142857,56.11,NA
+"1807",63,"Glosogobius",0,100,50.3,19.57142857,56.11,NA
+"1808",63,"Horaichthyidae",70,100,50.3,19.57142857,56.11,2
+"1809",63,"Siganus lineatus",0,100,50.3,19.57142857,56.11,NA
+"1810",63,"Acentrogobius sp",0,100,50.3,19.57142857,56.11,NA
+"1811",63,"Arothron hispidus",0,100,50.3,19.57142857,56.11,NA
+"1812",63,"Siganus vermiculatus",0,100,50.3,19.57142857,56.11,NA
+"1813",63,"Bostrychus sinensis",0,100,50.3,19.57142857,56.11,NA
+"1814",63,"Toxotes jaculatrix",0,100,50.3,19.57142857,56.11,NA
+"1815",63,"Strongylura leiura",0,100,50.3,19.57142857,56.11,NA
+"1816",63,"Liza macrolepsis",0,100,50.3,19.57142857,56.11,NA
+"1817",63,"Scatophagus argus",0,100,50.3,19.57142857,56.11,NA
+"1818",63,"Gerres limbatus",0,100,50.3,19.57142857,56.11,NA
+"1819",63,"Orange fish",0,100,50.3,19.57142857,56.11,NA
+"1820",63,"Apogonidae 3",40,100,50.3,19.57142857,56.11,1.5
+"1821",63,"Lutjanus argentimaculatus",0,100,50.3,19.57142857,56.11,NA
+"1822",63,"Caranx sexfasciatus",0,100,50.3,19.57142857,56.11,NA
+"1823",63,"Sphaeramia orbicularis",0,100,50.3,19.57142857,56.11,NA
+"1824",63,"Chanos chanos",0,100,50.3,19.57142857,56.11,NA
+"1825",63,"Plectorhinchus gibbosus",0,100,50.3,19.57142857,56.11,NA
+"1826",63,"Lutjanus fulviflamma",0,100,50.3,19.57142857,56.11,NA
+"1827",63,"Tetradontidae",0,100,50.3,19.57142857,56.11,NA
+"1828",64,"Butis butis",0,84.4,30.2,34.14285714,38.99,NA
+"1829",64,"Halicampus grayii",0,84.4,30.2,34.14285714,38.99,NA
+"1830",64,"Apogon amboinensis",0,84.4,30.2,34.14285714,38.99,NA
+"1831",64,"Gobidae",0,84.4,30.2,34.14285714,38.99,NA
+"1832",64,"Apogon hyalosoma",0,84.4,30.2,34.14285714,38.99,NA
+"1833",64,"Eleotris fusca",0,84.4,30.2,34.14285714,38.99,NA
+"1834",64,"Zenarchopterus dispar",0,84.4,30.2,34.14285714,38.99,NA
+"1835",64,"Acentrogobius caninus",0,84.4,30.2,34.14285714,38.99,NA
+"1836",64,"Glosogobius",0,84.4,30.2,34.14285714,38.99,NA
+"1837",64,"Horaichthyidae",20,84.4,30.2,34.14285714,38.99,2
+"1838",64,"Siganus lineatus",0,84.4,30.2,34.14285714,38.99,NA
+"1839",64,"Acentrogobius sp",0,84.4,30.2,34.14285714,38.99,NA
+"1840",64,"Arothron hispidus",0,84.4,30.2,34.14285714,38.99,NA
+"1841",64,"Siganus vermiculatus",0,84.4,30.2,34.14285714,38.99,NA
+"1842",64,"Bostrychus sinensis",0,84.4,30.2,34.14285714,38.99,NA
+"1843",64,"Toxotes jaculatrix",0,84.4,30.2,34.14285714,38.99,NA
+"1844",64,"Strongylura leiura",0,84.4,30.2,34.14285714,38.99,NA
+"1845",64,"Liza macrolepsis",0,84.4,30.2,34.14285714,38.99,NA
+"1846",64,"Scatophagus argus",0,84.4,30.2,34.14285714,38.99,NA
+"1847",64,"Gerres limbatus",0,84.4,30.2,34.14285714,38.99,NA
+"1848",64,"Orange fish",0,84.4,30.2,34.14285714,38.99,NA
+"1849",64,"Apogonidae 3",0,84.4,30.2,34.14285714,38.99,NA
+"1850",64,"Lutjanus argentimaculatus",0,84.4,30.2,34.14285714,38.99,NA
+"1851",64,"Caranx sexfasciatus",0,84.4,30.2,34.14285714,38.99,NA
+"1852",64,"Sphaeramia orbicularis",0,84.4,30.2,34.14285714,38.99,NA
+"1853",64,"Chanos chanos",0,84.4,30.2,34.14285714,38.99,NA
+"1854",64,"Plectorhinchus gibbosus",0,84.4,30.2,34.14285714,38.99,NA
+"1855",64,"Lutjanus fulviflamma",0,84.4,30.2,34.14285714,38.99,NA
+"1856",64,"Tetradontidae",0,84.4,30.2,34.14285714,38.99,NA
+"1857",65,"Butis butis",0,100,60.4,11.28571429,81.95,NA
+"1858",65,"Halicampus grayii",0,100,60.4,11.28571429,81.95,NA
+"1859",65,"Apogon amboinensis",0,100,60.4,11.28571429,81.95,NA
+"1860",65,"Gobidae",0,100,60.4,11.28571429,81.95,NA
+"1861",65,"Apogon hyalosoma",0,100,60.4,11.28571429,81.95,NA
+"1862",65,"Eleotris fusca",0,100,60.4,11.28571429,81.95,NA
+"1863",65,"Zenarchopterus dispar",2,100,60.4,11.28571429,81.95,10.1
+"1864",65,"Acentrogobius caninus",0,100,60.4,11.28571429,81.95,NA
+"1865",65,"Glosogobius",0,100,60.4,11.28571429,81.95,NA
+"1866",65,"Horaichthyidae",10,100,60.4,11.28571429,81.95,2
+"1867",65,"Siganus lineatus",0,100,60.4,11.28571429,81.95,NA
+"1868",65,"Acentrogobius sp",0,100,60.4,11.28571429,81.95,NA
+"1869",65,"Arothron hispidus",0,100,60.4,11.28571429,81.95,NA
+"1870",65,"Siganus vermiculatus",0,100,60.4,11.28571429,81.95,NA
+"1871",65,"Bostrychus sinensis",0,100,60.4,11.28571429,81.95,NA
+"1872",65,"Toxotes jaculatrix",0,100,60.4,11.28571429,81.95,NA
+"1873",65,"Strongylura leiura",1,100,60.4,11.28571429,81.95,13.5
+"1874",65,"Liza macrolepsis",0,100,60.4,11.28571429,81.95,NA
+"1875",65,"Scatophagus argus",0,100,60.4,11.28571429,81.95,NA
+"1876",65,"Gerres limbatus",0,100,60.4,11.28571429,81.95,NA
+"1877",65,"Orange fish",0,100,60.4,11.28571429,81.95,NA
+"1878",65,"Apogonidae 3",0,100,60.4,11.28571429,81.95,NA
+"1879",65,"Lutjanus argentimaculatus",0,100,60.4,11.28571429,81.95,NA
+"1880",65,"Caranx sexfasciatus",0,100,60.4,11.28571429,81.95,NA
+"1881",65,"Sphaeramia orbicularis",0,100,60.4,11.28571429,81.95,NA
+"1882",65,"Chanos chanos",0,100,60.4,11.28571429,81.95,NA
+"1883",65,"Plectorhinchus gibbosus",0,100,60.4,11.28571429,81.95,NA
+"1884",65,"Lutjanus fulviflamma",0,100,60.4,11.28571429,81.95,NA
+"1885",65,"Tetradontidae",0,100,60.4,11.28571429,81.95,NA
+"1886",66,"Butis butis",0,89.6,50.7,28.28571429,66.2,NA
+"1887",66,"Halicampus grayii",0,89.6,50.7,28.28571429,66.2,NA
+"1888",66,"Apogon amboinensis",0,89.6,50.7,28.28571429,66.2,NA
+"1889",66,"Gobidae",0,89.6,50.7,28.28571429,66.2,NA
+"1890",66,"Apogon hyalosoma",0,89.6,50.7,28.28571429,66.2,NA
+"1891",66,"Eleotris fusca",0,89.6,50.7,28.28571429,66.2,NA
+"1892",66,"Zenarchopterus dispar",0,89.6,50.7,28.28571429,66.2,NA
+"1893",66,"Acentrogobius caninus",0,89.6,50.7,28.28571429,66.2,NA
+"1894",66,"Glosogobius",0,89.6,50.7,28.28571429,66.2,NA
+"1895",66,"Horaichthyidae",0,89.6,50.7,28.28571429,66.2,NA
+"1896",66,"Siganus lineatus",0,89.6,50.7,28.28571429,66.2,NA
+"1897",66,"Acentrogobius sp",0,89.6,50.7,28.28571429,66.2,NA
+"1898",66,"Arothron hispidus",0,89.6,50.7,28.28571429,66.2,NA
+"1899",66,"Siganus vermiculatus",0,89.6,50.7,28.28571429,66.2,NA
+"1900",66,"Bostrychus sinensis",0,89.6,50.7,28.28571429,66.2,NA
+"1901",66,"Toxotes jaculatrix",0,89.6,50.7,28.28571429,66.2,NA
+"1902",66,"Strongylura leiura",0,89.6,50.7,28.28571429,66.2,NA
+"1903",66,"Liza macrolepsis",0,89.6,50.7,28.28571429,66.2,NA
+"1904",66,"Scatophagus argus",0,89.6,50.7,28.28571429,66.2,NA
+"1905",66,"Gerres limbatus",0,89.6,50.7,28.28571429,66.2,NA
+"1906",66,"Orange fish",0,89.6,50.7,28.28571429,66.2,NA
+"1907",66,"Apogonidae 3",40,89.6,50.7,28.28571429,66.2,2.288
+"1908",66,"Lutjanus argentimaculatus",1,89.6,50.7,28.28571429,66.2,22.05
+"1909",66,"Caranx sexfasciatus",0,89.6,50.7,28.28571429,66.2,NA
+"1910",66,"Sphaeramia orbicularis",0,89.6,50.7,28.28571429,66.2,NA
+"1911",66,"Chanos chanos",0,89.6,50.7,28.28571429,66.2,NA
+"1912",66,"Plectorhinchus gibbosus",0,89.6,50.7,28.28571429,66.2,NA
+"1913",66,"Lutjanus fulviflamma",0,89.6,50.7,28.28571429,66.2,NA
+"1914",66,"Tetradontidae",0,89.6,50.7,28.28571429,66.2,NA
+"1915",67,"Butis butis",0,99.22,60.2,18.14285714,79.47,NA
+"1916",67,"Halicampus grayii",0,99.22,60.2,18.14285714,79.47,NA
+"1917",67,"Apogon amboinensis",0,99.22,60.2,18.14285714,79.47,NA
+"1918",67,"Gobidae",0,99.22,60.2,18.14285714,79.47,NA
+"1919",67,"Apogon hyalosoma",0,99.22,60.2,18.14285714,79.47,NA
+"1920",67,"Eleotris fusca",0,99.22,60.2,18.14285714,79.47,NA
+"1921",67,"Zenarchopterus dispar",0,99.22,60.2,18.14285714,79.47,NA
+"1922",67,"Acentrogobius caninus",0,99.22,60.2,18.14285714,79.47,NA
+"1923",67,"Glosogobius",0,99.22,60.2,18.14285714,79.47,NA
+"1924",67,"Horaichthyidae",4,99.22,60.2,18.14285714,79.47,2
+"1925",67,"Siganus lineatus",1,99.22,60.2,18.14285714,79.47,13.5
+"1926",67,"Acentrogobius sp",0,99.22,60.2,18.14285714,79.47,NA
+"1927",67,"Arothron hispidus",0,99.22,60.2,18.14285714,79.47,NA
+"1928",67,"Siganus vermiculatus",0,99.22,60.2,18.14285714,79.47,NA
+"1929",67,"Bostrychus sinensis",0,99.22,60.2,18.14285714,79.47,NA
+"1930",67,"Toxotes jaculatrix",0,99.22,60.2,18.14285714,79.47,NA
+"1931",67,"Strongylura leiura",0,99.22,60.2,18.14285714,79.47,NA
+"1932",67,"Liza macrolepsis",0,99.22,60.2,18.14285714,79.47,NA
+"1933",67,"Scatophagus argus",0,99.22,60.2,18.14285714,79.47,NA
+"1934",67,"Gerres limbatus",0,99.22,60.2,18.14285714,79.47,NA
+"1935",67,"Orange fish",0,99.22,60.2,18.14285714,79.47,NA
+"1936",67,"Apogonidae 3",70,99.22,60.2,18.14285714,79.47,2
+"1937",67,"Lutjanus argentimaculatus",0,99.22,60.2,18.14285714,79.47,NA
+"1938",67,"Caranx sexfasciatus",0,99.22,60.2,18.14285714,79.47,NA
+"1939",67,"Sphaeramia orbicularis",0,99.22,60.2,18.14285714,79.47,NA
+"1940",67,"Chanos chanos",0,99.22,60.2,18.14285714,79.47,NA
+"1941",67,"Plectorhinchus gibbosus",0,99.22,60.2,18.14285714,79.47,NA
+"1942",67,"Lutjanus fulviflamma",0,99.22,60.2,18.14285714,79.47,NA
+"1943",67,"Tetradontidae",0,99.22,60.2,18.14285714,79.47,NA
+"1944",68,"Butis butis",0,19.04,60,1,91.58,NA
+"1945",68,"Halicampus grayii",0,19.04,60,1,91.58,NA
+"1946",68,"Apogon amboinensis",0,19.04,60,1,91.58,NA
+"1947",68,"Gobidae",0,19.04,60,1,91.58,NA
+"1948",68,"Apogon hyalosoma",0,19.04,60,1,91.58,NA
+"1949",68,"Eleotris fusca",0,19.04,60,1,91.58,NA
+"1950",68,"Zenarchopterus dispar",0,19.04,60,1,91.58,NA
+"1951",68,"Acentrogobius caninus",0,19.04,60,1,91.58,NA
+"1952",68,"Glosogobius",0,19.04,60,1,91.58,NA
+"1953",68,"Horaichthyidae",0,19.04,60,1,91.58,NA
+"1954",68,"Siganus lineatus",0,19.04,60,1,91.58,NA
+"1955",68,"Acentrogobius sp",0,19.04,60,1,91.58,NA
+"1956",68,"Arothron hispidus",0,19.04,60,1,91.58,NA
+"1957",68,"Siganus vermiculatus",0,19.04,60,1,91.58,NA
+"1958",68,"Bostrychus sinensis",0,19.04,60,1,91.58,NA
+"1959",68,"Toxotes jaculatrix",0,19.04,60,1,91.58,NA
+"1960",68,"Strongylura leiura",0,19.04,60,1,91.58,NA
+"1961",68,"Liza macrolepsis",0,19.04,60,1,91.58,NA
+"1962",68,"Scatophagus argus",0,19.04,60,1,91.58,NA
+"1963",68,"Gerres limbatus",0,19.04,60,1,91.58,NA
+"1964",68,"Orange fish",0,19.04,60,1,91.58,NA
+"1965",68,"Apogonidae 3",0,19.04,60,1,91.58,NA
+"1966",68,"Lutjanus argentimaculatus",0,19.04,60,1,91.58,NA
+"1967",68,"Caranx sexfasciatus",1,19.04,60,1,91.58,10.21
+"1968",68,"Sphaeramia orbicularis",1,19.04,60,1,91.58,4.98
+"1969",68,"Chanos chanos",0,19.04,60,1,91.58,NA
+"1970",68,"Plectorhinchus gibbosus",0,19.04,60,1,91.58,NA
+"1971",68,"Lutjanus fulviflamma",0,19.04,60,1,91.58,NA
+"1972",68,"Tetradontidae",0,19.04,60,1,91.58,NA
+"1973",69,"Butis butis",0,78.68,40.2,31.42857143,99.57,NA
+"1974",69,"Halicampus grayii",0,78.68,40.2,31.42857143,99.57,NA
+"1975",69,"Apogon amboinensis",0,78.68,40.2,31.42857143,99.57,NA
+"1976",69,"Gobidae",0,78.68,40.2,31.42857143,99.57,NA
+"1977",69,"Apogon hyalosoma",0,78.68,40.2,31.42857143,99.57,NA
+"1978",69,"Eleotris fusca",0,78.68,40.2,31.42857143,99.57,NA
+"1979",69,"Zenarchopterus dispar",0,78.68,40.2,31.42857143,99.57,NA
+"1980",69,"Acentrogobius caninus",0,78.68,40.2,31.42857143,99.57,NA
+"1981",69,"Glosogobius",0,78.68,40.2,31.42857143,99.57,NA
+"1982",69,"Horaichthyidae",0,78.68,40.2,31.42857143,99.57,NA
+"1983",69,"Siganus lineatus",0,78.68,40.2,31.42857143,99.57,NA
+"1984",69,"Acentrogobius sp",0,78.68,40.2,31.42857143,99.57,NA
+"1985",69,"Arothron hispidus",0,78.68,40.2,31.42857143,99.57,NA
+"1986",69,"Siganus vermiculatus",0,78.68,40.2,31.42857143,99.57,NA
+"1987",69,"Bostrychus sinensis",0,78.68,40.2,31.42857143,99.57,NA
+"1988",69,"Toxotes jaculatrix",0,78.68,40.2,31.42857143,99.57,NA
+"1989",69,"Strongylura leiura",0,78.68,40.2,31.42857143,99.57,NA
+"1990",69,"Liza macrolepsis",0,78.68,40.2,31.42857143,99.57,NA
+"1991",69,"Scatophagus argus",0,78.68,40.2,31.42857143,99.57,NA
+"1992",69,"Gerres limbatus",0,78.68,40.2,31.42857143,99.57,NA
+"1993",69,"Orange fish",0,78.68,40.2,31.42857143,99.57,NA
+"1994",69,"Apogonidae 3",0,78.68,40.2,31.42857143,99.57,NA
+"1995",69,"Lutjanus argentimaculatus",0,78.68,40.2,31.42857143,99.57,NA
+"1996",69,"Caranx sexfasciatus",0,78.68,40.2,31.42857143,99.57,NA
+"1997",69,"Sphaeramia orbicularis",0,78.68,40.2,31.42857143,99.57,NA
+"1998",69,"Chanos chanos",70,78.68,40.2,31.42857143,99.57,4
+"1999",69,"Plectorhinchus gibbosus",0,78.68,40.2,31.42857143,99.57,NA
+"2000",69,"Lutjanus fulviflamma",0,78.68,40.2,31.42857143,99.57,NA
+"2001",69,"Tetradontidae",0,78.68,40.2,31.42857143,99.57,NA
+"2002",70,"Butis butis",0,20.52,80.4,2.428571429,57.3,NA
+"2003",70,"Halicampus grayii",0,20.52,80.4,2.428571429,57.3,NA
+"2004",70,"Apogon amboinensis",0,20.52,80.4,2.428571429,57.3,NA
+"2005",70,"Gobidae",0,20.52,80.4,2.428571429,57.3,NA
+"2006",70,"Apogon hyalosoma",0,20.52,80.4,2.428571429,57.3,NA
+"2007",70,"Eleotris fusca",0,20.52,80.4,2.428571429,57.3,NA
+"2008",70,"Zenarchopterus dispar",0,20.52,80.4,2.428571429,57.3,NA
+"2009",70,"Acentrogobius caninus",0,20.52,80.4,2.428571429,57.3,NA
+"2010",70,"Glosogobius",0,20.52,80.4,2.428571429,57.3,NA
+"2011",70,"Horaichthyidae",22,20.52,80.4,2.428571429,57.3,2
+"2012",70,"Siganus lineatus",0,20.52,80.4,2.428571429,57.3,NA
+"2013",70,"Acentrogobius sp",0,20.52,80.4,2.428571429,57.3,NA
+"2014",70,"Arothron hispidus",0,20.52,80.4,2.428571429,57.3,NA
+"2015",70,"Siganus vermiculatus",0,20.52,80.4,2.428571429,57.3,NA
+"2016",70,"Bostrychus sinensis",0,20.52,80.4,2.428571429,57.3,NA
+"2017",70,"Toxotes jaculatrix",0,20.52,80.4,2.428571429,57.3,NA
+"2018",70,"Strongylura leiura",0,20.52,80.4,2.428571429,57.3,NA
+"2019",70,"Liza macrolepsis",0,20.52,80.4,2.428571429,57.3,NA
+"2020",70,"Scatophagus argus",0,20.52,80.4,2.428571429,57.3,NA
+"2021",70,"Gerres limbatus",0,20.52,80.4,2.428571429,57.3,NA
+"2022",70,"Orange fish",0,20.52,80.4,2.428571429,57.3,NA
+"2023",70,"Apogonidae 3",61,20.52,80.4,2.428571429,57.3,2.369
+"2024",70,"Lutjanus argentimaculatus",0,20.52,80.4,2.428571429,57.3,NA
+"2025",70,"Caranx sexfasciatus",0,20.52,80.4,2.428571429,57.3,NA
+"2026",70,"Sphaeramia orbicularis",0,20.52,80.4,2.428571429,57.3,NA
+"2027",70,"Chanos chanos",0,20.52,80.4,2.428571429,57.3,NA
+"2028",70,"Plectorhinchus gibbosus",0,20.52,80.4,2.428571429,57.3,NA
+"2029",70,"Lutjanus fulviflamma",0,20.52,80.4,2.428571429,57.3,NA
+"2030",70,"Tetradontidae",0,20.52,80.4,2.428571429,57.3,NA
+"2031",71,"Butis butis",0,0,70.6,0,15.47,NA
+"2032",71,"Halicampus grayii",0,0,70.6,0,15.47,NA
+"2033",71,"Apogon amboinensis",0,0,70.6,0,15.47,NA
+"2034",71,"Gobidae",0,0,70.6,0,15.47,NA
+"2035",71,"Apogon hyalosoma",0,0,70.6,0,15.47,NA
+"2036",71,"Eleotris fusca",0,0,70.6,0,15.47,NA
+"2037",71,"Zenarchopterus dispar",0,0,70.6,0,15.47,NA
+"2038",71,"Acentrogobius caninus",0,0,70.6,0,15.47,NA
+"2039",71,"Glosogobius",0,0,70.6,0,15.47,NA
+"2040",71,"Horaichthyidae",15,0,70.6,0,15.47,2
+"2041",71,"Siganus lineatus",0,0,70.6,0,15.47,NA
+"2042",71,"Acentrogobius sp",0,0,70.6,0,15.47,NA
+"2043",71,"Arothron hispidus",0,0,70.6,0,15.47,NA
+"2044",71,"Siganus vermiculatus",0,0,70.6,0,15.47,NA
+"2045",71,"Bostrychus sinensis",0,0,70.6,0,15.47,NA
+"2046",71,"Toxotes jaculatrix",0,0,70.6,0,15.47,NA
+"2047",71,"Strongylura leiura",0,0,70.6,0,15.47,NA
+"2048",71,"Liza macrolepsis",0,0,70.6,0,15.47,NA
+"2049",71,"Scatophagus argus",0,0,70.6,0,15.47,NA
+"2050",71,"Gerres limbatus",0,0,70.6,0,15.47,NA
+"2051",71,"Orange fish",0,0,70.6,0,15.47,NA
+"2052",71,"Apogonidae 3",0,0,70.6,0,15.47,NA
+"2053",71,"Lutjanus argentimaculatus",0,0,70.6,0,15.47,NA
+"2054",71,"Caranx sexfasciatus",0,0,70.6,0,15.47,NA
+"2055",71,"Sphaeramia orbicularis",0,0,70.6,0,15.47,NA
+"2056",71,"Chanos chanos",0,0,70.6,0,15.47,NA
+"2057",71,"Plectorhinchus gibbosus",0,0,70.6,0,15.47,NA
+"2058",71,"Lutjanus fulviflamma",0,0,70.6,0,15.47,NA
+"2059",71,"Tetradontidae",0,0,70.6,0,15.47,NA
+"2060",72,"Butis butis",0,0,80.5,0,18.98,NA
+"2061",72,"Halicampus grayii",0,0,80.5,0,18.98,NA
+"2062",72,"Apogon amboinensis",0,0,80.5,0,18.98,NA
+"2063",72,"Gobidae",0,0,80.5,0,18.98,NA
+"2064",72,"Apogon hyalosoma",0,0,80.5,0,18.98,NA
+"2065",72,"Eleotris fusca",0,0,80.5,0,18.98,NA
+"2066",72,"Zenarchopterus dispar",0,0,80.5,0,18.98,NA
+"2067",72,"Acentrogobius caninus",0,0,80.5,0,18.98,NA
+"2068",72,"Glosogobius",0,0,80.5,0,18.98,NA
+"2069",72,"Horaichthyidae",0,0,80.5,0,18.98,NA
+"2070",72,"Siganus lineatus",0,0,80.5,0,18.98,NA
+"2071",72,"Acentrogobius sp",0,0,80.5,0,18.98,NA
+"2072",72,"Arothron hispidus",0,0,80.5,0,18.98,NA
+"2073",72,"Siganus vermiculatus",0,0,80.5,0,18.98,NA
+"2074",72,"Bostrychus sinensis",0,0,80.5,0,18.98,NA
+"2075",72,"Toxotes jaculatrix",0,0,80.5,0,18.98,NA
+"2076",72,"Strongylura leiura",0,0,80.5,0,18.98,NA
+"2077",72,"Liza macrolepsis",0,0,80.5,0,18.98,NA
+"2078",72,"Scatophagus argus",0,0,80.5,0,18.98,NA
+"2079",72,"Gerres limbatus",0,0,80.5,0,18.98,NA
+"2080",72,"Orange fish",0,0,80.5,0,18.98,NA
+"2081",72,"Apogonidae 3",0,0,80.5,0,18.98,NA
+"2082",72,"Lutjanus argentimaculatus",0,0,80.5,0,18.98,NA
+"2083",72,"Caranx sexfasciatus",0,0,80.5,0,18.98,NA
+"2084",72,"Sphaeramia orbicularis",0,0,80.5,0,18.98,NA
+"2085",72,"Chanos chanos",0,0,80.5,0,18.98,NA
+"2086",72,"Plectorhinchus gibbosus",0,0,80.5,0,18.98,NA
+"2087",72,"Lutjanus fulviflamma",0,0,80.5,0,18.98,NA
+"2088",72,"Tetradontidae",0,0,80.5,0,18.98,NA
+"2089",73,"Butis butis",0,0,70.8,0,4.02,NA
+"2090",73,"Halicampus grayii",0,0,70.8,0,4.02,NA
+"2091",73,"Apogon amboinensis",0,0,70.8,0,4.02,NA
+"2092",73,"Gobidae",0,0,70.8,0,4.02,NA
+"2093",73,"Apogon hyalosoma",0,0,70.8,0,4.02,NA
+"2094",73,"Eleotris fusca",0,0,70.8,0,4.02,NA
+"2095",73,"Zenarchopterus dispar",0,0,70.8,0,4.02,NA
+"2096",73,"Acentrogobius caninus",0,0,70.8,0,4.02,NA
+"2097",73,"Glosogobius",0,0,70.8,0,4.02,NA
+"2098",73,"Horaichthyidae",0,0,70.8,0,4.02,NA
+"2099",73,"Siganus lineatus",0,0,70.8,0,4.02,NA
+"2100",73,"Acentrogobius sp",0,0,70.8,0,4.02,NA
+"2101",73,"Arothron hispidus",0,0,70.8,0,4.02,NA
+"2102",73,"Siganus vermiculatus",0,0,70.8,0,4.02,NA
+"2103",73,"Bostrychus sinensis",0,0,70.8,0,4.02,NA
+"2104",73,"Toxotes jaculatrix",0,0,70.8,0,4.02,NA
+"2105",73,"Strongylura leiura",0,0,70.8,0,4.02,NA
+"2106",73,"Liza macrolepsis",0,0,70.8,0,4.02,NA
+"2107",73,"Scatophagus argus",0,0,70.8,0,4.02,NA
+"2108",73,"Gerres limbatus",0,0,70.8,0,4.02,NA
+"2109",73,"Orange fish",0,0,70.8,0,4.02,NA
+"2110",73,"Apogonidae 3",0,0,70.8,0,4.02,NA
+"2111",73,"Lutjanus argentimaculatus",0,0,70.8,0,4.02,NA
+"2112",73,"Caranx sexfasciatus",0,0,70.8,0,4.02,NA
+"2113",73,"Sphaeramia orbicularis",0,0,70.8,0,4.02,NA
+"2114",73,"Chanos chanos",0,0,70.8,0,4.02,NA
+"2115",73,"Plectorhinchus gibbosus",0,0,70.8,0,4.02,NA
+"2116",73,"Lutjanus fulviflamma",0,0,70.8,0,4.02,NA
+"2117",73,"Tetradontidae",0,0,70.8,0,4.02,NA
+"2118",74,"Butis butis",0,60,70,26.57142857,18.29,NA
+"2119",74,"Halicampus grayii",0,60,70,26.57142857,18.29,NA
+"2120",74,"Apogon amboinensis",0,60,70,26.57142857,18.29,NA
+"2121",74,"Gobidae",0,60,70,26.57142857,18.29,NA
+"2122",74,"Apogon hyalosoma",0,60,70,26.57142857,18.29,NA
+"2123",74,"Eleotris fusca",0,60,70,26.57142857,18.29,NA
+"2124",74,"Zenarchopterus dispar",0,60,70,26.57142857,18.29,NA
+"2125",74,"Acentrogobius caninus",0,60,70,26.57142857,18.29,NA
+"2126",74,"Glosogobius",0,60,70,26.57142857,18.29,NA
+"2127",74,"Horaichthyidae",0,60,70,26.57142857,18.29,NA
+"2128",74,"Siganus lineatus",0,60,70,26.57142857,18.29,NA
+"2129",74,"Acentrogobius sp",0,60,70,26.57142857,18.29,NA
+"2130",74,"Arothron hispidus",0,60,70,26.57142857,18.29,NA
+"2131",74,"Siganus vermiculatus",0,60,70,26.57142857,18.29,NA
+"2132",74,"Bostrychus sinensis",0,60,70,26.57142857,18.29,NA
+"2133",74,"Toxotes jaculatrix",0,60,70,26.57142857,18.29,NA
+"2134",74,"Strongylura leiura",0,60,70,26.57142857,18.29,NA
+"2135",74,"Liza macrolepsis",0,60,70,26.57142857,18.29,NA
+"2136",74,"Scatophagus argus",0,60,70,26.57142857,18.29,NA
+"2137",74,"Gerres limbatus",0,60,70,26.57142857,18.29,NA
+"2138",74,"Orange fish",0,60,70,26.57142857,18.29,NA
+"2139",74,"Apogonidae 3",0,60,70,26.57142857,18.29,NA
+"2140",74,"Lutjanus argentimaculatus",0,60,70,26.57142857,18.29,NA
+"2141",74,"Caranx sexfasciatus",0,60,70,26.57142857,18.29,NA
+"2142",74,"Sphaeramia orbicularis",0,60,70,26.57142857,18.29,NA
+"2143",74,"Chanos chanos",0,60,70,26.57142857,18.29,NA
+"2144",74,"Plectorhinchus gibbosus",1,60,70,26.57142857,18.29,20.98
+"2145",74,"Lutjanus fulviflamma",1,60,70,26.57142857,18.29,13.36
+"2146",74,"Tetradontidae",0,60,70,26.57142857,18.29,NA
+"2147",75,"Butis butis",0,0,80.7,0,2.83,NA
+"2148",75,"Halicampus grayii",0,0,80.7,0,2.83,NA
+"2149",75,"Apogon amboinensis",0,0,80.7,0,2.83,NA
+"2150",75,"Gobidae",0,0,80.7,0,2.83,NA
+"2151",75,"Apogon hyalosoma",0,0,80.7,0,2.83,NA
+"2152",75,"Eleotris fusca",0,0,80.7,0,2.83,NA
+"2153",75,"Zenarchopterus dispar",0,0,80.7,0,2.83,NA
+"2154",75,"Acentrogobius caninus",0,0,80.7,0,2.83,NA
+"2155",75,"Glosogobius",0,0,80.7,0,2.83,NA
+"2156",75,"Horaichthyidae",7,0,80.7,0,2.83,2
+"2157",75,"Siganus lineatus",0,0,80.7,0,2.83,NA
+"2158",75,"Acentrogobius sp",0,0,80.7,0,2.83,NA
+"2159",75,"Arothron hispidus",0,0,80.7,0,2.83,NA
+"2160",75,"Siganus vermiculatus",0,0,80.7,0,2.83,NA
+"2161",75,"Bostrychus sinensis",0,0,80.7,0,2.83,NA
+"2162",75,"Toxotes jaculatrix",0,0,80.7,0,2.83,NA
+"2163",75,"Strongylura leiura",0,0,80.7,0,2.83,NA
+"2164",75,"Liza macrolepsis",0,0,80.7,0,2.83,NA
+"2165",75,"Scatophagus argus",0,0,80.7,0,2.83,NA
+"2166",75,"Gerres limbatus",0,0,80.7,0,2.83,NA
+"2167",75,"Orange fish",0,0,80.7,0,2.83,NA
+"2168",75,"Apogonidae 3",0,0,80.7,0,2.83,NA
+"2169",75,"Lutjanus argentimaculatus",0,0,80.7,0,2.83,NA
+"2170",75,"Caranx sexfasciatus",0,0,80.7,0,2.83,NA
+"2171",75,"Sphaeramia orbicularis",0,0,80.7,0,2.83,NA
+"2172",75,"Chanos chanos",0,0,80.7,0,2.83,NA
+"2173",75,"Plectorhinchus gibbosus",0,0,80.7,0,2.83,NA
+"2174",75,"Lutjanus fulviflamma",0,0,80.7,0,2.83,NA
+"2175",75,"Tetradontidae",0,0,80.7,0,2.83,NA
+"2176",76,"Butis butis",0,89.34,80.7,55.42857143,5.23,NA
+"2177",76,"Halicampus grayii",0,89.34,80.7,55.42857143,5.23,NA
+"2178",76,"Apogon amboinensis",0,89.34,80.7,55.42857143,5.23,NA
+"2179",76,"Gobidae",0,89.34,80.7,55.42857143,5.23,NA
+"2180",76,"Apogon hyalosoma",0,89.34,80.7,55.42857143,5.23,NA
+"2181",76,"Eleotris fusca",0,89.34,80.7,55.42857143,5.23,NA
+"2182",76,"Zenarchopterus dispar",0,89.34,80.7,55.42857143,5.23,NA
+"2183",76,"Acentrogobius caninus",0,89.34,80.7,55.42857143,5.23,NA
+"2184",76,"Glosogobius",0,89.34,80.7,55.42857143,5.23,NA
+"2185",76,"Horaichthyidae",0,89.34,80.7,55.42857143,5.23,NA
+"2186",76,"Siganus lineatus",0,89.34,80.7,55.42857143,5.23,NA
+"2187",76,"Acentrogobius sp",0,89.34,80.7,55.42857143,5.23,NA
+"2188",76,"Arothron hispidus",0,89.34,80.7,55.42857143,5.23,NA
+"2189",76,"Siganus vermiculatus",0,89.34,80.7,55.42857143,5.23,NA
+"2190",76,"Bostrychus sinensis",0,89.34,80.7,55.42857143,5.23,NA
+"2191",76,"Toxotes jaculatrix",0,89.34,80.7,55.42857143,5.23,NA
+"2192",76,"Strongylura leiura",0,89.34,80.7,55.42857143,5.23,NA
+"2193",76,"Liza macrolepsis",0,89.34,80.7,55.42857143,5.23,NA
+"2194",76,"Scatophagus argus",0,89.34,80.7,55.42857143,5.23,NA
+"2195",76,"Gerres limbatus",0,89.34,80.7,55.42857143,5.23,NA
+"2196",76,"Orange fish",0,89.34,80.7,55.42857143,5.23,NA
+"2197",76,"Apogonidae 3",0,89.34,80.7,55.42857143,5.23,NA
+"2198",76,"Lutjanus argentimaculatus",0,89.34,80.7,55.42857143,5.23,NA
+"2199",76,"Caranx sexfasciatus",0,89.34,80.7,55.42857143,5.23,NA
+"2200",76,"Sphaeramia orbicularis",0,89.34,80.7,55.42857143,5.23,NA
+"2201",76,"Chanos chanos",0,89.34,80.7,55.42857143,5.23,NA
+"2202",76,"Plectorhinchus gibbosus",0,89.34,80.7,55.42857143,5.23,NA
+"2203",76,"Lutjanus fulviflamma",0,89.34,80.7,55.42857143,5.23,NA
+"2204",76,"Tetradontidae",0,89.34,80.7,55.42857143,5.23,NA
+"2205",77,"Butis butis",0,67.02,60.4,39.42857143,24.33,NA
+"2206",77,"Halicampus grayii",0,67.02,60.4,39.42857143,24.33,NA
+"2207",77,"Apogon amboinensis",0,67.02,60.4,39.42857143,24.33,NA
+"2208",77,"Gobidae",0,67.02,60.4,39.42857143,24.33,NA
+"2209",77,"Apogon hyalosoma",0,67.02,60.4,39.42857143,24.33,NA
+"2210",77,"Eleotris fusca",0,67.02,60.4,39.42857143,24.33,NA
+"2211",77,"Zenarchopterus dispar",0,67.02,60.4,39.42857143,24.33,NA
+"2212",77,"Acentrogobius caninus",0,67.02,60.4,39.42857143,24.33,NA
+"2213",77,"Glosogobius",0,67.02,60.4,39.42857143,24.33,NA
+"2214",77,"Horaichthyidae",40,67.02,60.4,39.42857143,24.33,2
+"2215",77,"Siganus lineatus",0,67.02,60.4,39.42857143,24.33,NA
+"2216",77,"Acentrogobius sp",0,67.02,60.4,39.42857143,24.33,NA
+"2217",77,"Arothron hispidus",0,67.02,60.4,39.42857143,24.33,NA
+"2218",77,"Siganus vermiculatus",0,67.02,60.4,39.42857143,24.33,NA
+"2219",77,"Bostrychus sinensis",0,67.02,60.4,39.42857143,24.33,NA
+"2220",77,"Toxotes jaculatrix",0,67.02,60.4,39.42857143,24.33,NA
+"2221",77,"Strongylura leiura",0,67.02,60.4,39.42857143,24.33,NA
+"2222",77,"Liza macrolepsis",0,67.02,60.4,39.42857143,24.33,NA
+"2223",77,"Scatophagus argus",0,67.02,60.4,39.42857143,24.33,NA
+"2224",77,"Gerres limbatus",0,67.02,60.4,39.42857143,24.33,NA
+"2225",77,"Orange fish",0,67.02,60.4,39.42857143,24.33,NA
+"2226",77,"Apogonidae 3",0,67.02,60.4,39.42857143,24.33,NA
+"2227",77,"Lutjanus argentimaculatus",0,67.02,60.4,39.42857143,24.33,NA
+"2228",77,"Caranx sexfasciatus",0,67.02,60.4,39.42857143,24.33,NA
+"2229",77,"Sphaeramia orbicularis",0,67.02,60.4,39.42857143,24.33,NA
+"2230",77,"Chanos chanos",0,67.02,60.4,39.42857143,24.33,NA
+"2231",77,"Plectorhinchus gibbosus",0,67.02,60.4,39.42857143,24.33,NA
+"2232",77,"Lutjanus fulviflamma",0,67.02,60.4,39.42857143,24.33,NA
+"2233",77,"Tetradontidae",0,67.02,60.4,39.42857143,24.33,NA
+"2234",78,"Butis butis",0,65.14,70.8,57.28571429,5.03,NA
+"2235",78,"Halicampus grayii",0,65.14,70.8,57.28571429,5.03,NA
+"2236",78,"Apogon amboinensis",0,65.14,70.8,57.28571429,5.03,NA
+"2237",78,"Gobidae",0,65.14,70.8,57.28571429,5.03,NA
+"2238",78,"Apogon hyalosoma",0,65.14,70.8,57.28571429,5.03,NA
+"2239",78,"Eleotris fusca",0,65.14,70.8,57.28571429,5.03,NA
+"2240",78,"Zenarchopterus dispar",0,65.14,70.8,57.28571429,5.03,NA
+"2241",78,"Acentrogobius caninus",0,65.14,70.8,57.28571429,5.03,NA
+"2242",78,"Glosogobius",0,65.14,70.8,57.28571429,5.03,NA
+"2243",78,"Horaichthyidae",0,65.14,70.8,57.28571429,5.03,NA
+"2244",78,"Siganus lineatus",0,65.14,70.8,57.28571429,5.03,NA
+"2245",78,"Acentrogobius sp",0,65.14,70.8,57.28571429,5.03,NA
+"2246",78,"Arothron hispidus",0,65.14,70.8,57.28571429,5.03,NA
+"2247",78,"Siganus vermiculatus",0,65.14,70.8,57.28571429,5.03,NA
+"2248",78,"Bostrychus sinensis",0,65.14,70.8,57.28571429,5.03,NA
+"2249",78,"Toxotes jaculatrix",0,65.14,70.8,57.28571429,5.03,NA
+"2250",78,"Strongylura leiura",0,65.14,70.8,57.28571429,5.03,NA
+"2251",78,"Liza macrolepsis",0,65.14,70.8,57.28571429,5.03,NA
+"2252",78,"Scatophagus argus",0,65.14,70.8,57.28571429,5.03,NA
+"2253",78,"Gerres limbatus",0,65.14,70.8,57.28571429,5.03,NA
+"2254",78,"Orange fish",0,65.14,70.8,57.28571429,5.03,NA
+"2255",78,"Apogonidae 3",0,65.14,70.8,57.28571429,5.03,NA
+"2256",78,"Lutjanus argentimaculatus",0,65.14,70.8,57.28571429,5.03,NA
+"2257",78,"Caranx sexfasciatus",0,65.14,70.8,57.28571429,5.03,NA
+"2258",78,"Sphaeramia orbicularis",0,65.14,70.8,57.28571429,5.03,NA
+"2259",78,"Chanos chanos",0,65.14,70.8,57.28571429,5.03,NA
+"2260",78,"Plectorhinchus gibbosus",0,65.14,70.8,57.28571429,5.03,NA
+"2261",78,"Lutjanus fulviflamma",0,65.14,70.8,57.28571429,5.03,NA
+"2262",78,"Tetradontidae",0,65.14,70.8,57.28571429,5.03,NA
+"2263",79,"Butis butis",0,54.21,50.4,45.42857143,32.98,NA
+"2264",79,"Halicampus grayii",0,54.21,50.4,45.42857143,32.98,NA
+"2265",79,"Apogon amboinensis",0,54.21,50.4,45.42857143,32.98,NA
+"2266",79,"Gobidae",0,54.21,50.4,45.42857143,32.98,NA
+"2267",79,"Apogon hyalosoma",1,54.21,50.4,45.42857143,32.98,10.2
+"2268",79,"Eleotris fusca",0,54.21,50.4,45.42857143,32.98,NA
+"2269",79,"Zenarchopterus dispar",0,54.21,50.4,45.42857143,32.98,NA
+"2270",79,"Acentrogobius caninus",0,54.21,50.4,45.42857143,32.98,NA
+"2271",79,"Glosogobius",0,54.21,50.4,45.42857143,32.98,NA
+"2272",79,"Horaichthyidae",0,54.21,50.4,45.42857143,32.98,NA
+"2273",79,"Siganus lineatus",0,54.21,50.4,45.42857143,32.98,NA
+"2274",79,"Acentrogobius sp",0,54.21,50.4,45.42857143,32.98,NA
+"2275",79,"Arothron hispidus",0,54.21,50.4,45.42857143,32.98,NA
+"2276",79,"Siganus vermiculatus",0,54.21,50.4,45.42857143,32.98,NA
+"2277",79,"Bostrychus sinensis",0,54.21,50.4,45.42857143,32.98,NA
+"2278",79,"Toxotes jaculatrix",0,54.21,50.4,45.42857143,32.98,NA
+"2279",79,"Strongylura leiura",0,54.21,50.4,45.42857143,32.98,NA
+"2280",79,"Liza macrolepsis",0,54.21,50.4,45.42857143,32.98,NA
+"2281",79,"Scatophagus argus",0,54.21,50.4,45.42857143,32.98,NA
+"2282",79,"Gerres limbatus",0,54.21,50.4,45.42857143,32.98,NA
+"2283",79,"Orange fish",0,54.21,50.4,45.42857143,32.98,NA
+"2284",79,"Apogonidae 3",0,54.21,50.4,45.42857143,32.98,NA
+"2285",79,"Lutjanus argentimaculatus",0,54.21,50.4,45.42857143,32.98,NA
+"2286",79,"Caranx sexfasciatus",0,54.21,50.4,45.42857143,32.98,NA
+"2287",79,"Sphaeramia orbicularis",0,54.21,50.4,45.42857143,32.98,NA
+"2288",79,"Chanos chanos",0,54.21,50.4,45.42857143,32.98,NA
+"2289",79,"Plectorhinchus gibbosus",0,54.21,50.4,45.42857143,32.98,NA
+"2290",79,"Lutjanus fulviflamma",0,54.21,50.4,45.42857143,32.98,NA
+"2291",79,"Tetradontidae",0,54.21,50.4,45.42857143,32.98,NA
+"2292",80,"Butis butis",0,98.04,70.4,53.42857143,4.92,NA
+"2293",80,"Halicampus grayii",0,98.04,70.4,53.42857143,4.92,NA
+"2294",80,"Apogon amboinensis",0,98.04,70.4,53.42857143,4.92,NA
+"2295",80,"Gobidae",0,98.04,70.4,53.42857143,4.92,NA
+"2296",80,"Apogon hyalosoma",0,98.04,70.4,53.42857143,4.92,NA
+"2297",80,"Eleotris fusca",0,98.04,70.4,53.42857143,4.92,NA
+"2298",80,"Zenarchopterus dispar",0,98.04,70.4,53.42857143,4.92,NA
+"2299",80,"Acentrogobius caninus",0,98.04,70.4,53.42857143,4.92,NA
+"2300",80,"Glosogobius",0,98.04,70.4,53.42857143,4.92,NA
+"2301",80,"Horaichthyidae",0,98.04,70.4,53.42857143,4.92,NA
+"2302",80,"Siganus lineatus",0,98.04,70.4,53.42857143,4.92,NA
+"2303",80,"Acentrogobius sp",0,98.04,70.4,53.42857143,4.92,NA
+"2304",80,"Arothron hispidus",0,98.04,70.4,53.42857143,4.92,NA
+"2305",80,"Siganus vermiculatus",0,98.04,70.4,53.42857143,4.92,NA
+"2306",80,"Bostrychus sinensis",0,98.04,70.4,53.42857143,4.92,NA
+"2307",80,"Toxotes jaculatrix",0,98.04,70.4,53.42857143,4.92,NA
+"2308",80,"Strongylura leiura",0,98.04,70.4,53.42857143,4.92,NA
+"2309",80,"Liza macrolepsis",0,98.04,70.4,53.42857143,4.92,NA
+"2310",80,"Scatophagus argus",0,98.04,70.4,53.42857143,4.92,NA
+"2311",80,"Gerres limbatus",0,98.04,70.4,53.42857143,4.92,NA
+"2312",80,"Orange fish",0,98.04,70.4,53.42857143,4.92,NA
+"2313",80,"Apogonidae 3",0,98.04,70.4,53.42857143,4.92,NA
+"2314",80,"Lutjanus argentimaculatus",0,98.04,70.4,53.42857143,4.92,NA
+"2315",80,"Caranx sexfasciatus",0,98.04,70.4,53.42857143,4.92,NA
+"2316",80,"Sphaeramia orbicularis",0,98.04,70.4,53.42857143,4.92,NA
+"2317",80,"Chanos chanos",0,98.04,70.4,53.42857143,4.92,NA
+"2318",80,"Plectorhinchus gibbosus",0,98.04,70.4,53.42857143,4.92,NA
+"2319",80,"Lutjanus fulviflamma",0,98.04,70.4,53.42857143,4.92,NA
+"2320",80,"Tetradontidae",0,98.04,70.4,53.42857143,4.92,NA
+"2321",81,"Butis butis",0,89.17,90.2,26,57.89,NA
+"2322",81,"Halicampus grayii",0,89.17,90.2,26,57.89,NA
+"2323",81,"Apogon amboinensis",0,89.17,90.2,26,57.89,NA
+"2324",81,"Gobidae",0,89.17,90.2,26,57.89,NA
+"2325",81,"Apogon hyalosoma",0,89.17,90.2,26,57.89,NA
+"2326",81,"Eleotris fusca",0,89.17,90.2,26,57.89,NA
+"2327",81,"Zenarchopterus dispar",0,89.17,90.2,26,57.89,NA
+"2328",81,"Acentrogobius caninus",0,89.17,90.2,26,57.89,NA
+"2329",81,"Glosogobius",0,89.17,90.2,26,57.89,NA
+"2330",81,"Horaichthyidae",0,89.17,90.2,26,57.89,NA
+"2331",81,"Siganus lineatus",0,89.17,90.2,26,57.89,NA
+"2332",81,"Acentrogobius sp",0,89.17,90.2,26,57.89,NA
+"2333",81,"Arothron hispidus",0,89.17,90.2,26,57.89,NA
+"2334",81,"Siganus vermiculatus",0,89.17,90.2,26,57.89,NA
+"2335",81,"Bostrychus sinensis",0,89.17,90.2,26,57.89,NA
+"2336",81,"Toxotes jaculatrix",0,89.17,90.2,26,57.89,NA
+"2337",81,"Strongylura leiura",0,89.17,90.2,26,57.89,NA
+"2338",81,"Liza macrolepsis",0,89.17,90.2,26,57.89,NA
+"2339",81,"Scatophagus argus",0,89.17,90.2,26,57.89,NA
+"2340",81,"Gerres limbatus",0,89.17,90.2,26,57.89,NA
+"2341",81,"Orange fish",0,89.17,90.2,26,57.89,NA
+"2342",81,"Apogonidae 3",50,89.17,90.2,26,57.89,1.86
+"2343",81,"Lutjanus argentimaculatus",0,89.17,90.2,26,57.89,NA
+"2344",81,"Caranx sexfasciatus",0,89.17,90.2,26,57.89,NA
+"2345",81,"Sphaeramia orbicularis",0,89.17,90.2,26,57.89,NA
+"2346",81,"Chanos chanos",0,89.17,90.2,26,57.89,NA
+"2347",81,"Plectorhinchus gibbosus",0,89.17,90.2,26,57.89,NA
+"2348",81,"Lutjanus fulviflamma",0,89.17,90.2,26,57.89,NA
+"2349",81,"Tetradontidae",0,89.17,90.2,26,57.89,NA
+"2350",82,"Butis butis",0,67.3,70,25.42857143,64.75,NA
+"2351",82,"Halicampus grayii",0,67.3,70,25.42857143,64.75,NA
+"2352",82,"Apogon amboinensis",0,67.3,70,25.42857143,64.75,NA
+"2353",82,"Gobidae",0,67.3,70,25.42857143,64.75,NA
+"2354",82,"Apogon hyalosoma",0,67.3,70,25.42857143,64.75,NA
+"2355",82,"Eleotris fusca",0,67.3,70,25.42857143,64.75,NA
+"2356",82,"Zenarchopterus dispar",0,67.3,70,25.42857143,64.75,NA
+"2357",82,"Acentrogobius caninus",0,67.3,70,25.42857143,64.75,NA
+"2358",82,"Glosogobius",0,67.3,70,25.42857143,64.75,NA
+"2359",82,"Horaichthyidae",30,67.3,70,25.42857143,64.75,2
+"2360",82,"Siganus lineatus",0,67.3,70,25.42857143,64.75,NA
+"2361",82,"Acentrogobius sp",0,67.3,70,25.42857143,64.75,NA
+"2362",82,"Arothron hispidus",0,67.3,70,25.42857143,64.75,NA
+"2363",82,"Siganus vermiculatus",0,67.3,70,25.42857143,64.75,NA
+"2364",82,"Bostrychus sinensis",0,67.3,70,25.42857143,64.75,NA
+"2365",82,"Toxotes jaculatrix",0,67.3,70,25.42857143,64.75,NA
+"2366",82,"Strongylura leiura",0,67.3,70,25.42857143,64.75,NA
+"2367",82,"Liza macrolepsis",0,67.3,70,25.42857143,64.75,NA
+"2368",82,"Scatophagus argus",0,67.3,70,25.42857143,64.75,NA
+"2369",82,"Gerres limbatus",0,67.3,70,25.42857143,64.75,NA
+"2370",82,"Orange fish",0,67.3,70,25.42857143,64.75,NA
+"2371",82,"Apogonidae 3",0,67.3,70,25.42857143,64.75,NA
+"2372",82,"Lutjanus argentimaculatus",0,67.3,70,25.42857143,64.75,NA
+"2373",82,"Caranx sexfasciatus",0,67.3,70,25.42857143,64.75,NA
+"2374",82,"Sphaeramia orbicularis",0,67.3,70,25.42857143,64.75,NA
+"2375",82,"Chanos chanos",0,67.3,70,25.42857143,64.75,NA
+"2376",82,"Plectorhinchus gibbosus",0,67.3,70,25.42857143,64.75,NA
+"2377",82,"Lutjanus fulviflamma",0,67.3,70,25.42857143,64.75,NA
+"2378",82,"Tetradontidae",0,67.3,70,25.42857143,64.75,NA
+"2379",83,"Butis butis",1,45.81,60.8,43.42857143,72.97,12.4
+"2380",83,"Halicampus grayii",0,45.81,60.8,43.42857143,72.97,NA
+"2381",83,"Apogon amboinensis",0,45.81,60.8,43.42857143,72.97,NA
+"2382",83,"Gobidae",0,45.81,60.8,43.42857143,72.97,NA
+"2383",83,"Apogon hyalosoma",0,45.81,60.8,43.42857143,72.97,NA
+"2384",83,"Eleotris fusca",0,45.81,60.8,43.42857143,72.97,NA
+"2385",83,"Zenarchopterus dispar",0,45.81,60.8,43.42857143,72.97,NA
+"2386",83,"Acentrogobius caninus",0,45.81,60.8,43.42857143,72.97,NA
+"2387",83,"Glosogobius",0,45.81,60.8,43.42857143,72.97,NA
+"2388",83,"Horaichthyidae",7,45.81,60.8,43.42857143,72.97,2
+"2389",83,"Siganus lineatus",0,45.81,60.8,43.42857143,72.97,NA
+"2390",83,"Acentrogobius sp",0,45.81,60.8,43.42857143,72.97,NA
+"2391",83,"Arothron hispidus",0,45.81,60.8,43.42857143,72.97,NA
+"2392",83,"Siganus vermiculatus",0,45.81,60.8,43.42857143,72.97,NA
+"2393",83,"Bostrychus sinensis",0,45.81,60.8,43.42857143,72.97,NA
+"2394",83,"Toxotes jaculatrix",0,45.81,60.8,43.42857143,72.97,NA
+"2395",83,"Strongylura leiura",0,45.81,60.8,43.42857143,72.97,NA
+"2396",83,"Liza macrolepsis",0,45.81,60.8,43.42857143,72.97,NA
+"2397",83,"Scatophagus argus",0,45.81,60.8,43.42857143,72.97,NA
+"2398",83,"Gerres limbatus",0,45.81,60.8,43.42857143,72.97,NA
+"2399",83,"Orange fish",0,45.81,60.8,43.42857143,72.97,NA
+"2400",83,"Apogonidae 3",0,45.81,60.8,43.42857143,72.97,NA
+"2401",83,"Lutjanus argentimaculatus",0,45.81,60.8,43.42857143,72.97,NA
+"2402",83,"Caranx sexfasciatus",0,45.81,60.8,43.42857143,72.97,NA
+"2403",83,"Sphaeramia orbicularis",0,45.81,60.8,43.42857143,72.97,NA
+"2404",83,"Chanos chanos",0,45.81,60.8,43.42857143,72.97,NA
+"2405",83,"Plectorhinchus gibbosus",0,45.81,60.8,43.42857143,72.97,NA
+"2406",83,"Lutjanus fulviflamma",0,45.81,60.8,43.42857143,72.97,NA
+"2407",83,"Tetradontidae",0,45.81,60.8,43.42857143,72.97,NA
+"2408",84,"Butis butis",0,12.12,60.4,12.85714286,42.06,NA
+"2409",84,"Halicampus grayii",0,12.12,60.4,12.85714286,42.06,NA
+"2410",84,"Apogon amboinensis",0,12.12,60.4,12.85714286,42.06,NA
+"2411",84,"Gobidae",0,12.12,60.4,12.85714286,42.06,NA
+"2412",84,"Apogon hyalosoma",0,12.12,60.4,12.85714286,42.06,NA
+"2413",84,"Eleotris fusca",0,12.12,60.4,12.85714286,42.06,NA
+"2414",84,"Zenarchopterus dispar",0,12.12,60.4,12.85714286,42.06,NA
+"2415",84,"Acentrogobius caninus",0,12.12,60.4,12.85714286,42.06,NA
+"2416",84,"Glosogobius",0,12.12,60.4,12.85714286,42.06,NA
+"2417",84,"Horaichthyidae",0,12.12,60.4,12.85714286,42.06,NA
+"2418",84,"Siganus lineatus",0,12.12,60.4,12.85714286,42.06,NA
+"2419",84,"Acentrogobius sp",0,12.12,60.4,12.85714286,42.06,NA
+"2420",84,"Arothron hispidus",0,12.12,60.4,12.85714286,42.06,NA
+"2421",84,"Siganus vermiculatus",0,12.12,60.4,12.85714286,42.06,NA
+"2422",84,"Bostrychus sinensis",0,12.12,60.4,12.85714286,42.06,NA
+"2423",84,"Toxotes jaculatrix",0,12.12,60.4,12.85714286,42.06,NA
+"2424",84,"Strongylura leiura",0,12.12,60.4,12.85714286,42.06,NA
+"2425",84,"Liza macrolepsis",0,12.12,60.4,12.85714286,42.06,NA
+"2426",84,"Scatophagus argus",0,12.12,60.4,12.85714286,42.06,NA
+"2427",84,"Gerres limbatus",0,12.12,60.4,12.85714286,42.06,NA
+"2428",84,"Orange fish",0,12.12,60.4,12.85714286,42.06,NA
+"2429",84,"Apogonidae 3",0,12.12,60.4,12.85714286,42.06,NA
+"2430",84,"Lutjanus argentimaculatus",0,12.12,60.4,12.85714286,42.06,NA
+"2431",84,"Caranx sexfasciatus",0,12.12,60.4,12.85714286,42.06,NA
+"2432",84,"Sphaeramia orbicularis",0,12.12,60.4,12.85714286,42.06,NA
+"2433",84,"Chanos chanos",0,12.12,60.4,12.85714286,42.06,NA
+"2434",84,"Plectorhinchus gibbosus",0,12.12,60.4,12.85714286,42.06,NA
+"2435",84,"Lutjanus fulviflamma",0,12.12,60.4,12.85714286,42.06,NA
+"2436",84,"Tetradontidae",0,12.12,60.4,12.85714286,42.06,NA
+"2437",85,"Butis butis",0,56.02,70.8,34.71428571,43.09,NA
+"2438",85,"Halicampus grayii",0,56.02,70.8,34.71428571,43.09,NA
+"2439",85,"Apogon amboinensis",0,56.02,70.8,34.71428571,43.09,NA
+"2440",85,"Gobidae",0,56.02,70.8,34.71428571,43.09,NA
+"2441",85,"Apogon hyalosoma",0,56.02,70.8,34.71428571,43.09,NA
+"2442",85,"Eleotris fusca",0,56.02,70.8,34.71428571,43.09,NA
+"2443",85,"Zenarchopterus dispar",0,56.02,70.8,34.71428571,43.09,NA
+"2444",85,"Acentrogobius caninus",0,56.02,70.8,34.71428571,43.09,NA
+"2445",85,"Glosogobius",0,56.02,70.8,34.71428571,43.09,NA
+"2446",85,"Horaichthyidae",0,56.02,70.8,34.71428571,43.09,NA
+"2447",85,"Siganus lineatus",0,56.02,70.8,34.71428571,43.09,NA
+"2448",85,"Acentrogobius sp",0,56.02,70.8,34.71428571,43.09,NA
+"2449",85,"Arothron hispidus",0,56.02,70.8,34.71428571,43.09,NA
+"2450",85,"Siganus vermiculatus",0,56.02,70.8,34.71428571,43.09,NA
+"2451",85,"Bostrychus sinensis",0,56.02,70.8,34.71428571,43.09,NA
+"2452",85,"Toxotes jaculatrix",0,56.02,70.8,34.71428571,43.09,NA
+"2453",85,"Strongylura leiura",0,56.02,70.8,34.71428571,43.09,NA
+"2454",85,"Liza macrolepsis",0,56.02,70.8,34.71428571,43.09,NA
+"2455",85,"Scatophagus argus",0,56.02,70.8,34.71428571,43.09,NA
+"2456",85,"Gerres limbatus",0,56.02,70.8,34.71428571,43.09,NA
+"2457",85,"Orange fish",0,56.02,70.8,34.71428571,43.09,NA
+"2458",85,"Apogonidae 3",38,56.02,70.8,34.71428571,43.09,2
+"2459",85,"Lutjanus argentimaculatus",1,56.02,70.8,34.71428571,43.09,19.8
+"2460",85,"Caranx sexfasciatus",0,56.02,70.8,34.71428571,43.09,NA
+"2461",85,"Sphaeramia orbicularis",0,56.02,70.8,34.71428571,43.09,NA
+"2462",85,"Chanos chanos",0,56.02,70.8,34.71428571,43.09,NA
+"2463",85,"Plectorhinchus gibbosus",0,56.02,70.8,34.71428571,43.09,NA
+"2464",85,"Lutjanus fulviflamma",0,56.02,70.8,34.71428571,43.09,NA
+"2465",85,"Tetradontidae",0,56.02,70.8,34.71428571,43.09,NA
+"2466",86,"Butis butis",0,100,30.2,53.57142857,184.76,NA
+"2467",86,"Halicampus grayii",0,100,30.2,53.57142857,184.76,NA
+"2468",86,"Apogon amboinensis",0,100,30.2,53.57142857,184.76,NA
+"2469",86,"Gobidae",0,100,30.2,53.57142857,184.76,NA
+"2470",86,"Apogon hyalosoma",0,100,30.2,53.57142857,184.76,NA
+"2471",86,"Eleotris fusca",0,100,30.2,53.57142857,184.76,NA
+"2472",86,"Zenarchopterus dispar",0,100,30.2,53.57142857,184.76,NA
+"2473",86,"Acentrogobius caninus",0,100,30.2,53.57142857,184.76,NA
+"2474",86,"Glosogobius",0,100,30.2,53.57142857,184.76,NA
+"2475",86,"Horaichthyidae",9,100,30.2,53.57142857,184.76,2
+"2476",86,"Siganus lineatus",0,100,30.2,53.57142857,184.76,NA
+"2477",86,"Acentrogobius sp",0,100,30.2,53.57142857,184.76,NA
+"2478",86,"Arothron hispidus",0,100,30.2,53.57142857,184.76,NA
+"2479",86,"Siganus vermiculatus",0,100,30.2,53.57142857,184.76,NA
+"2480",86,"Bostrychus sinensis",0,100,30.2,53.57142857,184.76,NA
+"2481",86,"Toxotes jaculatrix",0,100,30.2,53.57142857,184.76,NA
+"2482",86,"Strongylura leiura",0,100,30.2,53.57142857,184.76,NA
+"2483",86,"Liza macrolepsis",0,100,30.2,53.57142857,184.76,NA
+"2484",86,"Scatophagus argus",0,100,30.2,53.57142857,184.76,NA
+"2485",86,"Gerres limbatus",0,100,30.2,53.57142857,184.76,NA
+"2486",86,"Orange fish",0,100,30.2,53.57142857,184.76,NA
+"2487",86,"Apogonidae 3",19,100,30.2,53.57142857,184.76,1.5
+"2488",86,"Lutjanus argentimaculatus",0,100,30.2,53.57142857,184.76,NA
+"2489",86,"Caranx sexfasciatus",0,100,30.2,53.57142857,184.76,NA
+"2490",86,"Sphaeramia orbicularis",0,100,30.2,53.57142857,184.76,NA
+"2491",86,"Chanos chanos",0,100,30.2,53.57142857,184.76,NA
+"2492",86,"Plectorhinchus gibbosus",0,100,30.2,53.57142857,184.76,NA
+"2493",86,"Lutjanus fulviflamma",0,100,30.2,53.57142857,184.76,NA
+"2494",86,"Tetradontidae",0,100,30.2,53.57142857,184.76,NA
+"2495",87,"Butis butis",0,97.4,33,20.57142857,173.08,NA
+"2496",87,"Halicampus grayii",0,97.4,33,20.57142857,173.08,NA
+"2497",87,"Apogon amboinensis",0,97.4,33,20.57142857,173.08,NA
+"2498",87,"Gobidae",0,97.4,33,20.57142857,173.08,NA
+"2499",87,"Apogon hyalosoma",0,97.4,33,20.57142857,173.08,NA
+"2500",87,"Eleotris fusca",0,97.4,33,20.57142857,173.08,NA
+"2501",87,"Zenarchopterus dispar",2,97.4,33,20.57142857,173.08,7.65
+"2502",87,"Acentrogobius caninus",0,97.4,33,20.57142857,173.08,NA
+"2503",87,"Glosogobius",0,97.4,33,20.57142857,173.08,NA
+"2504",87,"Horaichthyidae",0,97.4,33,20.57142857,173.08,NA
+"2505",87,"Siganus lineatus",0,97.4,33,20.57142857,173.08,NA
+"2506",87,"Acentrogobius sp",0,97.4,33,20.57142857,173.08,NA
+"2507",87,"Arothron hispidus",0,97.4,33,20.57142857,173.08,NA
+"2508",87,"Siganus vermiculatus",0,97.4,33,20.57142857,173.08,NA
+"2509",87,"Bostrychus sinensis",0,97.4,33,20.57142857,173.08,NA
+"2510",87,"Toxotes jaculatrix",0,97.4,33,20.57142857,173.08,NA
+"2511",87,"Strongylura leiura",0,97.4,33,20.57142857,173.08,NA
+"2512",87,"Liza macrolepsis",0,97.4,33,20.57142857,173.08,NA
+"2513",87,"Scatophagus argus",0,97.4,33,20.57142857,173.08,NA
+"2514",87,"Gerres limbatus",0,97.4,33,20.57142857,173.08,NA
+"2515",87,"Orange fish",0,97.4,33,20.57142857,173.08,NA
+"2516",87,"Apogonidae 3",30,97.4,33,20.57142857,173.08,1.983
+"2517",87,"Lutjanus argentimaculatus",0,97.4,33,20.57142857,173.08,NA
+"2518",87,"Caranx sexfasciatus",0,97.4,33,20.57142857,173.08,NA
+"2519",87,"Sphaeramia orbicularis",0,97.4,33,20.57142857,173.08,NA
+"2520",87,"Chanos chanos",0,97.4,33,20.57142857,173.08,NA
+"2521",87,"Plectorhinchus gibbosus",0,97.4,33,20.57142857,173.08,NA
+"2522",87,"Lutjanus fulviflamma",0,97.4,33,20.57142857,173.08,NA
+"2523",87,"Tetradontidae",0,97.4,33,20.57142857,173.08,NA
+"2524",88,"Butis butis",0,98.96,23.3,34.85714286,173.76,NA
+"2525",88,"Halicampus grayii",0,98.96,23.3,34.85714286,173.76,NA
+"2526",88,"Apogon amboinensis",0,98.96,23.3,34.85714286,173.76,NA
+"2527",88,"Gobidae",0,98.96,23.3,34.85714286,173.76,NA
+"2528",88,"Apogon hyalosoma",0,98.96,23.3,34.85714286,173.76,NA
+"2529",88,"Eleotris fusca",0,98.96,23.3,34.85714286,173.76,NA
+"2530",88,"Zenarchopterus dispar",0,98.96,23.3,34.85714286,173.76,NA
+"2531",88,"Acentrogobius caninus",0,98.96,23.3,34.85714286,173.76,NA
+"2532",88,"Glosogobius",0,98.96,23.3,34.85714286,173.76,NA
+"2533",88,"Horaichthyidae",0,98.96,23.3,34.85714286,173.76,NA
+"2534",88,"Siganus lineatus",0,98.96,23.3,34.85714286,173.76,NA
+"2535",88,"Acentrogobius sp",0,98.96,23.3,34.85714286,173.76,NA
+"2536",88,"Arothron hispidus",0,98.96,23.3,34.85714286,173.76,NA
+"2537",88,"Siganus vermiculatus",0,98.96,23.3,34.85714286,173.76,NA
+"2538",88,"Bostrychus sinensis",0,98.96,23.3,34.85714286,173.76,NA
+"2539",88,"Toxotes jaculatrix",0,98.96,23.3,34.85714286,173.76,NA
+"2540",88,"Strongylura leiura",0,98.96,23.3,34.85714286,173.76,NA
+"2541",88,"Liza macrolepsis",0,98.96,23.3,34.85714286,173.76,NA
+"2542",88,"Scatophagus argus",0,98.96,23.3,34.85714286,173.76,NA
+"2543",88,"Gerres limbatus",0,98.96,23.3,34.85714286,173.76,NA
+"2544",88,"Orange fish",0,98.96,23.3,34.85714286,173.76,NA
+"2545",88,"Apogonidae 3",10,98.96,23.3,34.85714286,173.76,2
+"2546",88,"Lutjanus argentimaculatus",0,98.96,23.3,34.85714286,173.76,NA
+"2547",88,"Caranx sexfasciatus",0,98.96,23.3,34.85714286,173.76,NA
+"2548",88,"Sphaeramia orbicularis",0,98.96,23.3,34.85714286,173.76,NA
+"2549",88,"Chanos chanos",0,98.96,23.3,34.85714286,173.76,NA
+"2550",88,"Plectorhinchus gibbosus",0,98.96,23.3,34.85714286,173.76,NA
+"2551",88,"Lutjanus fulviflamma",0,98.96,23.3,34.85714286,173.76,NA
+"2552",88,"Tetradontidae",0,98.96,23.3,34.85714286,173.76,NA
+"2553",89,"Butis butis",0,95.84,26.8,21.85714286,191.21,NA
+"2554",89,"Halicampus grayii",0,95.84,26.8,21.85714286,191.21,NA
+"2555",89,"Apogon amboinensis",0,95.84,26.8,21.85714286,191.21,NA
+"2556",89,"Gobidae",0,95.84,26.8,21.85714286,191.21,NA
+"2557",89,"Apogon hyalosoma",0,95.84,26.8,21.85714286,191.21,NA
+"2558",89,"Eleotris fusca",0,95.84,26.8,21.85714286,191.21,NA
+"2559",89,"Zenarchopterus dispar",0,95.84,26.8,21.85714286,191.21,NA
+"2560",89,"Acentrogobius caninus",0,95.84,26.8,21.85714286,191.21,NA
+"2561",89,"Glosogobius",0,95.84,26.8,21.85714286,191.21,NA
+"2562",89,"Horaichthyidae",3,95.84,26.8,21.85714286,191.21,2
+"2563",89,"Siganus lineatus",0,95.84,26.8,21.85714286,191.21,NA
+"2564",89,"Acentrogobius sp",0,95.84,26.8,21.85714286,191.21,NA
+"2565",89,"Arothron hispidus",0,95.84,26.8,21.85714286,191.21,NA
+"2566",89,"Siganus vermiculatus",0,95.84,26.8,21.85714286,191.21,NA
+"2567",89,"Bostrychus sinensis",0,95.84,26.8,21.85714286,191.21,NA
+"2568",89,"Toxotes jaculatrix",0,95.84,26.8,21.85714286,191.21,NA
+"2569",89,"Strongylura leiura",0,95.84,26.8,21.85714286,191.21,NA
+"2570",89,"Liza macrolepsis",0,95.84,26.8,21.85714286,191.21,NA
+"2571",89,"Scatophagus argus",0,95.84,26.8,21.85714286,191.21,NA
+"2572",89,"Gerres limbatus",0,95.84,26.8,21.85714286,191.21,NA
+"2573",89,"Orange fish",0,95.84,26.8,21.85714286,191.21,NA
+"2574",89,"Apogonidae 3",0,95.84,26.8,21.85714286,191.21,NA
+"2575",89,"Lutjanus argentimaculatus",0,95.84,26.8,21.85714286,191.21,NA
+"2576",89,"Caranx sexfasciatus",0,95.84,26.8,21.85714286,191.21,NA
+"2577",89,"Sphaeramia orbicularis",0,95.84,26.8,21.85714286,191.21,NA
+"2578",89,"Chanos chanos",0,95.84,26.8,21.85714286,191.21,NA
+"2579",89,"Plectorhinchus gibbosus",0,95.84,26.8,21.85714286,191.21,NA
+"2580",89,"Lutjanus fulviflamma",0,95.84,26.8,21.85714286,191.21,NA
+"2581",89,"Tetradontidae",0,95.84,26.8,21.85714286,191.21,NA
+"2582",90,"Butis butis",0,95.06,32.3,5.571428571,165.9,NA
+"2583",90,"Halicampus grayii",0,95.06,32.3,5.571428571,165.9,NA
+"2584",90,"Apogon amboinensis",0,95.06,32.3,5.571428571,165.9,NA
+"2585",90,"Gobidae",0,95.06,32.3,5.571428571,165.9,NA
+"2586",90,"Apogon hyalosoma",0,95.06,32.3,5.571428571,165.9,NA
+"2587",90,"Eleotris fusca",0,95.06,32.3,5.571428571,165.9,NA
+"2588",90,"Zenarchopterus dispar",0,95.06,32.3,5.571428571,165.9,NA
+"2589",90,"Acentrogobius caninus",0,95.06,32.3,5.571428571,165.9,NA
+"2590",90,"Glosogobius",0,95.06,32.3,5.571428571,165.9,NA
+"2591",90,"Horaichthyidae",0,95.06,32.3,5.571428571,165.9,NA
+"2592",90,"Siganus lineatus",0,95.06,32.3,5.571428571,165.9,NA
+"2593",90,"Acentrogobius sp",0,95.06,32.3,5.571428571,165.9,NA
+"2594",90,"Arothron hispidus",0,95.06,32.3,5.571428571,165.9,NA
+"2595",90,"Siganus vermiculatus",0,95.06,32.3,5.571428571,165.9,NA
+"2596",90,"Bostrychus sinensis",0,95.06,32.3,5.571428571,165.9,NA
+"2597",90,"Toxotes jaculatrix",0,95.06,32.3,5.571428571,165.9,NA
+"2598",90,"Strongylura leiura",0,95.06,32.3,5.571428571,165.9,NA
+"2599",90,"Liza macrolepsis",0,95.06,32.3,5.571428571,165.9,NA
+"2600",90,"Scatophagus argus",0,95.06,32.3,5.571428571,165.9,NA
+"2601",90,"Gerres limbatus",0,95.06,32.3,5.571428571,165.9,NA
+"2602",90,"Orange fish",0,95.06,32.3,5.571428571,165.9,NA
+"2603",90,"Apogonidae 3",20,95.06,32.3,5.571428571,165.9,2
+"2604",90,"Lutjanus argentimaculatus",0,95.06,32.3,5.571428571,165.9,NA
+"2605",90,"Caranx sexfasciatus",0,95.06,32.3,5.571428571,165.9,NA
+"2606",90,"Sphaeramia orbicularis",0,95.06,32.3,5.571428571,165.9,NA
+"2607",90,"Chanos chanos",0,95.06,32.3,5.571428571,165.9,NA
+"2608",90,"Plectorhinchus gibbosus",0,95.06,32.3,5.571428571,165.9,NA
+"2609",90,"Lutjanus fulviflamma",0,95.06,32.3,5.571428571,165.9,NA
+"2610",90,"Tetradontidae",0,95.06,32.3,5.571428571,165.9,NA
+"2611",91,"Butis butis",0,91.68,20,16.28571429,271.97,NA
+"2612",91,"Halicampus grayii",0,91.68,20,16.28571429,271.97,NA
+"2613",91,"Apogon amboinensis",0,91.68,20,16.28571429,271.97,NA
+"2614",91,"Gobidae",0,91.68,20,16.28571429,271.97,NA
+"2615",91,"Apogon hyalosoma",0,91.68,20,16.28571429,271.97,NA
+"2616",91,"Eleotris fusca",0,91.68,20,16.28571429,271.97,NA
+"2617",91,"Zenarchopterus dispar",0,91.68,20,16.28571429,271.97,NA
+"2618",91,"Acentrogobius caninus",0,91.68,20,16.28571429,271.97,NA
+"2619",91,"Glosogobius",0,91.68,20,16.28571429,271.97,NA
+"2620",91,"Horaichthyidae",3,91.68,20,16.28571429,271.97,2
+"2621",91,"Siganus lineatus",0,91.68,20,16.28571429,271.97,NA
+"2622",91,"Acentrogobius sp",0,91.68,20,16.28571429,271.97,NA
+"2623",91,"Arothron hispidus",0,91.68,20,16.28571429,271.97,NA
+"2624",91,"Siganus vermiculatus",0,91.68,20,16.28571429,271.97,NA
+"2625",91,"Bostrychus sinensis",0,91.68,20,16.28571429,271.97,NA
+"2626",91,"Toxotes jaculatrix",0,91.68,20,16.28571429,271.97,NA
+"2627",91,"Strongylura leiura",0,91.68,20,16.28571429,271.97,NA
+"2628",91,"Liza macrolepsis",0,91.68,20,16.28571429,271.97,NA
+"2629",91,"Scatophagus argus",0,91.68,20,16.28571429,271.97,NA
+"2630",91,"Gerres limbatus",0,91.68,20,16.28571429,271.97,NA
+"2631",91,"Orange fish",0,91.68,20,16.28571429,271.97,NA
+"2632",91,"Apogonidae 3",0,91.68,20,16.28571429,271.97,NA
+"2633",91,"Lutjanus argentimaculatus",0,91.68,20,16.28571429,271.97,NA
+"2634",91,"Caranx sexfasciatus",0,91.68,20,16.28571429,271.97,NA
+"2635",91,"Sphaeramia orbicularis",0,91.68,20,16.28571429,271.97,NA
+"2636",91,"Chanos chanos",0,91.68,20,16.28571429,271.97,NA
+"2637",91,"Plectorhinchus gibbosus",0,91.68,20,16.28571429,271.97,NA
+"2638",91,"Lutjanus fulviflamma",0,91.68,20,16.28571429,271.97,NA
+"2639",91,"Tetradontidae",0,91.68,20,16.28571429,271.97,NA
+"2640",92,"Butis butis",0,99.48,30.9,10.42857143,277.22,NA
+"2641",92,"Halicampus grayii",0,99.48,30.9,10.42857143,277.22,NA
+"2642",92,"Apogon amboinensis",0,99.48,30.9,10.42857143,277.22,NA
+"2643",92,"Gobidae",0,99.48,30.9,10.42857143,277.22,NA
+"2644",92,"Apogon hyalosoma",0,99.48,30.9,10.42857143,277.22,NA
+"2645",92,"Eleotris fusca",0,99.48,30.9,10.42857143,277.22,NA
+"2646",92,"Zenarchopterus dispar",0,99.48,30.9,10.42857143,277.22,NA
+"2647",92,"Acentrogobius caninus",0,99.48,30.9,10.42857143,277.22,NA
+"2648",92,"Glosogobius",0,99.48,30.9,10.42857143,277.22,NA
+"2649",92,"Horaichthyidae",0,99.48,30.9,10.42857143,277.22,NA
+"2650",92,"Siganus lineatus",0,99.48,30.9,10.42857143,277.22,NA
+"2651",92,"Acentrogobius sp",0,99.48,30.9,10.42857143,277.22,NA
+"2652",92,"Arothron hispidus",0,99.48,30.9,10.42857143,277.22,NA
+"2653",92,"Siganus vermiculatus",0,99.48,30.9,10.42857143,277.22,NA
+"2654",92,"Bostrychus sinensis",0,99.48,30.9,10.42857143,277.22,NA
+"2655",92,"Toxotes jaculatrix",0,99.48,30.9,10.42857143,277.22,NA
+"2656",92,"Strongylura leiura",3,99.48,30.9,10.42857143,277.22,13.5
+"2657",92,"Liza macrolepsis",0,99.48,30.9,10.42857143,277.22,NA
+"2658",92,"Scatophagus argus",0,99.48,30.9,10.42857143,277.22,NA
+"2659",92,"Gerres limbatus",0,99.48,30.9,10.42857143,277.22,NA
+"2660",92,"Orange fish",0,99.48,30.9,10.42857143,277.22,NA
+"2661",92,"Apogonidae 3",0,99.48,30.9,10.42857143,277.22,NA
+"2662",92,"Lutjanus argentimaculatus",0,99.48,30.9,10.42857143,277.22,NA
+"2663",92,"Caranx sexfasciatus",0,99.48,30.9,10.42857143,277.22,NA
+"2664",92,"Sphaeramia orbicularis",0,99.48,30.9,10.42857143,277.22,NA
+"2665",92,"Chanos chanos",0,99.48,30.9,10.42857143,277.22,NA
+"2666",92,"Plectorhinchus gibbosus",0,99.48,30.9,10.42857143,277.22,NA
+"2667",92,"Lutjanus fulviflamma",0,99.48,30.9,10.42857143,277.22,NA
+"2668",92,"Tetradontidae",0,99.48,30.9,10.42857143,277.22,NA
+"2669",93,"Butis butis",0,96.88,60,25.71428571,255.59,NA
+"2670",93,"Halicampus grayii",0,96.88,60,25.71428571,255.59,NA
+"2671",93,"Apogon amboinensis",0,96.88,60,25.71428571,255.59,NA
+"2672",93,"Gobidae",0,96.88,60,25.71428571,255.59,NA
+"2673",93,"Apogon hyalosoma",0,96.88,60,25.71428571,255.59,NA
+"2674",93,"Eleotris fusca",0,96.88,60,25.71428571,255.59,NA
+"2675",93,"Zenarchopterus dispar",0,96.88,60,25.71428571,255.59,NA
+"2676",93,"Acentrogobius caninus",0,96.88,60,25.71428571,255.59,NA
+"2677",93,"Glosogobius",0,96.88,60,25.71428571,255.59,NA
+"2678",93,"Horaichthyidae",0,96.88,60,25.71428571,255.59,NA
+"2679",93,"Siganus lineatus",0,96.88,60,25.71428571,255.59,NA
+"2680",93,"Acentrogobius sp",0,96.88,60,25.71428571,255.59,NA
+"2681",93,"Arothron hispidus",0,96.88,60,25.71428571,255.59,NA
+"2682",93,"Siganus vermiculatus",0,96.88,60,25.71428571,255.59,NA
+"2683",93,"Bostrychus sinensis",0,96.88,60,25.71428571,255.59,NA
+"2684",93,"Toxotes jaculatrix",0,96.88,60,25.71428571,255.59,NA
+"2685",93,"Strongylura leiura",0,96.88,60,25.71428571,255.59,NA
+"2686",93,"Liza macrolepsis",0,96.88,60,25.71428571,255.59,NA
+"2687",93,"Scatophagus argus",0,96.88,60,25.71428571,255.59,NA
+"2688",93,"Gerres limbatus",0,96.88,60,25.71428571,255.59,NA
+"2689",93,"Orange fish",0,96.88,60,25.71428571,255.59,NA
+"2690",93,"Apogonidae 3",40,96.88,60,25.71428571,255.59,1.85
+"2691",93,"Lutjanus argentimaculatus",0,96.88,60,25.71428571,255.59,NA
+"2692",93,"Caranx sexfasciatus",0,96.88,60,25.71428571,255.59,NA
+"2693",93,"Sphaeramia orbicularis",0,96.88,60,25.71428571,255.59,NA
+"2694",93,"Chanos chanos",0,96.88,60,25.71428571,255.59,NA
+"2695",93,"Plectorhinchus gibbosus",0,96.88,60,25.71428571,255.59,NA
+"2696",93,"Lutjanus fulviflamma",0,96.88,60,25.71428571,255.59,NA
+"2697",93,"Tetradontidae",0,96.88,60,25.71428571,255.59,NA
+"2698",94,"Butis butis",0,98.44,40.7,19.57142857,258.85,NA
+"2699",94,"Halicampus grayii",0,98.44,40.7,19.57142857,258.85,NA
+"2700",94,"Apogon amboinensis",0,98.44,40.7,19.57142857,258.85,NA
+"2701",94,"Gobidae",0,98.44,40.7,19.57142857,258.85,NA
+"2702",94,"Apogon hyalosoma",0,98.44,40.7,19.57142857,258.85,NA
+"2703",94,"Eleotris fusca",0,98.44,40.7,19.57142857,258.85,NA
+"2704",94,"Zenarchopterus dispar",0,98.44,40.7,19.57142857,258.85,NA
+"2705",94,"Acentrogobius caninus",0,98.44,40.7,19.57142857,258.85,NA
+"2706",94,"Glosogobius",0,98.44,40.7,19.57142857,258.85,NA
+"2707",94,"Horaichthyidae",0,98.44,40.7,19.57142857,258.85,NA
+"2708",94,"Siganus lineatus",0,98.44,40.7,19.57142857,258.85,NA
+"2709",94,"Acentrogobius sp",0,98.44,40.7,19.57142857,258.85,NA
+"2710",94,"Arothron hispidus",0,98.44,40.7,19.57142857,258.85,NA
+"2711",94,"Siganus vermiculatus",0,98.44,40.7,19.57142857,258.85,NA
+"2712",94,"Bostrychus sinensis",0,98.44,40.7,19.57142857,258.85,NA
+"2713",94,"Toxotes jaculatrix",0,98.44,40.7,19.57142857,258.85,NA
+"2714",94,"Strongylura leiura",0,98.44,40.7,19.57142857,258.85,NA
+"2715",94,"Liza macrolepsis",0,98.44,40.7,19.57142857,258.85,NA
+"2716",94,"Scatophagus argus",0,98.44,40.7,19.57142857,258.85,NA
+"2717",94,"Gerres limbatus",0,98.44,40.7,19.57142857,258.85,NA
+"2718",94,"Orange fish",0,98.44,40.7,19.57142857,258.85,NA
+"2719",94,"Apogonidae 3",30,98.44,40.7,19.57142857,258.85,2
+"2720",94,"Lutjanus argentimaculatus",0,98.44,40.7,19.57142857,258.85,NA
+"2721",94,"Caranx sexfasciatus",0,98.44,40.7,19.57142857,258.85,NA
+"2722",94,"Sphaeramia orbicularis",0,98.44,40.7,19.57142857,258.85,NA
+"2723",94,"Chanos chanos",0,98.44,40.7,19.57142857,258.85,NA
+"2724",94,"Plectorhinchus gibbosus",0,98.44,40.7,19.57142857,258.85,NA
+"2725",94,"Lutjanus fulviflamma",0,98.44,40.7,19.57142857,258.85,NA
+"2726",94,"Tetradontidae",0,98.44,40.7,19.57142857,258.85,NA
+"2727",95,"Butis butis",0,96.1,30.9,17.14285714,294.36,NA
+"2728",95,"Halicampus grayii",0,96.1,30.9,17.14285714,294.36,NA
+"2729",95,"Apogon amboinensis",0,96.1,30.9,17.14285714,294.36,NA
+"2730",95,"Gobidae",0,96.1,30.9,17.14285714,294.36,NA
+"2731",95,"Apogon hyalosoma",0,96.1,30.9,17.14285714,294.36,NA
+"2732",95,"Eleotris fusca",0,96.1,30.9,17.14285714,294.36,NA
+"2733",95,"Zenarchopterus dispar",0,96.1,30.9,17.14285714,294.36,NA
+"2734",95,"Acentrogobius caninus",0,96.1,30.9,17.14285714,294.36,NA
+"2735",95,"Glosogobius",0,96.1,30.9,17.14285714,294.36,NA
+"2736",95,"Horaichthyidae",0,96.1,30.9,17.14285714,294.36,NA
+"2737",95,"Siganus lineatus",0,96.1,30.9,17.14285714,294.36,NA
+"2738",95,"Acentrogobius sp",0,96.1,30.9,17.14285714,294.36,NA
+"2739",95,"Arothron hispidus",0,96.1,30.9,17.14285714,294.36,NA
+"2740",95,"Siganus vermiculatus",0,96.1,30.9,17.14285714,294.36,NA
+"2741",95,"Bostrychus sinensis",0,96.1,30.9,17.14285714,294.36,NA
+"2742",95,"Toxotes jaculatrix",0,96.1,30.9,17.14285714,294.36,NA
+"2743",95,"Strongylura leiura",0,96.1,30.9,17.14285714,294.36,NA
+"2744",95,"Liza macrolepsis",0,96.1,30.9,17.14285714,294.36,NA
+"2745",95,"Scatophagus argus",0,96.1,30.9,17.14285714,294.36,NA
+"2746",95,"Gerres limbatus",0,96.1,30.9,17.14285714,294.36,NA
+"2747",95,"Orange fish",0,96.1,30.9,17.14285714,294.36,NA
+"2748",95,"Apogonidae 3",6,96.1,30.9,17.14285714,294.36,2.5
+"2749",95,"Lutjanus argentimaculatus",0,96.1,30.9,17.14285714,294.36,NA
+"2750",95,"Caranx sexfasciatus",0,96.1,30.9,17.14285714,294.36,NA
+"2751",95,"Sphaeramia orbicularis",0,96.1,30.9,17.14285714,294.36,NA
+"2752",95,"Chanos chanos",0,96.1,30.9,17.14285714,294.36,NA
+"2753",95,"Plectorhinchus gibbosus",0,96.1,30.9,17.14285714,294.36,NA
+"2754",95,"Lutjanus fulviflamma",0,96.1,30.9,17.14285714,294.36,NA
+"2755",95,"Tetradontidae",0,96.1,30.9,17.14285714,294.36,NA
+"2756",96,"Butis butis",0,79.2,9,7.714285714,274.24,NA
+"2757",96,"Halicampus grayii",0,79.2,9,7.714285714,274.24,NA
+"2758",96,"Apogon amboinensis",0,79.2,9,7.714285714,274.24,NA
+"2759",96,"Gobidae",0,79.2,9,7.714285714,274.24,NA
+"2760",96,"Apogon hyalosoma",0,79.2,9,7.714285714,274.24,NA
+"2761",96,"Eleotris fusca",0,79.2,9,7.714285714,274.24,NA
+"2762",96,"Zenarchopterus dispar",0,79.2,9,7.714285714,274.24,NA
+"2763",96,"Acentrogobius caninus",0,79.2,9,7.714285714,274.24,NA
+"2764",96,"Glosogobius",0,79.2,9,7.714285714,274.24,NA
+"2765",96,"Horaichthyidae",0,79.2,9,7.714285714,274.24,NA
+"2766",96,"Siganus lineatus",0,79.2,9,7.714285714,274.24,NA
+"2767",96,"Acentrogobius sp",0,79.2,9,7.714285714,274.24,NA
+"2768",96,"Arothron hispidus",0,79.2,9,7.714285714,274.24,NA
+"2769",96,"Siganus vermiculatus",0,79.2,9,7.714285714,274.24,NA
+"2770",96,"Bostrychus sinensis",0,79.2,9,7.714285714,274.24,NA
+"2771",96,"Toxotes jaculatrix",0,79.2,9,7.714285714,274.24,NA
+"2772",96,"Strongylura leiura",0,79.2,9,7.714285714,274.24,NA
+"2773",96,"Liza macrolepsis",0,79.2,9,7.714285714,274.24,NA
+"2774",96,"Scatophagus argus",0,79.2,9,7.714285714,274.24,NA
+"2775",96,"Gerres limbatus",0,79.2,9,7.714285714,274.24,NA
+"2776",96,"Orange fish",0,79.2,9,7.714285714,274.24,NA
+"2777",96,"Apogonidae 3",0,79.2,9,7.714285714,274.24,NA
+"2778",96,"Lutjanus argentimaculatus",0,79.2,9,7.714285714,274.24,NA
+"2779",96,"Caranx sexfasciatus",0,79.2,9,7.714285714,274.24,NA
+"2780",96,"Sphaeramia orbicularis",0,79.2,9,7.714285714,274.24,NA
+"2781",96,"Chanos chanos",0,79.2,9,7.714285714,274.24,NA
+"2782",96,"Plectorhinchus gibbosus",0,79.2,9,7.714285714,274.24,NA
+"2783",96,"Lutjanus fulviflamma",0,79.2,9,7.714285714,274.24,NA
+"2784",96,"Tetradontidae",0,79.2,9,7.714285714,274.24,NA
+"2785",97,"Butis butis",0,98.44,10.8,20,272.6,NA
+"2786",97,"Halicampus grayii",0,98.44,10.8,20,272.6,NA
+"2787",97,"Apogon amboinensis",0,98.44,10.8,20,272.6,NA
+"2788",97,"Gobidae",0,98.44,10.8,20,272.6,NA
+"2789",97,"Apogon hyalosoma",0,98.44,10.8,20,272.6,NA
+"2790",97,"Eleotris fusca",0,98.44,10.8,20,272.6,NA
+"2791",97,"Zenarchopterus dispar",0,98.44,10.8,20,272.6,NA
+"2792",97,"Acentrogobius caninus",0,98.44,10.8,20,272.6,NA
+"2793",97,"Glosogobius",0,98.44,10.8,20,272.6,NA
+"2794",97,"Horaichthyidae",7,98.44,10.8,20,272.6,2
+"2795",97,"Siganus lineatus",0,98.44,10.8,20,272.6,NA
+"2796",97,"Acentrogobius sp",0,98.44,10.8,20,272.6,NA
+"2797",97,"Arothron hispidus",0,98.44,10.8,20,272.6,NA
+"2798",97,"Siganus vermiculatus",0,98.44,10.8,20,272.6,NA
+"2799",97,"Bostrychus sinensis",0,98.44,10.8,20,272.6,NA
+"2800",97,"Toxotes jaculatrix",0,98.44,10.8,20,272.6,NA
+"2801",97,"Strongylura leiura",0,98.44,10.8,20,272.6,NA
+"2802",97,"Liza macrolepsis",0,98.44,10.8,20,272.6,NA
+"2803",97,"Scatophagus argus",0,98.44,10.8,20,272.6,NA
+"2804",97,"Gerres limbatus",0,98.44,10.8,20,272.6,NA
+"2805",97,"Orange fish",0,98.44,10.8,20,272.6,NA
+"2806",97,"Apogonidae 3",0,98.44,10.8,20,272.6,NA
+"2807",97,"Lutjanus argentimaculatus",0,98.44,10.8,20,272.6,NA
+"2808",97,"Caranx sexfasciatus",0,98.44,10.8,20,272.6,NA
+"2809",97,"Sphaeramia orbicularis",0,98.44,10.8,20,272.6,NA
+"2810",97,"Chanos chanos",0,98.44,10.8,20,272.6,NA
+"2811",97,"Plectorhinchus gibbosus",0,98.44,10.8,20,272.6,NA
+"2812",97,"Lutjanus fulviflamma",0,98.44,10.8,20,272.6,NA
+"2813",97,"Tetradontidae",0,98.44,10.8,20,272.6,NA
+"2814",98,"Butis butis",0,94.28,40,29.42857143,253.14,NA
+"2815",98,"Halicampus grayii",0,94.28,40,29.42857143,253.14,NA
+"2816",98,"Apogon amboinensis",0,94.28,40,29.42857143,253.14,NA
+"2817",98,"Gobidae",0,94.28,40,29.42857143,253.14,NA
+"2818",98,"Apogon hyalosoma",0,94.28,40,29.42857143,253.14,NA
+"2819",98,"Eleotris fusca",0,94.28,40,29.42857143,253.14,NA
+"2820",98,"Zenarchopterus dispar",0,94.28,40,29.42857143,253.14,NA
+"2821",98,"Acentrogobius caninus",0,94.28,40,29.42857143,253.14,NA
+"2822",98,"Glosogobius",0,94.28,40,29.42857143,253.14,NA
+"2823",98,"Horaichthyidae",0,94.28,40,29.42857143,253.14,NA
+"2824",98,"Siganus lineatus",0,94.28,40,29.42857143,253.14,NA
+"2825",98,"Acentrogobius sp",0,94.28,40,29.42857143,253.14,NA
+"2826",98,"Arothron hispidus",0,94.28,40,29.42857143,253.14,NA
+"2827",98,"Siganus vermiculatus",0,94.28,40,29.42857143,253.14,NA
+"2828",98,"Bostrychus sinensis",0,94.28,40,29.42857143,253.14,NA
+"2829",98,"Toxotes jaculatrix",0,94.28,40,29.42857143,253.14,NA
+"2830",98,"Strongylura leiura",0,94.28,40,29.42857143,253.14,NA
+"2831",98,"Liza macrolepsis",0,94.28,40,29.42857143,253.14,NA
+"2832",98,"Scatophagus argus",0,94.28,40,29.42857143,253.14,NA
+"2833",98,"Gerres limbatus",0,94.28,40,29.42857143,253.14,NA
+"2834",98,"Orange fish",0,94.28,40,29.42857143,253.14,NA
+"2835",98,"Apogonidae 3",0,94.28,40,29.42857143,253.14,NA
+"2836",98,"Lutjanus argentimaculatus",0,94.28,40,29.42857143,253.14,NA
+"2837",98,"Caranx sexfasciatus",0,94.28,40,29.42857143,253.14,NA
+"2838",98,"Sphaeramia orbicularis",0,94.28,40,29.42857143,253.14,NA
+"2839",98,"Chanos chanos",0,94.28,40,29.42857143,253.14,NA
+"2840",98,"Plectorhinchus gibbosus",0,94.28,40,29.42857143,253.14,NA
+"2841",98,"Lutjanus fulviflamma",0,94.28,40,29.42857143,253.14,NA
+"2842",98,"Tetradontidae",0,94.28,40,29.42857143,253.14,NA
+"2843",99,"Butis butis",0,92.46,20.7,18.71428571,297.91,NA
+"2844",99,"Halicampus grayii",0,92.46,20.7,18.71428571,297.91,NA
+"2845",99,"Apogon amboinensis",0,92.46,20.7,18.71428571,297.91,NA
+"2846",99,"Gobidae",0,92.46,20.7,18.71428571,297.91,NA
+"2847",99,"Apogon hyalosoma",0,92.46,20.7,18.71428571,297.91,NA
+"2848",99,"Eleotris fusca",0,92.46,20.7,18.71428571,297.91,NA
+"2849",99,"Zenarchopterus dispar",0,92.46,20.7,18.71428571,297.91,NA
+"2850",99,"Acentrogobius caninus",0,92.46,20.7,18.71428571,297.91,NA
+"2851",99,"Glosogobius",0,92.46,20.7,18.71428571,297.91,NA
+"2852",99,"Horaichthyidae",6,92.46,20.7,18.71428571,297.91,2
+"2853",99,"Siganus lineatus",0,92.46,20.7,18.71428571,297.91,NA
+"2854",99,"Acentrogobius sp",0,92.46,20.7,18.71428571,297.91,NA
+"2855",99,"Arothron hispidus",0,92.46,20.7,18.71428571,297.91,NA
+"2856",99,"Siganus vermiculatus",0,92.46,20.7,18.71428571,297.91,NA
+"2857",99,"Bostrychus sinensis",0,92.46,20.7,18.71428571,297.91,NA
+"2858",99,"Toxotes jaculatrix",0,92.46,20.7,18.71428571,297.91,NA
+"2859",99,"Strongylura leiura",0,92.46,20.7,18.71428571,297.91,NA
+"2860",99,"Liza macrolepsis",3,92.46,20.7,18.71428571,297.91,10.267
+"2861",99,"Scatophagus argus",0,92.46,20.7,18.71428571,297.91,NA
+"2862",99,"Gerres limbatus",0,92.46,20.7,18.71428571,297.91,NA
+"2863",99,"Orange fish",0,92.46,20.7,18.71428571,297.91,NA
+"2864",99,"Apogonidae 3",0,92.46,20.7,18.71428571,297.91,NA
+"2865",99,"Lutjanus argentimaculatus",0,92.46,20.7,18.71428571,297.91,NA
+"2866",99,"Caranx sexfasciatus",0,92.46,20.7,18.71428571,297.91,NA
+"2867",99,"Sphaeramia orbicularis",0,92.46,20.7,18.71428571,297.91,NA
+"2868",99,"Chanos chanos",0,92.46,20.7,18.71428571,297.91,NA
+"2869",99,"Plectorhinchus gibbosus",0,92.46,20.7,18.71428571,297.91,NA
+"2870",99,"Lutjanus fulviflamma",0,92.46,20.7,18.71428571,297.91,NA
+"2871",99,"Tetradontidae",0,92.46,20.7,18.71428571,297.91,NA
+"2872",100,"Butis butis",0,93.76,20.4,17.71428571,241.11,NA
+"2873",100,"Halicampus grayii",0,93.76,20.4,17.71428571,241.11,NA
+"2874",100,"Apogon amboinensis",0,93.76,20.4,17.71428571,241.11,NA
+"2875",100,"Gobidae",0,93.76,20.4,17.71428571,241.11,NA
+"2876",100,"Apogon hyalosoma",0,93.76,20.4,17.71428571,241.11,NA
+"2877",100,"Eleotris fusca",0,93.76,20.4,17.71428571,241.11,NA
+"2878",100,"Zenarchopterus dispar",0,93.76,20.4,17.71428571,241.11,NA
+"2879",100,"Acentrogobius caninus",0,93.76,20.4,17.71428571,241.11,NA
+"2880",100,"Glosogobius",0,93.76,20.4,17.71428571,241.11,NA
+"2881",100,"Horaichthyidae",5,93.76,20.4,17.71428571,241.11,2
+"2882",100,"Siganus lineatus",0,93.76,20.4,17.71428571,241.11,NA
+"2883",100,"Acentrogobius sp",0,93.76,20.4,17.71428571,241.11,NA
+"2884",100,"Arothron hispidus",0,93.76,20.4,17.71428571,241.11,NA
+"2885",100,"Siganus vermiculatus",0,93.76,20.4,17.71428571,241.11,NA
+"2886",100,"Bostrychus sinensis",0,93.76,20.4,17.71428571,241.11,NA
+"2887",100,"Toxotes jaculatrix",0,93.76,20.4,17.71428571,241.11,NA
+"2888",100,"Strongylura leiura",0,93.76,20.4,17.71428571,241.11,NA
+"2889",100,"Liza macrolepsis",0,93.76,20.4,17.71428571,241.11,NA
+"2890",100,"Scatophagus argus",0,93.76,20.4,17.71428571,241.11,NA
+"2891",100,"Gerres limbatus",0,93.76,20.4,17.71428571,241.11,NA
+"2892",100,"Orange fish",0,93.76,20.4,17.71428571,241.11,NA
+"2893",100,"Apogonidae 3",0,93.76,20.4,17.71428571,241.11,NA
+"2894",100,"Lutjanus argentimaculatus",0,93.76,20.4,17.71428571,241.11,NA
+"2895",100,"Caranx sexfasciatus",0,93.76,20.4,17.71428571,241.11,NA
+"2896",100,"Sphaeramia orbicularis",0,93.76,20.4,17.71428571,241.11,NA
+"2897",100,"Chanos chanos",0,93.76,20.4,17.71428571,241.11,NA
+"2898",100,"Plectorhinchus gibbosus",0,93.76,20.4,17.71428571,241.11,NA
+"2899",100,"Lutjanus fulviflamma",0,93.76,20.4,17.71428571,241.11,NA
+"2900",100,"Tetradontidae",0,93.76,20.4,17.71428571,241.11,NA
+"2901",101,"Butis butis",0,76.6,60,3,30.82,NA
+"2902",101,"Halicampus grayii",0,76.6,60,3,30.82,NA
+"2903",101,"Apogon amboinensis",0,76.6,60,3,30.82,NA
+"2904",101,"Gobidae",0,76.6,60,3,30.82,NA
+"2905",101,"Apogon hyalosoma",0,76.6,60,3,30.82,NA
+"2906",101,"Eleotris fusca",1,76.6,60,3,30.82,20
+"2907",101,"Zenarchopterus dispar",0,76.6,60,3,30.82,NA
+"2908",101,"Acentrogobius caninus",0,76.6,60,3,30.82,NA
+"2909",101,"Glosogobius",0,76.6,60,3,30.82,NA
+"2910",101,"Horaichthyidae",10,76.6,60,3,30.82,2
+"2911",101,"Siganus lineatus",0,76.6,60,3,30.82,NA
+"2912",101,"Acentrogobius sp",0,76.6,60,3,30.82,NA
+"2913",101,"Arothron hispidus",0,76.6,60,3,30.82,NA
+"2914",101,"Siganus vermiculatus",0,76.6,60,3,30.82,NA
+"2915",101,"Bostrychus sinensis",0,76.6,60,3,30.82,NA
+"2916",101,"Toxotes jaculatrix",0,76.6,60,3,30.82,NA
+"2917",101,"Strongylura leiura",0,76.6,60,3,30.82,NA
+"2918",101,"Liza macrolepsis",0,76.6,60,3,30.82,NA
+"2919",101,"Scatophagus argus",0,76.6,60,3,30.82,NA
+"2920",101,"Gerres limbatus",0,76.6,60,3,30.82,NA
+"2921",101,"Orange fish",0,76.6,60,3,30.82,NA
+"2922",101,"Apogonidae 3",15,76.6,60,3,30.82,2
+"2923",101,"Lutjanus argentimaculatus",0,76.6,60,3,30.82,NA
+"2924",101,"Caranx sexfasciatus",0,76.6,60,3,30.82,NA
+"2925",101,"Sphaeramia orbicularis",0,76.6,60,3,30.82,NA
+"2926",101,"Chanos chanos",0,76.6,60,3,30.82,NA
+"2927",101,"Plectorhinchus gibbosus",0,76.6,60,3,30.82,NA
+"2928",101,"Lutjanus fulviflamma",0,76.6,60,3,30.82,NA
+"2929",101,"Tetradontidae",0,76.6,60,3,30.82,NA
+"2930",102,"Butis butis",0,0,90.4,0,25.56,NA
+"2931",102,"Halicampus grayii",0,0,90.4,0,25.56,NA
+"2932",102,"Apogon amboinensis",0,0,90.4,0,25.56,NA
+"2933",102,"Gobidae",0,0,90.4,0,25.56,NA
+"2934",102,"Apogon hyalosoma",0,0,90.4,0,25.56,NA
+"2935",102,"Eleotris fusca",0,0,90.4,0,25.56,NA
+"2936",102,"Zenarchopterus dispar",0,0,90.4,0,25.56,NA
+"2937",102,"Acentrogobius caninus",0,0,90.4,0,25.56,NA
+"2938",102,"Glosogobius",0,0,90.4,0,25.56,NA
+"2939",102,"Horaichthyidae",0,0,90.4,0,25.56,NA
+"2940",102,"Siganus lineatus",0,0,90.4,0,25.56,NA
+"2941",102,"Acentrogobius sp",0,0,90.4,0,25.56,NA
+"2942",102,"Arothron hispidus",0,0,90.4,0,25.56,NA
+"2943",102,"Siganus vermiculatus",0,0,90.4,0,25.56,NA
+"2944",102,"Bostrychus sinensis",0,0,90.4,0,25.56,NA
+"2945",102,"Toxotes jaculatrix",0,0,90.4,0,25.56,NA
+"2946",102,"Strongylura leiura",0,0,90.4,0,25.56,NA
+"2947",102,"Liza macrolepsis",0,0,90.4,0,25.56,NA
+"2948",102,"Scatophagus argus",0,0,90.4,0,25.56,NA
+"2949",102,"Gerres limbatus",0,0,90.4,0,25.56,NA
+"2950",102,"Orange fish",0,0,90.4,0,25.56,NA
+"2951",102,"Apogonidae 3",0,0,90.4,0,25.56,NA
+"2952",102,"Lutjanus argentimaculatus",0,0,90.4,0,25.56,NA
+"2953",102,"Caranx sexfasciatus",1,0,90.4,0,25.56,7.9
+"2954",102,"Sphaeramia orbicularis",0,0,90.4,0,25.56,NA
+"2955",102,"Chanos chanos",0,0,90.4,0,25.56,NA
+"2956",102,"Plectorhinchus gibbosus",0,0,90.4,0,25.56,NA
+"2957",102,"Lutjanus fulviflamma",0,0,90.4,0,25.56,NA
+"2958",102,"Tetradontidae",1,0,90.4,0,25.56,3.8
+"2959",103,"Butis butis",0,0,90.2,0,20.03,NA
+"2960",103,"Halicampus grayii",0,0,90.2,0,20.03,NA
+"2961",103,"Apogon amboinensis",0,0,90.2,0,20.03,NA
+"2962",103,"Gobidae",0,0,90.2,0,20.03,NA
+"2963",103,"Apogon hyalosoma",0,0,90.2,0,20.03,NA
+"2964",103,"Eleotris fusca",0,0,90.2,0,20.03,NA
+"2965",103,"Zenarchopterus dispar",0,0,90.2,0,20.03,NA
+"2966",103,"Acentrogobius caninus",0,0,90.2,0,20.03,NA
+"2967",103,"Glosogobius",0,0,90.2,0,20.03,NA
+"2968",103,"Horaichthyidae",25,0,90.2,0,20.03,2
+"2969",103,"Siganus lineatus",0,0,90.2,0,20.03,NA
+"2970",103,"Acentrogobius sp",0,0,90.2,0,20.03,NA
+"2971",103,"Arothron hispidus",0,0,90.2,0,20.03,NA
+"2972",103,"Siganus vermiculatus",0,0,90.2,0,20.03,NA
+"2973",103,"Bostrychus sinensis",0,0,90.2,0,20.03,NA
+"2974",103,"Toxotes jaculatrix",0,0,90.2,0,20.03,NA
+"2975",103,"Strongylura leiura",0,0,90.2,0,20.03,NA
+"2976",103,"Liza macrolepsis",0,0,90.2,0,20.03,NA
+"2977",103,"Scatophagus argus",0,0,90.2,0,20.03,NA
+"2978",103,"Gerres limbatus",0,0,90.2,0,20.03,NA
+"2979",103,"Orange fish",0,0,90.2,0,20.03,NA
+"2980",103,"Apogonidae 3",0,0,90.2,0,20.03,NA
+"2981",103,"Lutjanus argentimaculatus",0,0,90.2,0,20.03,NA
+"2982",103,"Caranx sexfasciatus",0,0,90.2,0,20.03,NA
+"2983",103,"Sphaeramia orbicularis",0,0,90.2,0,20.03,NA
+"2984",103,"Chanos chanos",0,0,90.2,0,20.03,NA
+"2985",103,"Plectorhinchus gibbosus",0,0,90.2,0,20.03,NA
+"2986",103,"Lutjanus fulviflamma",0,0,90.2,0,20.03,NA
+"2987",103,"Tetradontidae",0,0,90.2,0,20.03,NA
+"2988",104,"Butis butis",0,84.4,50,39.42857143,48.08,NA
+"2989",104,"Halicampus grayii",0,84.4,50,39.42857143,48.08,NA
+"2990",104,"Apogon amboinensis",0,84.4,50,39.42857143,48.08,NA
+"2991",104,"Gobidae",0,84.4,50,39.42857143,48.08,NA
+"2992",104,"Apogon hyalosoma",0,84.4,50,39.42857143,48.08,NA
+"2993",104,"Eleotris fusca",1,84.4,50,39.42857143,48.08,20
+"2994",104,"Zenarchopterus dispar",0,84.4,50,39.42857143,48.08,NA
+"2995",104,"Acentrogobius caninus",0,84.4,50,39.42857143,48.08,NA
+"2996",104,"Glosogobius",0,84.4,50,39.42857143,48.08,NA
+"2997",104,"Horaichthyidae",0,84.4,50,39.42857143,48.08,NA
+"2998",104,"Siganus lineatus",0,84.4,50,39.42857143,48.08,NA
+"2999",104,"Acentrogobius sp",0,84.4,50,39.42857143,48.08,NA
+"3000",104,"Arothron hispidus",0,84.4,50,39.42857143,48.08,NA
+"3001",104,"Siganus vermiculatus",0,84.4,50,39.42857143,48.08,NA
+"3002",104,"Bostrychus sinensis",0,84.4,50,39.42857143,48.08,NA
+"3003",104,"Toxotes jaculatrix",0,84.4,50,39.42857143,48.08,NA
+"3004",104,"Strongylura leiura",0,84.4,50,39.42857143,48.08,NA
+"3005",104,"Liza macrolepsis",0,84.4,50,39.42857143,48.08,NA
+"3006",104,"Scatophagus argus",0,84.4,50,39.42857143,48.08,NA
+"3007",104,"Gerres limbatus",0,84.4,50,39.42857143,48.08,NA
+"3008",104,"Orange fish",0,84.4,50,39.42857143,48.08,NA
+"3009",104,"Apogonidae 3",0,84.4,50,39.42857143,48.08,NA
+"3010",104,"Lutjanus argentimaculatus",0,84.4,50,39.42857143,48.08,NA
+"3011",104,"Caranx sexfasciatus",0,84.4,50,39.42857143,48.08,NA
+"3012",104,"Sphaeramia orbicularis",0,84.4,50,39.42857143,48.08,NA
+"3013",104,"Chanos chanos",0,84.4,50,39.42857143,48.08,NA
+"3014",104,"Plectorhinchus gibbosus",0,84.4,50,39.42857143,48.08,NA
+"3015",104,"Lutjanus fulviflamma",0,84.4,50,39.42857143,48.08,NA
+"3016",104,"Tetradontidae",0,84.4,50,39.42857143,48.08,NA
+"3017",105,"Butis butis",1,96.36,110,25.28571429,6.39,12
+"3018",105,"Halicampus grayii",0,96.36,110,25.28571429,6.39,NA
+"3019",105,"Apogon amboinensis",0,96.36,110,25.28571429,6.39,NA
+"3020",105,"Gobidae",0,96.36,110,25.28571429,6.39,NA
+"3021",105,"Apogon hyalosoma",0,96.36,110,25.28571429,6.39,NA
+"3022",105,"Eleotris fusca",0,96.36,110,25.28571429,6.39,NA
+"3023",105,"Zenarchopterus dispar",0,96.36,110,25.28571429,6.39,NA
+"3024",105,"Acentrogobius caninus",0,96.36,110,25.28571429,6.39,NA
+"3025",105,"Glosogobius",0,96.36,110,25.28571429,6.39,NA
+"3026",105,"Horaichthyidae",0,96.36,110,25.28571429,6.39,NA
+"3027",105,"Siganus lineatus",0,96.36,110,25.28571429,6.39,NA
+"3028",105,"Acentrogobius sp",0,96.36,110,25.28571429,6.39,NA
+"3029",105,"Arothron hispidus",0,96.36,110,25.28571429,6.39,NA
+"3030",105,"Siganus vermiculatus",0,96.36,110,25.28571429,6.39,NA
+"3031",105,"Bostrychus sinensis",0,96.36,110,25.28571429,6.39,NA
+"3032",105,"Toxotes jaculatrix",0,96.36,110,25.28571429,6.39,NA
+"3033",105,"Strongylura leiura",0,96.36,110,25.28571429,6.39,NA
+"3034",105,"Liza macrolepsis",0,96.36,110,25.28571429,6.39,NA
+"3035",105,"Scatophagus argus",0,96.36,110,25.28571429,6.39,NA
+"3036",105,"Gerres limbatus",0,96.36,110,25.28571429,6.39,NA
+"3037",105,"Orange fish",0,96.36,110,25.28571429,6.39,NA
+"3038",105,"Apogonidae 3",0,96.36,110,25.28571429,6.39,NA
+"3039",105,"Lutjanus argentimaculatus",0,96.36,110,25.28571429,6.39,NA
+"3040",105,"Caranx sexfasciatus",0,96.36,110,25.28571429,6.39,NA
+"3041",105,"Sphaeramia orbicularis",0,96.36,110,25.28571429,6.39,NA
+"3042",105,"Chanos chanos",0,96.36,110,25.28571429,6.39,NA
+"3043",105,"Plectorhinchus gibbosus",0,96.36,110,25.28571429,6.39,NA
+"3044",105,"Lutjanus fulviflamma",0,96.36,110,25.28571429,6.39,NA
+"3045",105,"Tetradontidae",0,96.36,110,25.28571429,6.39,NA
+"3046",106,"Butis butis",0,76.86,60.2,13.57142857,88.87,NA
+"3047",106,"Halicampus grayii",0,76.86,60.2,13.57142857,88.87,NA
+"3048",106,"Apogon amboinensis",0,76.86,60.2,13.57142857,88.87,NA
+"3049",106,"Gobidae",0,76.86,60.2,13.57142857,88.87,NA
+"3050",106,"Apogon hyalosoma",0,76.86,60.2,13.57142857,88.87,NA
+"3051",106,"Eleotris fusca",0,76.86,60.2,13.57142857,88.87,NA
+"3052",106,"Zenarchopterus dispar",0,76.86,60.2,13.57142857,88.87,NA
+"3053",106,"Acentrogobius caninus",0,76.86,60.2,13.57142857,88.87,NA
+"3054",106,"Glosogobius",0,76.86,60.2,13.57142857,88.87,NA
+"3055",106,"Horaichthyidae",0,76.86,60.2,13.57142857,88.87,NA
+"3056",106,"Siganus lineatus",0,76.86,60.2,13.57142857,88.87,NA
+"3057",106,"Acentrogobius sp",0,76.86,60.2,13.57142857,88.87,NA
+"3058",106,"Arothron hispidus",0,76.86,60.2,13.57142857,88.87,NA
+"3059",106,"Siganus vermiculatus",0,76.86,60.2,13.57142857,88.87,NA
+"3060",106,"Bostrychus sinensis",0,76.86,60.2,13.57142857,88.87,NA
+"3061",106,"Toxotes jaculatrix",0,76.86,60.2,13.57142857,88.87,NA
+"3062",106,"Strongylura leiura",0,76.86,60.2,13.57142857,88.87,NA
+"3063",106,"Liza macrolepsis",0,76.86,60.2,13.57142857,88.87,NA
+"3064",106,"Scatophagus argus",0,76.86,60.2,13.57142857,88.87,NA
+"3065",106,"Gerres limbatus",0,76.86,60.2,13.57142857,88.87,NA
+"3066",106,"Orange fish",0,76.86,60.2,13.57142857,88.87,NA
+"3067",106,"Apogonidae 3",0,76.86,60.2,13.57142857,88.87,NA
+"3068",106,"Lutjanus argentimaculatus",0,76.86,60.2,13.57142857,88.87,NA
+"3069",106,"Caranx sexfasciatus",0,76.86,60.2,13.57142857,88.87,NA
+"3070",106,"Sphaeramia orbicularis",0,76.86,60.2,13.57142857,88.87,NA
+"3071",106,"Chanos chanos",0,76.86,60.2,13.57142857,88.87,NA
+"3072",106,"Plectorhinchus gibbosus",0,76.86,60.2,13.57142857,88.87,NA
+"3073",106,"Lutjanus fulviflamma",0,76.86,60.2,13.57142857,88.87,NA
+"3074",106,"Tetradontidae",0,76.86,60.2,13.57142857,88.87,NA
+"3075",107,"Butis butis",0,87.52,45.8,33.42857143,139.19,NA
+"3076",107,"Halicampus grayii",0,87.52,45.8,33.42857143,139.19,NA
+"3077",107,"Apogon amboinensis",0,87.52,45.8,33.42857143,139.19,NA
+"3078",107,"Gobidae",0,87.52,45.8,33.42857143,139.19,NA
+"3079",107,"Apogon hyalosoma",3,87.52,45.8,33.42857143,139.19,10.8
+"3080",107,"Eleotris fusca",0,87.52,45.8,33.42857143,139.19,NA
+"3081",107,"Zenarchopterus dispar",2,87.52,45.8,33.42857143,139.19,10.9
+"3082",107,"Acentrogobius caninus",0,87.52,45.8,33.42857143,139.19,NA
+"3083",107,"Glosogobius",0,87.52,45.8,33.42857143,139.19,NA
+"3084",107,"Horaichthyidae",0,87.52,45.8,33.42857143,139.19,NA
+"3085",107,"Siganus lineatus",0,87.52,45.8,33.42857143,139.19,NA
+"3086",107,"Acentrogobius sp",0,87.52,45.8,33.42857143,139.19,NA
+"3087",107,"Arothron hispidus",0,87.52,45.8,33.42857143,139.19,NA
+"3088",107,"Siganus vermiculatus",0,87.52,45.8,33.42857143,139.19,NA
+"3089",107,"Bostrychus sinensis",0,87.52,45.8,33.42857143,139.19,NA
+"3090",107,"Toxotes jaculatrix",0,87.52,45.8,33.42857143,139.19,NA
+"3091",107,"Strongylura leiura",0,87.52,45.8,33.42857143,139.19,NA
+"3092",107,"Liza macrolepsis",0,87.52,45.8,33.42857143,139.19,NA
+"3093",107,"Scatophagus argus",0,87.52,45.8,33.42857143,139.19,NA
+"3094",107,"Gerres limbatus",0,87.52,45.8,33.42857143,139.19,NA
+"3095",107,"Orange fish",0,87.52,45.8,33.42857143,139.19,NA
+"3096",107,"Apogonidae 3",0,87.52,45.8,33.42857143,139.19,NA
+"3097",107,"Lutjanus argentimaculatus",0,87.52,45.8,33.42857143,139.19,NA
+"3098",107,"Caranx sexfasciatus",0,87.52,45.8,33.42857143,139.19,NA
+"3099",107,"Sphaeramia orbicularis",0,87.52,45.8,33.42857143,139.19,NA
+"3100",107,"Chanos chanos",0,87.52,45.8,33.42857143,139.19,NA
+"3101",107,"Plectorhinchus gibbosus",0,87.52,45.8,33.42857143,139.19,NA
+"3102",107,"Lutjanus fulviflamma",0,87.52,45.8,33.42857143,139.19,NA
+"3103",107,"Tetradontidae",0,87.52,45.8,33.42857143,139.19,NA
+"3104",108,"Butis butis",0,86.22,48.3,17.28571429,114.97,NA
+"3105",108,"Halicampus grayii",0,86.22,48.3,17.28571429,114.97,NA
+"3106",108,"Apogon amboinensis",0,86.22,48.3,17.28571429,114.97,NA
+"3107",108,"Gobidae",0,86.22,48.3,17.28571429,114.97,NA
+"3108",108,"Apogon hyalosoma",0,86.22,48.3,17.28571429,114.97,NA
+"3109",108,"Eleotris fusca",0,86.22,48.3,17.28571429,114.97,NA
+"3110",108,"Zenarchopterus dispar",0,86.22,48.3,17.28571429,114.97,NA
+"3111",108,"Acentrogobius caninus",0,86.22,48.3,17.28571429,114.97,NA
+"3112",108,"Glosogobius",0,86.22,48.3,17.28571429,114.97,NA
+"3113",108,"Horaichthyidae",0,86.22,48.3,17.28571429,114.97,NA
+"3114",108,"Siganus lineatus",0,86.22,48.3,17.28571429,114.97,NA
+"3115",108,"Acentrogobius sp",0,86.22,48.3,17.28571429,114.97,NA
+"3116",108,"Arothron hispidus",0,86.22,48.3,17.28571429,114.97,NA
+"3117",108,"Siganus vermiculatus",0,86.22,48.3,17.28571429,114.97,NA
+"3118",108,"Bostrychus sinensis",0,86.22,48.3,17.28571429,114.97,NA
+"3119",108,"Toxotes jaculatrix",3,86.22,48.3,17.28571429,114.97,5.4
+"3120",108,"Strongylura leiura",0,86.22,48.3,17.28571429,114.97,NA
+"3121",108,"Liza macrolepsis",0,86.22,48.3,17.28571429,114.97,NA
+"3122",108,"Scatophagus argus",0,86.22,48.3,17.28571429,114.97,NA
+"3123",108,"Gerres limbatus",0,86.22,48.3,17.28571429,114.97,NA
+"3124",108,"Orange fish",0,86.22,48.3,17.28571429,114.97,NA
+"3125",108,"Apogonidae 3",0,86.22,48.3,17.28571429,114.97,NA
+"3126",108,"Lutjanus argentimaculatus",0,86.22,48.3,17.28571429,114.97,NA
+"3127",108,"Caranx sexfasciatus",0,86.22,48.3,17.28571429,114.97,NA
+"3128",108,"Sphaeramia orbicularis",0,86.22,48.3,17.28571429,114.97,NA
+"3129",108,"Chanos chanos",0,86.22,48.3,17.28571429,114.97,NA
+"3130",108,"Plectorhinchus gibbosus",0,86.22,48.3,17.28571429,114.97,NA
+"3131",108,"Lutjanus fulviflamma",0,86.22,48.3,17.28571429,114.97,NA
+"3132",108,"Tetradontidae",0,86.22,48.3,17.28571429,114.97,NA
+"3133",109,"Butis butis",0,79.72,52.3,16.42857143,71.16,NA
+"3134",109,"Halicampus grayii",0,79.72,52.3,16.42857143,71.16,NA
+"3135",109,"Apogon amboinensis",2,79.72,52.3,16.42857143,71.16,6.5
+"3136",109,"Gobidae",0,79.72,52.3,16.42857143,71.16,NA
+"3137",109,"Apogon hyalosoma",0,79.72,52.3,16.42857143,71.16,NA
+"3138",109,"Eleotris fusca",0,79.72,52.3,16.42857143,71.16,NA
+"3139",109,"Zenarchopterus dispar",2,79.72,52.3,16.42857143,71.16,11.45
+"3140",109,"Acentrogobius caninus",0,79.72,52.3,16.42857143,71.16,NA
+"3141",109,"Glosogobius",0,79.72,52.3,16.42857143,71.16,NA
+"3142",109,"Horaichthyidae",0,79.72,52.3,16.42857143,71.16,NA
+"3143",109,"Siganus lineatus",0,79.72,52.3,16.42857143,71.16,NA
+"3144",109,"Acentrogobius sp",0,79.72,52.3,16.42857143,71.16,NA
+"3145",109,"Arothron hispidus",0,79.72,52.3,16.42857143,71.16,NA
+"3146",109,"Siganus vermiculatus",0,79.72,52.3,16.42857143,71.16,NA
+"3147",109,"Bostrychus sinensis",0,79.72,52.3,16.42857143,71.16,NA
+"3148",109,"Toxotes jaculatrix",0,79.72,52.3,16.42857143,71.16,NA
+"3149",109,"Strongylura leiura",0,79.72,52.3,16.42857143,71.16,NA
+"3150",109,"Liza macrolepsis",0,79.72,52.3,16.42857143,71.16,NA
+"3151",109,"Scatophagus argus",0,79.72,52.3,16.42857143,71.16,NA
+"3152",109,"Gerres limbatus",0,79.72,52.3,16.42857143,71.16,NA
+"3153",109,"Orange fish",0,79.72,52.3,16.42857143,71.16,NA
+"3154",109,"Apogonidae 3",0,79.72,52.3,16.42857143,71.16,NA
+"3155",109,"Lutjanus argentimaculatus",0,79.72,52.3,16.42857143,71.16,NA
+"3156",109,"Caranx sexfasciatus",0,79.72,52.3,16.42857143,71.16,NA
+"3157",109,"Sphaeramia orbicularis",0,79.72,52.3,16.42857143,71.16,NA
+"3158",109,"Chanos chanos",0,79.72,52.3,16.42857143,71.16,NA
+"3159",109,"Plectorhinchus gibbosus",0,79.72,52.3,16.42857143,71.16,NA
+"3160",109,"Lutjanus fulviflamma",0,79.72,52.3,16.42857143,71.16,NA
+"3161",109,"Tetradontidae",0,79.72,52.3,16.42857143,71.16,NA
+"3162",110,"Butis butis",0,86.48,40.5,13.28571429,113.19,NA
+"3163",110,"Halicampus grayii",0,86.48,40.5,13.28571429,113.19,NA
+"3164",110,"Apogon amboinensis",0,86.48,40.5,13.28571429,113.19,NA
+"3165",110,"Gobidae",0,86.48,40.5,13.28571429,113.19,NA
+"3166",110,"Apogon hyalosoma",0,86.48,40.5,13.28571429,113.19,NA
+"3167",110,"Eleotris fusca",0,86.48,40.5,13.28571429,113.19,NA
+"3168",110,"Zenarchopterus dispar",0,86.48,40.5,13.28571429,113.19,NA
+"3169",110,"Acentrogobius caninus",0,86.48,40.5,13.28571429,113.19,NA
+"3170",110,"Glosogobius",0,86.48,40.5,13.28571429,113.19,NA
+"3171",110,"Horaichthyidae",0,86.48,40.5,13.28571429,113.19,NA
+"3172",110,"Siganus lineatus",0,86.48,40.5,13.28571429,113.19,NA
+"3173",110,"Acentrogobius sp",0,86.48,40.5,13.28571429,113.19,NA
+"3174",110,"Arothron hispidus",0,86.48,40.5,13.28571429,113.19,NA
+"3175",110,"Siganus vermiculatus",0,86.48,40.5,13.28571429,113.19,NA
+"3176",110,"Bostrychus sinensis",0,86.48,40.5,13.28571429,113.19,NA
+"3177",110,"Toxotes jaculatrix",0,86.48,40.5,13.28571429,113.19,NA
+"3178",110,"Strongylura leiura",0,86.48,40.5,13.28571429,113.19,NA
+"3179",110,"Liza macrolepsis",0,86.48,40.5,13.28571429,113.19,NA
+"3180",110,"Scatophagus argus",0,86.48,40.5,13.28571429,113.19,NA
+"3181",110,"Gerres limbatus",0,86.48,40.5,13.28571429,113.19,NA
+"3182",110,"Orange fish",0,86.48,40.5,13.28571429,113.19,NA
+"3183",110,"Apogonidae 3",0,86.48,40.5,13.28571429,113.19,NA
+"3184",110,"Lutjanus argentimaculatus",0,86.48,40.5,13.28571429,113.19,NA
+"3185",110,"Caranx sexfasciatus",0,86.48,40.5,13.28571429,113.19,NA
+"3186",110,"Sphaeramia orbicularis",0,86.48,40.5,13.28571429,113.19,NA
+"3187",110,"Chanos chanos",0,86.48,40.5,13.28571429,113.19,NA
+"3188",110,"Plectorhinchus gibbosus",0,86.48,40.5,13.28571429,113.19,NA
+"3189",110,"Lutjanus fulviflamma",0,86.48,40.5,13.28571429,113.19,NA
+"3190",110,"Tetradontidae",0,86.48,40.5,13.28571429,113.19,NA

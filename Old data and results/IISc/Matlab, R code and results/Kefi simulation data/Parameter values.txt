@@ -1,0 +1,52 @@
+In the top row of Fig. 2 (local interactions decreasing from left to right):
+m = 0.15
+b = 0.8
+d = 0.2
+c = 0.3
+r = 0.0001 
+
+In Fig. 2a,
+f = 0.52
+d = 0.58
+
+In Fig. 2b,
+f = 0.45
+d = 0.65
+
+In Fig. 2c,
+f = 0.4
+d = 0.7
+
+A qualitatively similar result is obtained if f is varied and d remains constant. 
+
+In the bottom row of Fig. 2 (grazing pressure increasing from left to right):
+d = 0.1
+b = 0.6
+f = 0.9
+d = 0.2
+c = 0.3
+r = 0.0001
+
+In Fig. 2d,
+m = 0.12
+
+In Fig. 2e,
+m = 0.13
+
+In Fig. 2f,
+m = 0.15
+
+A qualitatively similar result is obtained if aridity b is varied, with increasing aridity from left to right.
+
+InFig.3,
+r = 0.9
+d = 0.1
+c = 0.3
+d = 0.2
+r = 0.0001
+
+In Fig. 3a,
+m = 0.05
+
+In Fig. 3b,
+m = 0.1
